@@ -36,8 +36,9 @@ venthyrSoulbinds = {
     '3': 'General Draven'
 }
 #dps relevant conduits - id|category (0 generic, 1 beast_mastery, 2 marksmanship, 3 survival, 4 kyrian, 5 necro, 6 nf, 7 ven) tuples
-finesse = [['175', '0']]  #grounding surge
-potency = [
+baseFinesse = [['175', '0']]  #grounding surge
+alteredFinesse = baseFinesse
+basePotency = [
     ['137', '4'],  #Enfeebled Mark
     ['139', '7'],  #Empowered Release
     ['143', '5'],  #Necrotic Barrage
@@ -55,8 +56,9 @@ potency = [
     ['226', '3'],  #Stinging Strike
     ['224', '3'],  #Strength of the Pack
 ]
-endurance = [['', '0']]  #dummy to just make dealing with it later easier
-
+alteredPotency = basePotency
+baseEndurance = [['', '0']]  #dummy to just make dealing with it later easier
+alteredEndurance = baseEndurance
 
 def countConduits(path):
     potencyCount = 0
@@ -86,6 +88,7 @@ def conduitCombinatorics(condCount, conduitArray):
 
 def filterConduitArray(conduitArray, covenant, spec):
     numbersToRemove = []
+    print(numbersToRemove)
     if covenant == 'kyrian':  #remove 5/6/7
         numbersToRemove.extend(['5', '6', '7'])
     elif covenant == 'night_fae':  #remove 4/5/7
@@ -100,18 +103,29 @@ def filterConduitArray(conduitArray, covenant, spec):
         numbersToRemove.extend(['1', '3'])
     elif spec == 'survival':  #remove 1/2
         numbersToRemove.extend(['1', '2'])
-    for value in potency[:]:
+
+    print(numbersToRemove)
+    print(basePotency)
+
+    alteredPotency = basePotency
+    for value in basePotency[:]:
+        print(value)
         if value[1] in numbersToRemove:
-            potency.remove(value)
-    for value in finesse[:]:
+            alteredPotency.remove(value)
+
+    alteredFinesse = baseFinesse
+    for value in baseFinesse[:]:
         if value[1] in numbersToRemove:
-            finesse.remove(value)
-    for value in endurance[:]:
+            alteredFinesse.remove(value)
+
+    alteredEndurance = baseEndurance
+    for value in baseEndurance[:]:
         if value[1] in numbersToRemove:
-            endurance.remove(value)
-    [r.pop(1) for r in potency]
-    [r.pop(1) for r in finesse]
-    [r.pop(1) for r in endurance]
+            alteredEndurance.remove(value)
+
+    [r.pop(1) for r in alteredPotency]
+    [r.pop(1) for r in alteredFinesse]
+    [r.pop(1) for r in alteredEndurance]
 
 
 def replaceConduitText(path):
@@ -469,23 +483,57 @@ def buildGraph(soulbind):
 
 
 def main():
-    spec, covenant, soulbind, rank = getUserInputs()
+    printSpecific = input('Do you wish to print a specific combination? y/n \n')
+    if(printSpecific == 'y'):
+        spec, covenant, soulbind, rank = getUserInputs()
+        generateCombos(spec, covenant, soulbind, rank)
+    elif(printSpecific == 'n'):
+        rank = input('Which rank do you want the soulbinds to be?\n')
+        if int(rank) < 1 or int(rank) > 15:
+            print('Invalid rank selected.')
+            quit()
+        for specKey in specs:
+            spec = specs.get(specKey, None)
+            for covenantKey in covenants:
+                covenant = covenants.get(covenantKey, None)
+                if(covenant == 'kyrian'):
+                    for soulbindKey in kyrianSoulbinds:
+                        soulbind = kyrianSoulbinds.get(soulbindKey, None)
+                        print("Kyrian: " + spec + covenant + soulbind + rank)
+                        generateCombos(spec, covenant, soulbind, rank)
+                if(covenant == 'night_fae'):
+                    for soulbindKey in faeSoulbinds:
+                        soulbind = faeSoulbinds.get(soulbindKey, None)
+                        generateCombos(spec, covenant, soulbind, rank)
+                if(covenant == 'necrolord'):
+                    for soulbindKey in necroSoulbinds:
+                        soulbind = necroSoulbinds.get(soulbindKey, None)
+                        generateCombos(spec, covenant, soulbind, rank)
+                if(covenant == 'venthyr'): 
+                    for soulbindKey in venthyrSoulbinds:
+                        soulbind = venthyrSoulbinds.get(soulbindKey, None)
+                        generateCombos(spec, covenant, soulbind, rank)
+    else:
+        print("Invalid input, please choose y or n.")
+        quit()
+
+def generateCombos(spec, covenant, soulbind, rank):
     print('Generating Profiles for ' + spec + '_' + covenant + '_' + soulbind + '_' + 'rank' + rank)
     profile = ""
     with open(spec + '_' + covenant + '_' + soulbind + '_' + 'rank' + rank + '.simc', 'w') as outputfile:
         outputfile.write(
             "#Replace this with your desired base profile /simc etc \n\ncovenant="
             + covenant + "\n")
-        filterConduitArray([potency, finesse, endurance], covenant, spec)
+        filterConduitArray([basePotency, baseFinesse, baseEndurance], covenant, spec)
         soulbindGraph, paths = buildGraph(soulbind)
         for path in paths:
             conduitCount = countConduits(path)
             newPath = replaceConduitText(path)
             potencyCombos, finesseCombos, enduranceCombos = conduitCombinatorics(
                 conduitCount, [
-                    flattenList(potency),
-                    flattenList(finesse),
-                    flattenList(endurance)
+                    flattenList(alteredPotency),
+                    flattenList(alteredFinesse),
+                    flattenList(alteredEndurance)
                 ])
             potencyComboList = []
             finesseComboList = []
@@ -518,7 +566,6 @@ def main():
                                          '"+=soulbind=')
                         outputfile.write(profileToPrint + '\n')
     print('Finished. Please find output in output file.')
-
 
 if __name__ == "__main__":
     main()
