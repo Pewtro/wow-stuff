@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa53717e-7fb1-41c9-8825-cfe21e004e28" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SL-Conduit-Combinatorics/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/SL-Conduit-Combinatorics/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,7 @@
       <workItem from="1599133810355" duration="28000" />
       <workItem from="1599471654120" duration="1154000" />
       <workItem from="1599601365743" duration="16000" />
-      <workItem from="1599917708119" duration="2446000" />
+      <workItem from="1599917708119" duration="3128000" />
     </task>
     <servers />
   </component>

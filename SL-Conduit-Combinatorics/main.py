@@ -481,6 +481,7 @@ def main():
     if(printSpecific == 'y'):
         spec, covenant, soulbind, rank = getUserInputs()
         generateCombos(spec, covenant, soulbind, rank)
+        print('Finished. Please find output in relevant folder(s).')
     elif(printSpecific == 'n'):
         rank = input('Which rank do you want the soulbinds to be?\n')
         if int(rank) < 1 or int(rank) > 15:
@@ -506,6 +507,7 @@ def main():
                     for soulbindKey in venthyrSoulbinds:
                         soulbind = venthyrSoulbinds.get(soulbindKey, None)
                         generateCombos(spec, covenant, soulbind, rank)
+        print('Finished. Please find output in relevant folder(s).')
     else:
         print("Invalid input, please choose y or n.")
         quit()
@@ -565,7 +567,6 @@ def generateCombos(spec, covenant, soulbind, rank):
                         outputfile.write('profileset."' + profileToPrint +
                                          '"+=soulbind=')
                         outputfile.write(profileToPrint + '\n')
-    print('Finished. Please find output in output file.')
 
 if __name__ == "__main__":
     main()
