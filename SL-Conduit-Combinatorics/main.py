@@ -39,6 +39,7 @@ venthyrSoulbinds = {
 }
 #dps relevant conduits - id|category (0 generic, 1 beast_mastery, 2 marksmanship, 3 survival, 4 kyrian, 5 necro, 6 nf, 7 ven) tuples
 baseFinesse = [['175', '0']]  #Reversal of Fortune
+alteredFinesse = []
 basePotency = [
     ['137', '4'],  #Enfeebled Mark
     ['139', '7'],  #Empowered Release
@@ -57,7 +58,9 @@ basePotency = [
     ['226', '3'],  #Stinging Strike
     ['224', '3'],  #Strength of the Pack
 ]
+alteredPotency = []
 baseEndurance = [['', '0']]  #dummy to just make dealing with it later easier
+alteredEndurance = []
 
 def countConduits(path):
     potencyCount = 0
@@ -104,19 +107,19 @@ def filterConduitArray(potency, finesse, endurance, covenant, spec):
 
     for value in potency[:]:
         if value[1] in numbersToRemove:
-            basePotency.remove(value)
+            potency.remove(value)
 
     for value in finesse[:]:
         if value[1] in numbersToRemove:
-            baseFinesse.remove(value)
+            finesse.remove(value)
 
     for value in endurance[:]:
         if value[1] in numbersToRemove:
-            baseEndurance.remove(value)
+            endurance.remove(value)
 
-    [r.pop(1) for r in basePotency]
-    [r.pop(1) for r in baseFinesse]
-    [r.pop(1) for r in baseEndurance]
+    [r.pop(1) for r in potency]
+    [r.pop(1) for r in finesse]
+    [r.pop(1) for r in endurance]
 
 
 def replaceConduitText(path):
@@ -514,16 +517,23 @@ def generateCombos(spec, covenant, soulbind, rank):
         outputfile.write(
             "#Replace this with your desired base profile /simc etc \n\ncovenant="
             + covenant + "\n")
-        filterConduitArray(basePotency, baseFinesse, baseEndurance, covenant, spec)
+
+        alteredPotency = deepcopy(basePotency)
+        alteredEndurance = deepcopy(baseEndurance)
+        alteredFinesse = deepcopy(baseFinesse)
+
+        filterConduitArray(alteredPotency, alteredFinesse, alteredEndurance, covenant, spec)
+
         soulbindGraph, paths = buildGraph(soulbind)
+
         for path in paths:
             conduitCount = countConduits(path)
             newPath = replaceConduitText(path)
             potencyCombos, finesseCombos, enduranceCombos = conduitCombinatorics(
                 conduitCount, [
-                    flattenList(basePotency),
-                    flattenList(baseFinesse),
-                    flattenList(baseEndurance)
+                    flattenList(alteredPotency),
+                    flattenList(alteredFinesse),
+                    flattenList(alteredEndurance)
                 ])
             potencyComboList = []
             finesseComboList = []
