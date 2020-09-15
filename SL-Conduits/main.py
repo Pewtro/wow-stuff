@@ -1,6 +1,7 @@
 import networkx as nx
 from itertools import combinations
 from copy import deepcopy
+import csv
 
 #----------------------------------------------------------------------------
 #Hit run at the top of the page. Follow on-screen instructions bottom right
@@ -133,6 +134,15 @@ def replaceConduitText(path):
 def flattenList(l):
     return [item for sublist in l for item in sublist]
 
+def insertAbbreviatedSoulbindName(nameString):
+    with open("soulbind_lookup.txt", mode='r') as csvLookup:
+        csvReader = csv.reader(csvLookup)
+        for row in csvReader:
+            if int(row[0]) >= 1000:
+                nameString = nameString.replace(row[0], row[1])
+            else:
+                nameString = nameString.replace(row[0]+":", row[1]+":")
+    return nameString
 
 def getUserInputs():
     print('Please enter number for spec:')
@@ -564,7 +574,8 @@ def generateCombos(spec, covenant, soulbind, rank):
                                 profileToPrint += endCond + ":" + rank + "/"
                         if (profileToPrint[-1] == '/'):
                             profileToPrint = profileToPrint[:-1]
-                        outputfile.write('profileset."' + profileToPrint +
+                        nameToPrint = insertAbbreviatedSoulbindName(profileToPrint)
+                        outputfile.write('profileset."' + nameToPrint +
                                          '"+=soulbind=')
                         outputfile.write(profileToPrint + '\n')
 

@@ -1,7 +1,6 @@
 ########################################################################################
 #Edit this section then click run and paste the output into simc
 ########################################################################################
-#The spec you wish to compare talents for (lower case)
 #spec lookup dict
 specs = {'1': 'beast_mastery', '2': 'marksmanship', '3': 'survival'}
 ########################################################################################
