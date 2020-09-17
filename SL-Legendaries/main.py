@@ -87,7 +87,6 @@ def getKeyList(dict):
 def generateLegendaries(spec, genericSelection, ilvlSelection, profileName, sameSlotWanted, sameSlotSelection, firstStatSelection, secondStatSelection):
     generatedProfile = ''
     statBonusIDS = '/' + str(firstStatSelection) + '/' + str(secondStatSelection)
-    print(statBonusIDS)
     if(spec == 'beast_mastery'):
         for legendary in beastMasteryLegendaries:
             ## First variation of the legendary
