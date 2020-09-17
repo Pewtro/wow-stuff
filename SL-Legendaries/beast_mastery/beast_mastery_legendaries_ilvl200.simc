@@ -7,28 +7,28 @@ chart_show_relative_difference=1
 
 
 copy=Dire Command_chest,beast_mastery_legendaries
-chest=,id=172322,bonus_id=7007,ilevel=200
+chest=,id=172322,bonus_id=7007/6647/6649,ilevel=200
 
 copy=Dire Command_finger1,beast_mastery_legendaries
-finger1=,id=178926,bonus_id=7007,ilevel=200
+finger1=,id=178926,bonus_id=7007/6647/6649,ilevel=200
 
 copy=Flamewaker's Cobra Sting_legs,beast_mastery_legendaries
-legs=,id=172326,bonus_id=7008,ilevel=200
+legs=,id=172326,bonus_id=7008/6647/6649,ilevel=200
 
 copy=Flamewaker's Cobra Sting_feet,beast_mastery_legendaries
-feet=,id=172323,bonus_id=7008,ilevel=200
+feet=,id=172323,bonus_id=7008/6647/6649,ilevel=200
 
 copy=Qa'pla Eredun War Order_shoulder,beast_mastery_legendaries
-shoulder=,id=172327,bonus_id=7009,ilevel=200
+shoulder=,id=172327,bonus_id=7009/6647/6649,ilevel=200
 
 copy=Qa'pla Eredun War Order_hands,beast_mastery_legendaries
-hands=,id=172324,bonus_id=7009,ilevel=200
+hands=,id=172324,bonus_id=7009/6647/6649,ilevel=200
 
 copy=Rylakstalker's Piercing Fangs_feet,beast_mastery_legendaries
-feet=,id=172323,bonus_id=7010,ilevel=200
+feet=,id=172323,bonus_id=7010/6647/6649,ilevel=200
 
 copy=Rylakstalker's Piercing Fangs_back,beast_mastery_legendaries
-back=,id=173242,bonus_id=7010,ilevel=200
+back=,id=173242,bonus_id=7010/6647/6649,ilevel=200
 
 copy=Call of the Wild_wrist,beast_mastery_legendaries
 wrist=,id=172329,bonus_id=7003,ilevel=200

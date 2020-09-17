@@ -84,20 +84,22 @@ def getKeyList(dict):
         list.append(key)
     return list
 
-def generateLegendaries(spec, genericSelection, ilvlSelection, profileName, sameSlotWanted, sameSlotSelection):
+def generateLegendaries(spec, genericSelection, ilvlSelection, profileName, sameSlotWanted, sameSlotSelection, firstStatSelection, secondStatSelection):
     generatedProfile = ''
+    statBonusIDS = '/' + str(firstStatSelection) + '/' + str(secondStatSelection)
+    print(statBonusIDS)
     if(spec == 'beast_mastery'):
         for legendary in beastMasteryLegendaries:
             ## First variation of the legendary
             firstLegSlot = sameSlotSelection if sameSlotWanted == 'y' else beastMasteryLegendaries[legendary][2]
 
             generatedProfile += f"copy={beastMasteryLegendaries[legendary][1]}_{firstLegSlot},{profileName}\n"
-            generatedProfile += f"{firstLegSlot}=,id={slotIds[firstLegSlot]},bonus_id={beastMasteryLegendaries[legendary][0]},ilevel={ilvlSelection}\n\n"
+            generatedProfile += f"{firstLegSlot}=,id={slotIds[firstLegSlot]},bonus_id={beastMasteryLegendaries[legendary][0]}{statBonusIDS},ilevel={ilvlSelection}\n\n"
 
             ## Second variation of the legendary
             secondLegSlot = sameSlotSelection if sameSlotWanted == 'y' else beastMasteryLegendaries[legendary][3]
             generatedProfile += f"copy={beastMasteryLegendaries[legendary][1]}_{secondLegSlot},{profileName}\n"
-            generatedProfile += f"{secondLegSlot}=,id={slotIds[secondLegSlot]},bonus_id={beastMasteryLegendaries[legendary][0]},ilevel={ilvlSelection}\n\n"
+            generatedProfile += f"{secondLegSlot}=,id={slotIds[secondLegSlot]},bonus_id={beastMasteryLegendaries[legendary][0]}{statBonusIDS},ilevel={ilvlSelection}\n\n"
 
     elif(spec == 'marksmanship'):
         for legendary in marksmanshipLegendaries:
@@ -157,14 +159,26 @@ def main():
     ilvlSelection = input()
     ilvlSelection = int(ilvlSelection)
 
-    #print("Which first stat should the legendary have?")
-    #firstStatSelection = input()
+    print("Do you want to set stats on the legendaries? y/n")
+    wantStats = input()
 
-    #POP SOME THINGS IN THE STATS SO AS TO NOT SELECT DOUBLT OF THE SAME?
+    firstStatSelection = ''
+    secondStatSelection = ''
 
-    #print("Which second stat should the legendary have?")
-    #secondStatSelection = input()
+    if wantStats == 'y':
+        print("Which first stat should the legendary have?")
+        for stat in statIDs:
+            print(stat, statIDs[stat][1])
+        firstStatSelection = input()
 
+        print("Which second stat should the legendary have?")
+        for stat in statIDs:
+            if(firstStatSelection == stat):
+                continue
+            print(stat, statIDs[stat][1])
+        secondStatSelection = input()
+        firstStatSelection = statIDs[firstStatSelection][0]
+        secondStatSelection = statIDs[secondStatSelection][0]
     print("Do you want to generate in same slot? y/n")
     sameSlotWanted = input()
 
@@ -191,7 +205,7 @@ def main():
 
         writeProfile = ''
 
-        writeProfile += generateLegendaries(spec, genericSelection, ilvlSelection, profileName, sameSlotWanted, sameSlotSelection)
+        writeProfile += generateLegendaries(spec, genericSelection, ilvlSelection, profileName, sameSlotWanted, sameSlotSelection, firstStatSelection, secondStatSelection)
 
         outputfile.write(writeProfile)
     print('Finished. Please find output in output file.')
