@@ -1,103 +1,103 @@
 #Replace this with your desired base profile /simc etc 
 
 covenant=night_fae
-profileset."HotWH/FYFoes/VSTechn/WHTactics/1IoAsc:1/183:1/185:1"+=soulbind=325067/325068/325072/325066/140:1/183:1/185:1
-profileset."HotWH/FYFoes/VSTechn/WHTactics/1IoAsc:1/183:1/2FAccretion:1"+=soulbind=325067/325068/325072/325066/140:1/183:1/253:1
-profileset."HotWH/FYFoes/VSTechn/WHTactics/1IoAsc:1/183:1/223:1"+=soulbind=325067/325068/325072/325066/140:1/183:1/223:1
-profileset."HotWH/FYFoes/VSTechn/WHTactics/1IoAsc:1/185:1/2FAccretion:1"+=soulbind=325067/325068/325072/325066/140:1/185:1/253:1
-profileset."HotWH/FYFoes/VSTechn/WHTactics/1IoAsc:1/185:1/223:1"+=soulbind=325067/325068/325072/325066/140:1/185:1/223:1
-profileset."HotWH/FYFoes/VSTechn/WHTactics/1IoAsc:1/2FAccretion:1/223:1"+=soulbind=325067/325068/325072/325066/140:1/253:1/223:1
-profileset."HotWH/FYFoes/VSTechn/WHTactics/183:1/185:1/2FAccretion:1"+=soulbind=325067/325068/325072/325066/183:1/185:1/253:1
-profileset."HotWH/FYFoes/VSTechn/WHTactics/183:1/185:1/223:1"+=soulbind=325067/325068/325072/325066/183:1/185:1/223:1
-profileset."HotWH/FYFoes/VSTechn/WHTactics/183:1/2FAccretion:1/223:1"+=soulbind=325067/325068/325072/325066/183:1/253:1/223:1
-profileset."HotWH/FYFoes/VSTechn/WHTactics/185:1/2FAccretion:1/223:1"+=soulbind=325067/325068/325072/325066/185:1/253:1/223:1
-profileset."HotWH/FYFoes/GIForm/WHTactics/1IoAsc:1/183:1/185:1"+=soulbind=325067/325068/325073/325066/140:1/183:1/185:1
-profileset."HotWH/FYFoes/GIForm/WHTactics/1IoAsc:1/183:1/2FAccretion:1"+=soulbind=325067/325068/325073/325066/140:1/183:1/253:1
-profileset."HotWH/FYFoes/GIForm/WHTactics/1IoAsc:1/183:1/223:1"+=soulbind=325067/325068/325073/325066/140:1/183:1/223:1
-profileset."HotWH/FYFoes/GIForm/WHTactics/1IoAsc:1/185:1/2FAccretion:1"+=soulbind=325067/325068/325073/325066/140:1/185:1/253:1
-profileset."HotWH/FYFoes/GIForm/WHTactics/1IoAsc:1/185:1/223:1"+=soulbind=325067/325068/325073/325066/140:1/185:1/223:1
-profileset."HotWH/FYFoes/GIForm/WHTactics/1IoAsc:1/2FAccretion:1/223:1"+=soulbind=325067/325068/325073/325066/140:1/253:1/223:1
-profileset."HotWH/FYFoes/GIForm/WHTactics/183:1/185:1/2FAccretion:1"+=soulbind=325067/325068/325073/325066/183:1/185:1/253:1
-profileset."HotWH/FYFoes/GIForm/WHTactics/183:1/185:1/223:1"+=soulbind=325067/325068/325073/325066/183:1/185:1/223:1
-profileset."HotWH/FYFoes/GIForm/WHTactics/183:1/2FAccretion:1/223:1"+=soulbind=325067/325068/325073/325066/183:1/253:1/223:1
-profileset."HotWH/FYFoes/GIForm/WHTactics/185:1/2FAccretion:1/223:1"+=soulbind=325067/325068/325073/325066/185:1/253:1/223:1
-profileset."HotWH/FStrike/VSTechn/WHTactics/1IoAsc:1/183:1"+=soulbind=325067/325069/325072/325066/140:1/183:1
-profileset."HotWH/FStrike/VSTechn/WHTactics/1IoAsc:1/185:1"+=soulbind=325067/325069/325072/325066/140:1/185:1
-profileset."HotWH/FStrike/VSTechn/WHTactics/1IoAsc:1/2FAccretion:1"+=soulbind=325067/325069/325072/325066/140:1/253:1
-profileset."HotWH/FStrike/VSTechn/WHTactics/1IoAsc:1/223:1"+=soulbind=325067/325069/325072/325066/140:1/223:1
-profileset."HotWH/FStrike/VSTechn/WHTactics/183:1/185:1"+=soulbind=325067/325069/325072/325066/183:1/185:1
-profileset."HotWH/FStrike/VSTechn/WHTactics/183:1/2FAccretion:1"+=soulbind=325067/325069/325072/325066/183:1/253:1
-profileset."HotWH/FStrike/VSTechn/WHTactics/183:1/223:1"+=soulbind=325067/325069/325072/325066/183:1/223:1
-profileset."HotWH/FStrike/VSTechn/WHTactics/185:1/2FAccretion:1"+=soulbind=325067/325069/325072/325066/185:1/253:1
-profileset."HotWH/FStrike/VSTechn/WHTactics/185:1/223:1"+=soulbind=325067/325069/325072/325066/185:1/223:1
-profileset."HotWH/FStrike/VSTechn/WHTactics/2FAccretion:1/223:1"+=soulbind=325067/325069/325072/325066/253:1/223:1
-profileset."HotWH/FStrike/GIForm/WHTactics/1IoAsc:1/183:1"+=soulbind=325067/325069/325073/325066/140:1/183:1
-profileset."HotWH/FStrike/GIForm/WHTactics/1IoAsc:1/185:1"+=soulbind=325067/325069/325073/325066/140:1/185:1
-profileset."HotWH/FStrike/GIForm/WHTactics/1IoAsc:1/2FAccretion:1"+=soulbind=325067/325069/325073/325066/140:1/253:1
-profileset."HotWH/FStrike/GIForm/WHTactics/1IoAsc:1/223:1"+=soulbind=325067/325069/325073/325066/140:1/223:1
-profileset."HotWH/FStrike/GIForm/WHTactics/183:1/185:1"+=soulbind=325067/325069/325073/325066/183:1/185:1
-profileset."HotWH/FStrike/GIForm/WHTactics/183:1/2FAccretion:1"+=soulbind=325067/325069/325073/325066/183:1/253:1
-profileset."HotWH/FStrike/GIForm/WHTactics/183:1/223:1"+=soulbind=325067/325069/325073/325066/183:1/223:1
-profileset."HotWH/FStrike/GIForm/WHTactics/185:1/2FAccretion:1"+=soulbind=325067/325069/325073/325066/185:1/253:1
-profileset."HotWH/FStrike/GIForm/WHTactics/185:1/223:1"+=soulbind=325067/325069/325073/325066/185:1/223:1
-profileset."HotWH/FStrike/GIForm/WHTactics/2FAccretion:1/223:1"+=soulbind=325067/325069/325073/325066/253:1/223:1
-profileset."HotWH/HtLine/VSTechn/WHTactics/1IoAsc:1/183:1/175:1"+=soulbind=325067/325601/325072/325066/140:1/183:1/175:1
-profileset."HotWH/HtLine/VSTechn/WHTactics/1IoAsc:1/185:1/175:1"+=soulbind=325067/325601/325072/325066/140:1/185:1/175:1
-profileset."HotWH/HtLine/VSTechn/WHTactics/1IoAsc:1/2FAccretion:1/175:1"+=soulbind=325067/325601/325072/325066/140:1/253:1/175:1
-profileset."HotWH/HtLine/VSTechn/WHTactics/1IoAsc:1/223:1/175:1"+=soulbind=325067/325601/325072/325066/140:1/223:1/175:1
-profileset."HotWH/HtLine/VSTechn/WHTactics/183:1/185:1/175:1"+=soulbind=325067/325601/325072/325066/183:1/185:1/175:1
-profileset."HotWH/HtLine/VSTechn/WHTactics/183:1/2FAccretion:1/175:1"+=soulbind=325067/325601/325072/325066/183:1/253:1/175:1
-profileset."HotWH/HtLine/VSTechn/WHTactics/183:1/223:1/175:1"+=soulbind=325067/325601/325072/325066/183:1/223:1/175:1
-profileset."HotWH/HtLine/VSTechn/WHTactics/185:1/2FAccretion:1/175:1"+=soulbind=325067/325601/325072/325066/185:1/253:1/175:1
-profileset."HotWH/HtLine/VSTechn/WHTactics/185:1/223:1/175:1"+=soulbind=325067/325601/325072/325066/185:1/223:1/175:1
-profileset."HotWH/HtLine/VSTechn/WHTactics/2FAccretion:1/223:1/175:1"+=soulbind=325067/325601/325072/325066/253:1/223:1/175:1
-profileset."HotWH/HtLine/GIForm/WHTactics/1IoAsc:1/183:1/175:1"+=soulbind=325067/325601/325073/325066/140:1/183:1/175:1
-profileset."HotWH/HtLine/GIForm/WHTactics/1IoAsc:1/185:1/175:1"+=soulbind=325067/325601/325073/325066/140:1/185:1/175:1
-profileset."HotWH/HtLine/GIForm/WHTactics/1IoAsc:1/2FAccretion:1/175:1"+=soulbind=325067/325601/325073/325066/140:1/253:1/175:1
-profileset."HotWH/HtLine/GIForm/WHTactics/1IoAsc:1/223:1/175:1"+=soulbind=325067/325601/325073/325066/140:1/223:1/175:1
-profileset."HotWH/HtLine/GIForm/WHTactics/183:1/185:1/175:1"+=soulbind=325067/325601/325073/325066/183:1/185:1/175:1
-profileset."HotWH/HtLine/GIForm/WHTactics/183:1/2FAccretion:1/175:1"+=soulbind=325067/325601/325073/325066/183:1/253:1/175:1
-profileset."HotWH/HtLine/GIForm/WHTactics/183:1/223:1/175:1"+=soulbind=325067/325601/325073/325066/183:1/223:1/175:1
-profileset."HotWH/HtLine/GIForm/WHTactics/185:1/2FAccretion:1/175:1"+=soulbind=325067/325601/325073/325066/185:1/253:1/175:1
-profileset."HotWH/HtLine/GIForm/WHTactics/185:1/223:1/175:1"+=soulbind=325067/325601/325073/325066/185:1/223:1/175:1
-profileset."HotWH/HtLine/GIForm/WHTactics/2FAccretion:1/223:1/175:1"+=soulbind=325067/325601/325073/325066/253:1/223:1/175:1
-profileset."WHCharge/FYFoes/VSTechn/WHTactics/1IoAsc:1/183:1/175:1"+=soulbind=325065/325068/325072/325066/140:1/183:1/175:1
-profileset."WHCharge/FYFoes/VSTechn/WHTactics/1IoAsc:1/185:1/175:1"+=soulbind=325065/325068/325072/325066/140:1/185:1/175:1
-profileset."WHCharge/FYFoes/VSTechn/WHTactics/1IoAsc:1/2FAccretion:1/175:1"+=soulbind=325065/325068/325072/325066/140:1/253:1/175:1
-profileset."WHCharge/FYFoes/VSTechn/WHTactics/1IoAsc:1/223:1/175:1"+=soulbind=325065/325068/325072/325066/140:1/223:1/175:1
-profileset."WHCharge/FYFoes/VSTechn/WHTactics/183:1/185:1/175:1"+=soulbind=325065/325068/325072/325066/183:1/185:1/175:1
-profileset."WHCharge/FYFoes/VSTechn/WHTactics/183:1/2FAccretion:1/175:1"+=soulbind=325065/325068/325072/325066/183:1/253:1/175:1
-profileset."WHCharge/FYFoes/VSTechn/WHTactics/183:1/223:1/175:1"+=soulbind=325065/325068/325072/325066/183:1/223:1/175:1
-profileset."WHCharge/FYFoes/VSTechn/WHTactics/185:1/2FAccretion:1/175:1"+=soulbind=325065/325068/325072/325066/185:1/253:1/175:1
-profileset."WHCharge/FYFoes/VSTechn/WHTactics/185:1/223:1/175:1"+=soulbind=325065/325068/325072/325066/185:1/223:1/175:1
-profileset."WHCharge/FYFoes/VSTechn/WHTactics/2FAccretion:1/223:1/175:1"+=soulbind=325065/325068/325072/325066/253:1/223:1/175:1
-profileset."WHCharge/FYFoes/GIForm/WHTactics/1IoAsc:1/183:1/175:1"+=soulbind=325065/325068/325073/325066/140:1/183:1/175:1
-profileset."WHCharge/FYFoes/GIForm/WHTactics/1IoAsc:1/185:1/175:1"+=soulbind=325065/325068/325073/325066/140:1/185:1/175:1
-profileset."WHCharge/FYFoes/GIForm/WHTactics/1IoAsc:1/2FAccretion:1/175:1"+=soulbind=325065/325068/325073/325066/140:1/253:1/175:1
-profileset."WHCharge/FYFoes/GIForm/WHTactics/1IoAsc:1/223:1/175:1"+=soulbind=325065/325068/325073/325066/140:1/223:1/175:1
-profileset."WHCharge/FYFoes/GIForm/WHTactics/183:1/185:1/175:1"+=soulbind=325065/325068/325073/325066/183:1/185:1/175:1
-profileset."WHCharge/FYFoes/GIForm/WHTactics/183:1/2FAccretion:1/175:1"+=soulbind=325065/325068/325073/325066/183:1/253:1/175:1
-profileset."WHCharge/FYFoes/GIForm/WHTactics/183:1/223:1/175:1"+=soulbind=325065/325068/325073/325066/183:1/223:1/175:1
-profileset."WHCharge/FYFoes/GIForm/WHTactics/185:1/2FAccretion:1/175:1"+=soulbind=325065/325068/325073/325066/185:1/253:1/175:1
-profileset."WHCharge/FYFoes/GIForm/WHTactics/185:1/223:1/175:1"+=soulbind=325065/325068/325073/325066/185:1/223:1/175:1
-profileset."WHCharge/FYFoes/GIForm/WHTactics/2FAccretion:1/223:1/175:1"+=soulbind=325065/325068/325073/325066/253:1/223:1/175:1
-profileset."WHCharge/FStrike/VSTechn/WHTactics/1IoAsc:1/175:1"+=soulbind=325065/325069/325072/325066/140:1/175:1
-profileset."WHCharge/FStrike/VSTechn/WHTactics/183:1/175:1"+=soulbind=325065/325069/325072/325066/183:1/175:1
-profileset."WHCharge/FStrike/VSTechn/WHTactics/185:1/175:1"+=soulbind=325065/325069/325072/325066/185:1/175:1
-profileset."WHCharge/FStrike/VSTechn/WHTactics/2FAccretion:1/175:1"+=soulbind=325065/325069/325072/325066/253:1/175:1
-profileset."WHCharge/FStrike/VSTechn/WHTactics/223:1/175:1"+=soulbind=325065/325069/325072/325066/223:1/175:1
-profileset."WHCharge/FStrike/GIForm/WHTactics/1IoAsc:1/175:1"+=soulbind=325065/325069/325073/325066/140:1/175:1
-profileset."WHCharge/FStrike/GIForm/WHTactics/183:1/175:1"+=soulbind=325065/325069/325073/325066/183:1/175:1
-profileset."WHCharge/FStrike/GIForm/WHTactics/185:1/175:1"+=soulbind=325065/325069/325073/325066/185:1/175:1
-profileset."WHCharge/FStrike/GIForm/WHTactics/2FAccretion:1/175:1"+=soulbind=325065/325069/325073/325066/253:1/175:1
-profileset."WHCharge/FStrike/GIForm/WHTactics/223:1/175:1"+=soulbind=325065/325069/325073/325066/223:1/175:1
-profileset."WHCharge/HtLine/VSTechn/WHTactics/1IoAsc:1/175:1"+=soulbind=325065/325601/325072/325066/140:1/175:1
-profileset."WHCharge/HtLine/VSTechn/WHTactics/183:1/175:1"+=soulbind=325065/325601/325072/325066/183:1/175:1
-profileset."WHCharge/HtLine/VSTechn/WHTactics/185:1/175:1"+=soulbind=325065/325601/325072/325066/185:1/175:1
-profileset."WHCharge/HtLine/VSTechn/WHTactics/2FAccretion:1/175:1"+=soulbind=325065/325601/325072/325066/253:1/175:1
-profileset."WHCharge/HtLine/VSTechn/WHTactics/223:1/175:1"+=soulbind=325065/325601/325072/325066/223:1/175:1
-profileset."WHCharge/HtLine/GIForm/WHTactics/1IoAsc:1/175:1"+=soulbind=325065/325601/325073/325066/140:1/175:1
-profileset."WHCharge/HtLine/GIForm/WHTactics/183:1/175:1"+=soulbind=325065/325601/325073/325066/183:1/175:1
-profileset."WHCharge/HtLine/GIForm/WHTactics/185:1/175:1"+=soulbind=325065/325601/325073/325066/185:1/175:1
-profileset."WHCharge/HtLine/GIForm/WHTactics/2FAccretion:1/175:1"+=soulbind=325065/325601/325073/325066/253:1/175:1
-profileset."WHCharge/HtLine/GIForm/WHTactics/223:1/175:1"+=soulbind=325065/325601/325073/325066/223:1/175:1
+profileset."HotWH/FYFoes/VSTechn/WHTactics/ SAttunement:1/ FAppetite:1/ OWTB:1"+=soulbind=325067/325068/325072/325066/140:1/183:1/185:1
+profileset."HotWH/FYFoes/VSTechn/WHTactics/ SAttunement:1/ FAppetite:1/ Bloodlet:1"+=soulbind=325067/325068/325072/325066/140:1/183:1/253:1
+profileset."HotWH/FYFoes/VSTechn/WHTactics/ SAttunement:1/ FAppetite:1/ ECall:1"+=soulbind=325067/325068/325072/325066/140:1/183:1/223:1
+profileset."HotWH/FYFoes/VSTechn/WHTactics/ SAttunement:1/ OWTB:1/ Bloodlet:1"+=soulbind=325067/325068/325072/325066/140:1/185:1/253:1
+profileset."HotWH/FYFoes/VSTechn/WHTactics/ SAttunement:1/ OWTB:1/ ECall:1"+=soulbind=325067/325068/325072/325066/140:1/185:1/223:1
+profileset."HotWH/FYFoes/VSTechn/WHTactics/ SAttunement:1/ Bloodlet:1/ ECall:1"+=soulbind=325067/325068/325072/325066/140:1/253:1/223:1
+profileset."HotWH/FYFoes/VSTechn/WHTactics/ FAppetite:1/ OWTB:1/ Bloodlet:1"+=soulbind=325067/325068/325072/325066/183:1/185:1/253:1
+profileset."HotWH/FYFoes/VSTechn/WHTactics/ FAppetite:1/ OWTB:1/ ECall:1"+=soulbind=325067/325068/325072/325066/183:1/185:1/223:1
+profileset."HotWH/FYFoes/VSTechn/WHTactics/ FAppetite:1/ Bloodlet:1/ ECall:1"+=soulbind=325067/325068/325072/325066/183:1/253:1/223:1
+profileset."HotWH/FYFoes/VSTechn/WHTactics/ OWTB:1/ Bloodlet:1/ ECall:1"+=soulbind=325067/325068/325072/325066/185:1/253:1/223:1
+profileset."HotWH/FYFoes/GIForm/WHTactics/ SAttunement:1/ FAppetite:1/ OWTB:1"+=soulbind=325067/325068/325073/325066/140:1/183:1/185:1
+profileset."HotWH/FYFoes/GIForm/WHTactics/ SAttunement:1/ FAppetite:1/ Bloodlet:1"+=soulbind=325067/325068/325073/325066/140:1/183:1/253:1
+profileset."HotWH/FYFoes/GIForm/WHTactics/ SAttunement:1/ FAppetite:1/ ECall:1"+=soulbind=325067/325068/325073/325066/140:1/183:1/223:1
+profileset."HotWH/FYFoes/GIForm/WHTactics/ SAttunement:1/ OWTB:1/ Bloodlet:1"+=soulbind=325067/325068/325073/325066/140:1/185:1/253:1
+profileset."HotWH/FYFoes/GIForm/WHTactics/ SAttunement:1/ OWTB:1/ ECall:1"+=soulbind=325067/325068/325073/325066/140:1/185:1/223:1
+profileset."HotWH/FYFoes/GIForm/WHTactics/ SAttunement:1/ Bloodlet:1/ ECall:1"+=soulbind=325067/325068/325073/325066/140:1/253:1/223:1
+profileset."HotWH/FYFoes/GIForm/WHTactics/ FAppetite:1/ OWTB:1/ Bloodlet:1"+=soulbind=325067/325068/325073/325066/183:1/185:1/253:1
+profileset."HotWH/FYFoes/GIForm/WHTactics/ FAppetite:1/ OWTB:1/ ECall:1"+=soulbind=325067/325068/325073/325066/183:1/185:1/223:1
+profileset."HotWH/FYFoes/GIForm/WHTactics/ FAppetite:1/ Bloodlet:1/ ECall:1"+=soulbind=325067/325068/325073/325066/183:1/253:1/223:1
+profileset."HotWH/FYFoes/GIForm/WHTactics/ OWTB:1/ Bloodlet:1/ ECall:1"+=soulbind=325067/325068/325073/325066/185:1/253:1/223:1
+profileset."HotWH/FStrike/VSTechn/WHTactics/ SAttunement:1/ FAppetite:1"+=soulbind=325067/325069/325072/325066/140:1/183:1
+profileset."HotWH/FStrike/VSTechn/WHTactics/ SAttunement:1/ OWTB:1"+=soulbind=325067/325069/325072/325066/140:1/185:1
+profileset."HotWH/FStrike/VSTechn/WHTactics/ SAttunement:1/ Bloodlet:1"+=soulbind=325067/325069/325072/325066/140:1/253:1
+profileset."HotWH/FStrike/VSTechn/WHTactics/ SAttunement:1/ ECall:1"+=soulbind=325067/325069/325072/325066/140:1/223:1
+profileset."HotWH/FStrike/VSTechn/WHTactics/ FAppetite:1/ OWTB:1"+=soulbind=325067/325069/325072/325066/183:1/185:1
+profileset."HotWH/FStrike/VSTechn/WHTactics/ FAppetite:1/ Bloodlet:1"+=soulbind=325067/325069/325072/325066/183:1/253:1
+profileset."HotWH/FStrike/VSTechn/WHTactics/ FAppetite:1/ ECall:1"+=soulbind=325067/325069/325072/325066/183:1/223:1
+profileset."HotWH/FStrike/VSTechn/WHTactics/ OWTB:1/ Bloodlet:1"+=soulbind=325067/325069/325072/325066/185:1/253:1
+profileset."HotWH/FStrike/VSTechn/WHTactics/ OWTB:1/ ECall:1"+=soulbind=325067/325069/325072/325066/185:1/223:1
+profileset."HotWH/FStrike/VSTechn/WHTactics/ Bloodlet:1/ ECall:1"+=soulbind=325067/325069/325072/325066/253:1/223:1
+profileset."HotWH/FStrike/GIForm/WHTactics/ SAttunement:1/ FAppetite:1"+=soulbind=325067/325069/325073/325066/140:1/183:1
+profileset."HotWH/FStrike/GIForm/WHTactics/ SAttunement:1/ OWTB:1"+=soulbind=325067/325069/325073/325066/140:1/185:1
+profileset."HotWH/FStrike/GIForm/WHTactics/ SAttunement:1/ Bloodlet:1"+=soulbind=325067/325069/325073/325066/140:1/253:1
+profileset."HotWH/FStrike/GIForm/WHTactics/ SAttunement:1/ ECall:1"+=soulbind=325067/325069/325073/325066/140:1/223:1
+profileset."HotWH/FStrike/GIForm/WHTactics/ FAppetite:1/ OWTB:1"+=soulbind=325067/325069/325073/325066/183:1/185:1
+profileset."HotWH/FStrike/GIForm/WHTactics/ FAppetite:1/ Bloodlet:1"+=soulbind=325067/325069/325073/325066/183:1/253:1
+profileset."HotWH/FStrike/GIForm/WHTactics/ FAppetite:1/ ECall:1"+=soulbind=325067/325069/325073/325066/183:1/223:1
+profileset."HotWH/FStrike/GIForm/WHTactics/ OWTB:1/ Bloodlet:1"+=soulbind=325067/325069/325073/325066/185:1/253:1
+profileset."HotWH/FStrike/GIForm/WHTactics/ OWTB:1/ ECall:1"+=soulbind=325067/325069/325073/325066/185:1/223:1
+profileset."HotWH/FStrike/GIForm/WHTactics/ Bloodlet:1/ ECall:1"+=soulbind=325067/325069/325073/325066/253:1/223:1
+profileset."HotWH/HtLine/VSTechn/WHTactics/ SAttunement:1/ FAppetite:1/175:1"+=soulbind=325067/325601/325072/325066/140:1/183:1/175:1
+profileset."HotWH/HtLine/VSTechn/WHTactics/ SAttunement:1/ OWTB:1/175:1"+=soulbind=325067/325601/325072/325066/140:1/185:1/175:1
+profileset."HotWH/HtLine/VSTechn/WHTactics/ SAttunement:1/ Bloodlet:1/175:1"+=soulbind=325067/325601/325072/325066/140:1/253:1/175:1
+profileset."HotWH/HtLine/VSTechn/WHTactics/ SAttunement:1/ ECall:1/175:1"+=soulbind=325067/325601/325072/325066/140:1/223:1/175:1
+profileset."HotWH/HtLine/VSTechn/WHTactics/ FAppetite:1/ OWTB:1/175:1"+=soulbind=325067/325601/325072/325066/183:1/185:1/175:1
+profileset."HotWH/HtLine/VSTechn/WHTactics/ FAppetite:1/ Bloodlet:1/175:1"+=soulbind=325067/325601/325072/325066/183:1/253:1/175:1
+profileset."HotWH/HtLine/VSTechn/WHTactics/ FAppetite:1/ ECall:1/175:1"+=soulbind=325067/325601/325072/325066/183:1/223:1/175:1
+profileset."HotWH/HtLine/VSTechn/WHTactics/ OWTB:1/ Bloodlet:1/175:1"+=soulbind=325067/325601/325072/325066/185:1/253:1/175:1
+profileset."HotWH/HtLine/VSTechn/WHTactics/ OWTB:1/ ECall:1/175:1"+=soulbind=325067/325601/325072/325066/185:1/223:1/175:1
+profileset."HotWH/HtLine/VSTechn/WHTactics/ Bloodlet:1/ ECall:1/175:1"+=soulbind=325067/325601/325072/325066/253:1/223:1/175:1
+profileset."HotWH/HtLine/GIForm/WHTactics/ SAttunement:1/ FAppetite:1/175:1"+=soulbind=325067/325601/325073/325066/140:1/183:1/175:1
+profileset."HotWH/HtLine/GIForm/WHTactics/ SAttunement:1/ OWTB:1/175:1"+=soulbind=325067/325601/325073/325066/140:1/185:1/175:1
+profileset."HotWH/HtLine/GIForm/WHTactics/ SAttunement:1/ Bloodlet:1/175:1"+=soulbind=325067/325601/325073/325066/140:1/253:1/175:1
+profileset."HotWH/HtLine/GIForm/WHTactics/ SAttunement:1/ ECall:1/175:1"+=soulbind=325067/325601/325073/325066/140:1/223:1/175:1
+profileset."HotWH/HtLine/GIForm/WHTactics/ FAppetite:1/ OWTB:1/175:1"+=soulbind=325067/325601/325073/325066/183:1/185:1/175:1
+profileset."HotWH/HtLine/GIForm/WHTactics/ FAppetite:1/ Bloodlet:1/175:1"+=soulbind=325067/325601/325073/325066/183:1/253:1/175:1
+profileset."HotWH/HtLine/GIForm/WHTactics/ FAppetite:1/ ECall:1/175:1"+=soulbind=325067/325601/325073/325066/183:1/223:1/175:1
+profileset."HotWH/HtLine/GIForm/WHTactics/ OWTB:1/ Bloodlet:1/175:1"+=soulbind=325067/325601/325073/325066/185:1/253:1/175:1
+profileset."HotWH/HtLine/GIForm/WHTactics/ OWTB:1/ ECall:1/175:1"+=soulbind=325067/325601/325073/325066/185:1/223:1/175:1
+profileset."HotWH/HtLine/GIForm/WHTactics/ Bloodlet:1/ ECall:1/175:1"+=soulbind=325067/325601/325073/325066/253:1/223:1/175:1
+profileset."WHCharge/FYFoes/VSTechn/WHTactics/ SAttunement:1/ FAppetite:1/175:1"+=soulbind=325065/325068/325072/325066/140:1/183:1/175:1
+profileset."WHCharge/FYFoes/VSTechn/WHTactics/ SAttunement:1/ OWTB:1/175:1"+=soulbind=325065/325068/325072/325066/140:1/185:1/175:1
+profileset."WHCharge/FYFoes/VSTechn/WHTactics/ SAttunement:1/ Bloodlet:1/175:1"+=soulbind=325065/325068/325072/325066/140:1/253:1/175:1
+profileset."WHCharge/FYFoes/VSTechn/WHTactics/ SAttunement:1/ ECall:1/175:1"+=soulbind=325065/325068/325072/325066/140:1/223:1/175:1
+profileset."WHCharge/FYFoes/VSTechn/WHTactics/ FAppetite:1/ OWTB:1/175:1"+=soulbind=325065/325068/325072/325066/183:1/185:1/175:1
+profileset."WHCharge/FYFoes/VSTechn/WHTactics/ FAppetite:1/ Bloodlet:1/175:1"+=soulbind=325065/325068/325072/325066/183:1/253:1/175:1
+profileset."WHCharge/FYFoes/VSTechn/WHTactics/ FAppetite:1/ ECall:1/175:1"+=soulbind=325065/325068/325072/325066/183:1/223:1/175:1
+profileset."WHCharge/FYFoes/VSTechn/WHTactics/ OWTB:1/ Bloodlet:1/175:1"+=soulbind=325065/325068/325072/325066/185:1/253:1/175:1
+profileset."WHCharge/FYFoes/VSTechn/WHTactics/ OWTB:1/ ECall:1/175:1"+=soulbind=325065/325068/325072/325066/185:1/223:1/175:1
+profileset."WHCharge/FYFoes/VSTechn/WHTactics/ Bloodlet:1/ ECall:1/175:1"+=soulbind=325065/325068/325072/325066/253:1/223:1/175:1
+profileset."WHCharge/FYFoes/GIForm/WHTactics/ SAttunement:1/ FAppetite:1/175:1"+=soulbind=325065/325068/325073/325066/140:1/183:1/175:1
+profileset."WHCharge/FYFoes/GIForm/WHTactics/ SAttunement:1/ OWTB:1/175:1"+=soulbind=325065/325068/325073/325066/140:1/185:1/175:1
+profileset."WHCharge/FYFoes/GIForm/WHTactics/ SAttunement:1/ Bloodlet:1/175:1"+=soulbind=325065/325068/325073/325066/140:1/253:1/175:1
+profileset."WHCharge/FYFoes/GIForm/WHTactics/ SAttunement:1/ ECall:1/175:1"+=soulbind=325065/325068/325073/325066/140:1/223:1/175:1
+profileset."WHCharge/FYFoes/GIForm/WHTactics/ FAppetite:1/ OWTB:1/175:1"+=soulbind=325065/325068/325073/325066/183:1/185:1/175:1
+profileset."WHCharge/FYFoes/GIForm/WHTactics/ FAppetite:1/ Bloodlet:1/175:1"+=soulbind=325065/325068/325073/325066/183:1/253:1/175:1
+profileset."WHCharge/FYFoes/GIForm/WHTactics/ FAppetite:1/ ECall:1/175:1"+=soulbind=325065/325068/325073/325066/183:1/223:1/175:1
+profileset."WHCharge/FYFoes/GIForm/WHTactics/ OWTB:1/ Bloodlet:1/175:1"+=soulbind=325065/325068/325073/325066/185:1/253:1/175:1
+profileset."WHCharge/FYFoes/GIForm/WHTactics/ OWTB:1/ ECall:1/175:1"+=soulbind=325065/325068/325073/325066/185:1/223:1/175:1
+profileset."WHCharge/FYFoes/GIForm/WHTactics/ Bloodlet:1/ ECall:1/175:1"+=soulbind=325065/325068/325073/325066/253:1/223:1/175:1
+profileset."WHCharge/FStrike/VSTechn/WHTactics/ SAttunement:1/175:1"+=soulbind=325065/325069/325072/325066/140:1/175:1
+profileset."WHCharge/FStrike/VSTechn/WHTactics/ FAppetite:1/175:1"+=soulbind=325065/325069/325072/325066/183:1/175:1
+profileset."WHCharge/FStrike/VSTechn/WHTactics/ OWTB:1/175:1"+=soulbind=325065/325069/325072/325066/185:1/175:1
+profileset."WHCharge/FStrike/VSTechn/WHTactics/ Bloodlet:1/175:1"+=soulbind=325065/325069/325072/325066/253:1/175:1
+profileset."WHCharge/FStrike/VSTechn/WHTactics/ ECall:1/175:1"+=soulbind=325065/325069/325072/325066/223:1/175:1
+profileset."WHCharge/FStrike/GIForm/WHTactics/ SAttunement:1/175:1"+=soulbind=325065/325069/325073/325066/140:1/175:1
+profileset."WHCharge/FStrike/GIForm/WHTactics/ FAppetite:1/175:1"+=soulbind=325065/325069/325073/325066/183:1/175:1
+profileset."WHCharge/FStrike/GIForm/WHTactics/ OWTB:1/175:1"+=soulbind=325065/325069/325073/325066/185:1/175:1
+profileset."WHCharge/FStrike/GIForm/WHTactics/ Bloodlet:1/175:1"+=soulbind=325065/325069/325073/325066/253:1/175:1
+profileset."WHCharge/FStrike/GIForm/WHTactics/ ECall:1/175:1"+=soulbind=325065/325069/325073/325066/223:1/175:1
+profileset."WHCharge/HtLine/VSTechn/WHTactics/ SAttunement:1/175:1"+=soulbind=325065/325601/325072/325066/140:1/175:1
+profileset."WHCharge/HtLine/VSTechn/WHTactics/ FAppetite:1/175:1"+=soulbind=325065/325601/325072/325066/183:1/175:1
+profileset."WHCharge/HtLine/VSTechn/WHTactics/ OWTB:1/175:1"+=soulbind=325065/325601/325072/325066/185:1/175:1
+profileset."WHCharge/HtLine/VSTechn/WHTactics/ Bloodlet:1/175:1"+=soulbind=325065/325601/325072/325066/253:1/175:1
+profileset."WHCharge/HtLine/VSTechn/WHTactics/ ECall:1/175:1"+=soulbind=325065/325601/325072/325066/223:1/175:1
+profileset."WHCharge/HtLine/GIForm/WHTactics/ SAttunement:1/175:1"+=soulbind=325065/325601/325073/325066/140:1/175:1
+profileset."WHCharge/HtLine/GIForm/WHTactics/ FAppetite:1/175:1"+=soulbind=325065/325601/325073/325066/183:1/175:1
+profileset."WHCharge/HtLine/GIForm/WHTactics/ OWTB:1/175:1"+=soulbind=325065/325601/325073/325066/185:1/175:1
+profileset."WHCharge/HtLine/GIForm/WHTactics/ Bloodlet:1/175:1"+=soulbind=325065/325601/325073/325066/253:1/175:1
+profileset."WHCharge/HtLine/GIForm/WHTactics/ ECall:1/175:1"+=soulbind=325065/325601/325073/325066/223:1/175:1

@@ -1,123 +1,123 @@
 #Replace this with your desired base profile /simc etc 
 
 covenant=necrolord
-profileset."EMSkin/CLegs/GrToes/EtConstruct/1SMalice:1/2MBrand:1/252:1/175:1"+=soulbind=323921/324440/323918/342156/143:1/251:1/252:1/175:1
-profileset."EMSkin/CLegs/GrToes/EtConstruct/1SMalice:1/2MBrand:1/226:1/175:1"+=soulbind=323921/324440/323918/342156/143:1/251:1/226:1/175:1
-profileset."EMSkin/CLegs/GrToes/EtConstruct/1SMalice:1/2MBrand:1/224:1/175:1"+=soulbind=323921/324440/323918/342156/143:1/251:1/224:1/175:1
-profileset."EMSkin/CLegs/GrToes/EtConstruct/1SMalice:1/252:1/226:1/175:1"+=soulbind=323921/324440/323918/342156/143:1/252:1/226:1/175:1
-profileset."EMSkin/CLegs/GrToes/EtConstruct/1SMalice:1/252:1/224:1/175:1"+=soulbind=323921/324440/323918/342156/143:1/252:1/224:1/175:1
-profileset."EMSkin/CLegs/GrToes/EtConstruct/1SMalice:1/226:1/224:1/175:1"+=soulbind=323921/324440/323918/342156/143:1/226:1/224:1/175:1
-profileset."EMSkin/CLegs/GrToes/EtConstruct/2MBrand:1/252:1/226:1/175:1"+=soulbind=323921/324440/323918/342156/251:1/252:1/226:1/175:1
-profileset."EMSkin/CLegs/GrToes/EtConstruct/2MBrand:1/252:1/224:1/175:1"+=soulbind=323921/324440/323918/342156/251:1/252:1/224:1/175:1
-profileset."EMSkin/CLegs/GrToes/EtConstruct/2MBrand:1/226:1/224:1/175:1"+=soulbind=323921/324440/323918/342156/251:1/226:1/224:1/175:1
-profileset."EMSkin/CLegs/GrToes/EtConstruct/252:1/226:1/224:1/175:1"+=soulbind=323921/324440/323918/342156/252:1/226:1/224:1/175:1
-profileset."EMSkin/CLegs/GnChomp/EtConstruct/1SMalice:1/2MBrand:1/175:1"+=soulbind=323921/324440/323919/342156/143:1/251:1/175:1
-profileset."EMSkin/CLegs/GnChomp/EtConstruct/1SMalice:1/252:1/175:1"+=soulbind=323921/324440/323919/342156/143:1/252:1/175:1
-profileset."EMSkin/CLegs/GnChomp/EtConstruct/1SMalice:1/226:1/175:1"+=soulbind=323921/324440/323919/342156/143:1/226:1/175:1
-profileset."EMSkin/CLegs/GnChomp/EtConstruct/1SMalice:1/224:1/175:1"+=soulbind=323921/324440/323919/342156/143:1/224:1/175:1
-profileset."EMSkin/CLegs/GnChomp/EtConstruct/2MBrand:1/252:1/175:1"+=soulbind=323921/324440/323919/342156/251:1/252:1/175:1
-profileset."EMSkin/CLegs/GnChomp/EtConstruct/2MBrand:1/226:1/175:1"+=soulbind=323921/324440/323919/342156/251:1/226:1/175:1
-profileset."EMSkin/CLegs/GnChomp/EtConstruct/2MBrand:1/224:1/175:1"+=soulbind=323921/324440/323919/342156/251:1/224:1/175:1
-profileset."EMSkin/CLegs/GnChomp/EtConstruct/252:1/226:1/175:1"+=soulbind=323921/324440/323919/342156/252:1/226:1/175:1
-profileset."EMSkin/CLegs/GnChomp/EtConstruct/252:1/224:1/175:1"+=soulbind=323921/324440/323919/342156/252:1/224:1/175:1
-profileset."EMSkin/CLegs/GnChomp/EtConstruct/226:1/224:1/175:1"+=soulbind=323921/324440/323919/342156/226:1/224:1/175:1
-profileset."EMSkin/CLegs/SEmission/EtConstruct/1SMalice:1/2MBrand:1/175:1"+=soulbind=323921/324440/323916/342156/143:1/251:1/175:1
-profileset."EMSkin/CLegs/SEmission/EtConstruct/1SMalice:1/252:1/175:1"+=soulbind=323921/324440/323916/342156/143:1/252:1/175:1
-profileset."EMSkin/CLegs/SEmission/EtConstruct/1SMalice:1/226:1/175:1"+=soulbind=323921/324440/323916/342156/143:1/226:1/175:1
-profileset."EMSkin/CLegs/SEmission/EtConstruct/1SMalice:1/224:1/175:1"+=soulbind=323921/324440/323916/342156/143:1/224:1/175:1
-profileset."EMSkin/CLegs/SEmission/EtConstruct/2MBrand:1/252:1/175:1"+=soulbind=323921/324440/323916/342156/251:1/252:1/175:1
-profileset."EMSkin/CLegs/SEmission/EtConstruct/2MBrand:1/226:1/175:1"+=soulbind=323921/324440/323916/342156/251:1/226:1/175:1
-profileset."EMSkin/CLegs/SEmission/EtConstruct/2MBrand:1/224:1/175:1"+=soulbind=323921/324440/323916/342156/251:1/224:1/175:1
-profileset."EMSkin/CLegs/SEmission/EtConstruct/252:1/226:1/175:1"+=soulbind=323921/324440/323916/342156/252:1/226:1/175:1
-profileset."EMSkin/CLegs/SEmission/EtConstruct/252:1/224:1/175:1"+=soulbind=323921/324440/323916/342156/252:1/224:1/175:1
-profileset."EMSkin/CLegs/SEmission/EtConstruct/226:1/224:1/175:1"+=soulbind=323921/324440/323916/342156/226:1/224:1/175:1
-profileset."EMSkin/HKidney/GrToes/EtConstruct/1SMalice:1/2MBrand:1/252:1/175:1"+=soulbind=323921/324441/323918/342156/143:1/251:1/252:1/175:1
-profileset."EMSkin/HKidney/GrToes/EtConstruct/1SMalice:1/2MBrand:1/226:1/175:1"+=soulbind=323921/324441/323918/342156/143:1/251:1/226:1/175:1
-profileset."EMSkin/HKidney/GrToes/EtConstruct/1SMalice:1/2MBrand:1/224:1/175:1"+=soulbind=323921/324441/323918/342156/143:1/251:1/224:1/175:1
-profileset."EMSkin/HKidney/GrToes/EtConstruct/1SMalice:1/252:1/226:1/175:1"+=soulbind=323921/324441/323918/342156/143:1/252:1/226:1/175:1
-profileset."EMSkin/HKidney/GrToes/EtConstruct/1SMalice:1/252:1/224:1/175:1"+=soulbind=323921/324441/323918/342156/143:1/252:1/224:1/175:1
-profileset."EMSkin/HKidney/GrToes/EtConstruct/1SMalice:1/226:1/224:1/175:1"+=soulbind=323921/324441/323918/342156/143:1/226:1/224:1/175:1
-profileset."EMSkin/HKidney/GrToes/EtConstruct/2MBrand:1/252:1/226:1/175:1"+=soulbind=323921/324441/323918/342156/251:1/252:1/226:1/175:1
-profileset."EMSkin/HKidney/GrToes/EtConstruct/2MBrand:1/252:1/224:1/175:1"+=soulbind=323921/324441/323918/342156/251:1/252:1/224:1/175:1
-profileset."EMSkin/HKidney/GrToes/EtConstruct/2MBrand:1/226:1/224:1/175:1"+=soulbind=323921/324441/323918/342156/251:1/226:1/224:1/175:1
-profileset."EMSkin/HKidney/GrToes/EtConstruct/252:1/226:1/224:1/175:1"+=soulbind=323921/324441/323918/342156/252:1/226:1/224:1/175:1
-profileset."EMSkin/HKidney/GnChomp/EtConstruct/1SMalice:1/2MBrand:1/175:1"+=soulbind=323921/324441/323919/342156/143:1/251:1/175:1
-profileset."EMSkin/HKidney/GnChomp/EtConstruct/1SMalice:1/252:1/175:1"+=soulbind=323921/324441/323919/342156/143:1/252:1/175:1
-profileset."EMSkin/HKidney/GnChomp/EtConstruct/1SMalice:1/226:1/175:1"+=soulbind=323921/324441/323919/342156/143:1/226:1/175:1
-profileset."EMSkin/HKidney/GnChomp/EtConstruct/1SMalice:1/224:1/175:1"+=soulbind=323921/324441/323919/342156/143:1/224:1/175:1
-profileset."EMSkin/HKidney/GnChomp/EtConstruct/2MBrand:1/252:1/175:1"+=soulbind=323921/324441/323919/342156/251:1/252:1/175:1
-profileset."EMSkin/HKidney/GnChomp/EtConstruct/2MBrand:1/226:1/175:1"+=soulbind=323921/324441/323919/342156/251:1/226:1/175:1
-profileset."EMSkin/HKidney/GnChomp/EtConstruct/2MBrand:1/224:1/175:1"+=soulbind=323921/324441/323919/342156/251:1/224:1/175:1
-profileset."EMSkin/HKidney/GnChomp/EtConstruct/252:1/226:1/175:1"+=soulbind=323921/324441/323919/342156/252:1/226:1/175:1
-profileset."EMSkin/HKidney/GnChomp/EtConstruct/252:1/224:1/175:1"+=soulbind=323921/324441/323919/342156/252:1/224:1/175:1
-profileset."EMSkin/HKidney/GnChomp/EtConstruct/226:1/224:1/175:1"+=soulbind=323921/324441/323919/342156/226:1/224:1/175:1
-profileset."EMSkin/HKidney/SEmission/EtConstruct/1SMalice:1/2MBrand:1/175:1"+=soulbind=323921/324441/323916/342156/143:1/251:1/175:1
-profileset."EMSkin/HKidney/SEmission/EtConstruct/1SMalice:1/252:1/175:1"+=soulbind=323921/324441/323916/342156/143:1/252:1/175:1
-profileset."EMSkin/HKidney/SEmission/EtConstruct/1SMalice:1/226:1/175:1"+=soulbind=323921/324441/323916/342156/143:1/226:1/175:1
-profileset."EMSkin/HKidney/SEmission/EtConstruct/1SMalice:1/224:1/175:1"+=soulbind=323921/324441/323916/342156/143:1/224:1/175:1
-profileset."EMSkin/HKidney/SEmission/EtConstruct/2MBrand:1/252:1/175:1"+=soulbind=323921/324441/323916/342156/251:1/252:1/175:1
-profileset."EMSkin/HKidney/SEmission/EtConstruct/2MBrand:1/226:1/175:1"+=soulbind=323921/324441/323916/342156/251:1/226:1/175:1
-profileset."EMSkin/HKidney/SEmission/EtConstruct/2MBrand:1/224:1/175:1"+=soulbind=323921/324441/323916/342156/251:1/224:1/175:1
-profileset."EMSkin/HKidney/SEmission/EtConstruct/252:1/226:1/175:1"+=soulbind=323921/324441/323916/342156/252:1/226:1/175:1
-profileset."EMSkin/HKidney/SEmission/EtConstruct/252:1/224:1/175:1"+=soulbind=323921/324441/323916/342156/252:1/224:1/175:1
-profileset."EMSkin/HKidney/SEmission/EtConstruct/226:1/224:1/175:1"+=soulbind=323921/324441/323916/342156/226:1/224:1/175:1
-profileset."EAFlesh/CLegs/GrToes/EtConstruct/1SMalice:1/2MBrand:1/252:1"+=soulbind=341650/324440/323918/342156/143:1/251:1/252:1
-profileset."EAFlesh/CLegs/GrToes/EtConstruct/1SMalice:1/2MBrand:1/226:1"+=soulbind=341650/324440/323918/342156/143:1/251:1/226:1
-profileset."EAFlesh/CLegs/GrToes/EtConstruct/1SMalice:1/2MBrand:1/224:1"+=soulbind=341650/324440/323918/342156/143:1/251:1/224:1
-profileset."EAFlesh/CLegs/GrToes/EtConstruct/1SMalice:1/252:1/226:1"+=soulbind=341650/324440/323918/342156/143:1/252:1/226:1
-profileset."EAFlesh/CLegs/GrToes/EtConstruct/1SMalice:1/252:1/224:1"+=soulbind=341650/324440/323918/342156/143:1/252:1/224:1
-profileset."EAFlesh/CLegs/GrToes/EtConstruct/1SMalice:1/226:1/224:1"+=soulbind=341650/324440/323918/342156/143:1/226:1/224:1
-profileset."EAFlesh/CLegs/GrToes/EtConstruct/2MBrand:1/252:1/226:1"+=soulbind=341650/324440/323918/342156/251:1/252:1/226:1
-profileset."EAFlesh/CLegs/GrToes/EtConstruct/2MBrand:1/252:1/224:1"+=soulbind=341650/324440/323918/342156/251:1/252:1/224:1
-profileset."EAFlesh/CLegs/GrToes/EtConstruct/2MBrand:1/226:1/224:1"+=soulbind=341650/324440/323918/342156/251:1/226:1/224:1
-profileset."EAFlesh/CLegs/GrToes/EtConstruct/252:1/226:1/224:1"+=soulbind=341650/324440/323918/342156/252:1/226:1/224:1
-profileset."EAFlesh/CLegs/GnChomp/EtConstruct/1SMalice:1/2MBrand:1"+=soulbind=341650/324440/323919/342156/143:1/251:1
-profileset."EAFlesh/CLegs/GnChomp/EtConstruct/1SMalice:1/252:1"+=soulbind=341650/324440/323919/342156/143:1/252:1
-profileset."EAFlesh/CLegs/GnChomp/EtConstruct/1SMalice:1/226:1"+=soulbind=341650/324440/323919/342156/143:1/226:1
-profileset."EAFlesh/CLegs/GnChomp/EtConstruct/1SMalice:1/224:1"+=soulbind=341650/324440/323919/342156/143:1/224:1
-profileset."EAFlesh/CLegs/GnChomp/EtConstruct/2MBrand:1/252:1"+=soulbind=341650/324440/323919/342156/251:1/252:1
-profileset."EAFlesh/CLegs/GnChomp/EtConstruct/2MBrand:1/226:1"+=soulbind=341650/324440/323919/342156/251:1/226:1
-profileset."EAFlesh/CLegs/GnChomp/EtConstruct/2MBrand:1/224:1"+=soulbind=341650/324440/323919/342156/251:1/224:1
-profileset."EAFlesh/CLegs/GnChomp/EtConstruct/252:1/226:1"+=soulbind=341650/324440/323919/342156/252:1/226:1
-profileset."EAFlesh/CLegs/GnChomp/EtConstruct/252:1/224:1"+=soulbind=341650/324440/323919/342156/252:1/224:1
-profileset."EAFlesh/CLegs/GnChomp/EtConstruct/226:1/224:1"+=soulbind=341650/324440/323919/342156/226:1/224:1
-profileset."EAFlesh/CLegs/SEmission/EtConstruct/1SMalice:1/2MBrand:1/175:1"+=soulbind=341650/324440/323916/342156/143:1/251:1/175:1
-profileset."EAFlesh/CLegs/SEmission/EtConstruct/1SMalice:1/252:1/175:1"+=soulbind=341650/324440/323916/342156/143:1/252:1/175:1
-profileset."EAFlesh/CLegs/SEmission/EtConstruct/1SMalice:1/226:1/175:1"+=soulbind=341650/324440/323916/342156/143:1/226:1/175:1
-profileset."EAFlesh/CLegs/SEmission/EtConstruct/1SMalice:1/224:1/175:1"+=soulbind=341650/324440/323916/342156/143:1/224:1/175:1
-profileset."EAFlesh/CLegs/SEmission/EtConstruct/2MBrand:1/252:1/175:1"+=soulbind=341650/324440/323916/342156/251:1/252:1/175:1
-profileset."EAFlesh/CLegs/SEmission/EtConstruct/2MBrand:1/226:1/175:1"+=soulbind=341650/324440/323916/342156/251:1/226:1/175:1
-profileset."EAFlesh/CLegs/SEmission/EtConstruct/2MBrand:1/224:1/175:1"+=soulbind=341650/324440/323916/342156/251:1/224:1/175:1
-profileset."EAFlesh/CLegs/SEmission/EtConstruct/252:1/226:1/175:1"+=soulbind=341650/324440/323916/342156/252:1/226:1/175:1
-profileset."EAFlesh/CLegs/SEmission/EtConstruct/252:1/224:1/175:1"+=soulbind=341650/324440/323916/342156/252:1/224:1/175:1
-profileset."EAFlesh/CLegs/SEmission/EtConstruct/226:1/224:1/175:1"+=soulbind=341650/324440/323916/342156/226:1/224:1/175:1
-profileset."EAFlesh/HKidney/GrToes/EtConstruct/1SMalice:1/2MBrand:1/252:1"+=soulbind=341650/324441/323918/342156/143:1/251:1/252:1
-profileset."EAFlesh/HKidney/GrToes/EtConstruct/1SMalice:1/2MBrand:1/226:1"+=soulbind=341650/324441/323918/342156/143:1/251:1/226:1
-profileset."EAFlesh/HKidney/GrToes/EtConstruct/1SMalice:1/2MBrand:1/224:1"+=soulbind=341650/324441/323918/342156/143:1/251:1/224:1
-profileset."EAFlesh/HKidney/GrToes/EtConstruct/1SMalice:1/252:1/226:1"+=soulbind=341650/324441/323918/342156/143:1/252:1/226:1
-profileset."EAFlesh/HKidney/GrToes/EtConstruct/1SMalice:1/252:1/224:1"+=soulbind=341650/324441/323918/342156/143:1/252:1/224:1
-profileset."EAFlesh/HKidney/GrToes/EtConstruct/1SMalice:1/226:1/224:1"+=soulbind=341650/324441/323918/342156/143:1/226:1/224:1
-profileset."EAFlesh/HKidney/GrToes/EtConstruct/2MBrand:1/252:1/226:1"+=soulbind=341650/324441/323918/342156/251:1/252:1/226:1
-profileset."EAFlesh/HKidney/GrToes/EtConstruct/2MBrand:1/252:1/224:1"+=soulbind=341650/324441/323918/342156/251:1/252:1/224:1
-profileset."EAFlesh/HKidney/GrToes/EtConstruct/2MBrand:1/226:1/224:1"+=soulbind=341650/324441/323918/342156/251:1/226:1/224:1
-profileset."EAFlesh/HKidney/GrToes/EtConstruct/252:1/226:1/224:1"+=soulbind=341650/324441/323918/342156/252:1/226:1/224:1
-profileset."EAFlesh/HKidney/GnChomp/EtConstruct/1SMalice:1/2MBrand:1"+=soulbind=341650/324441/323919/342156/143:1/251:1
-profileset."EAFlesh/HKidney/GnChomp/EtConstruct/1SMalice:1/252:1"+=soulbind=341650/324441/323919/342156/143:1/252:1
-profileset."EAFlesh/HKidney/GnChomp/EtConstruct/1SMalice:1/226:1"+=soulbind=341650/324441/323919/342156/143:1/226:1
-profileset."EAFlesh/HKidney/GnChomp/EtConstruct/1SMalice:1/224:1"+=soulbind=341650/324441/323919/342156/143:1/224:1
-profileset."EAFlesh/HKidney/GnChomp/EtConstruct/2MBrand:1/252:1"+=soulbind=341650/324441/323919/342156/251:1/252:1
-profileset."EAFlesh/HKidney/GnChomp/EtConstruct/2MBrand:1/226:1"+=soulbind=341650/324441/323919/342156/251:1/226:1
-profileset."EAFlesh/HKidney/GnChomp/EtConstruct/2MBrand:1/224:1"+=soulbind=341650/324441/323919/342156/251:1/224:1
-profileset."EAFlesh/HKidney/GnChomp/EtConstruct/252:1/226:1"+=soulbind=341650/324441/323919/342156/252:1/226:1
-profileset."EAFlesh/HKidney/GnChomp/EtConstruct/252:1/224:1"+=soulbind=341650/324441/323919/342156/252:1/224:1
-profileset."EAFlesh/HKidney/GnChomp/EtConstruct/226:1/224:1"+=soulbind=341650/324441/323919/342156/226:1/224:1
-profileset."EAFlesh/HKidney/SEmission/EtConstruct/1SMalice:1/2MBrand:1/175:1"+=soulbind=341650/324441/323916/342156/143:1/251:1/175:1
-profileset."EAFlesh/HKidney/SEmission/EtConstruct/1SMalice:1/252:1/175:1"+=soulbind=341650/324441/323916/342156/143:1/252:1/175:1
-profileset."EAFlesh/HKidney/SEmission/EtConstruct/1SMalice:1/226:1/175:1"+=soulbind=341650/324441/323916/342156/143:1/226:1/175:1
-profileset."EAFlesh/HKidney/SEmission/EtConstruct/1SMalice:1/224:1/175:1"+=soulbind=341650/324441/323916/342156/143:1/224:1/175:1
-profileset."EAFlesh/HKidney/SEmission/EtConstruct/2MBrand:1/252:1/175:1"+=soulbind=341650/324441/323916/342156/251:1/252:1/175:1
-profileset."EAFlesh/HKidney/SEmission/EtConstruct/2MBrand:1/226:1/175:1"+=soulbind=341650/324441/323916/342156/251:1/226:1/175:1
-profileset."EAFlesh/HKidney/SEmission/EtConstruct/2MBrand:1/224:1/175:1"+=soulbind=341650/324441/323916/342156/251:1/224:1/175:1
-profileset."EAFlesh/HKidney/SEmission/EtConstruct/252:1/226:1/175:1"+=soulbind=341650/324441/323916/342156/252:1/226:1/175:1
-profileset."EAFlesh/HKidney/SEmission/EtConstruct/252:1/224:1/175:1"+=soulbind=341650/324441/323916/342156/252:1/224:1/175:1
-profileset."EAFlesh/HKidney/SEmission/EtConstruct/226:1/224:1/175:1"+=soulbind=341650/324441/323916/342156/226:1/224:1/175:1
+profileset."EMSkin/CLegs/GrToes/EtConstruct/ NBarrage:1/ DTandem:1/ FInfusion:1/175:1"+=soulbind=323921/324440/323918/342156/143:1/251:1/252:1/175:1
+profileset."EMSkin/CLegs/GrToes/EtConstruct/ NBarrage:1/ DTandem:1/ SStrike:1/175:1"+=soulbind=323921/324440/323918/342156/143:1/251:1/226:1/175:1
+profileset."EMSkin/CLegs/GrToes/EtConstruct/ NBarrage:1/ DTandem:1/ StrengthPack:1/175:1"+=soulbind=323921/324440/323918/342156/143:1/251:1/224:1/175:1
+profileset."EMSkin/CLegs/GrToes/EtConstruct/ NBarrage:1/ FInfusion:1/ SStrike:1/175:1"+=soulbind=323921/324440/323918/342156/143:1/252:1/226:1/175:1
+profileset."EMSkin/CLegs/GrToes/EtConstruct/ NBarrage:1/ FInfusion:1/ StrengthPack:1/175:1"+=soulbind=323921/324440/323918/342156/143:1/252:1/224:1/175:1
+profileset."EMSkin/CLegs/GrToes/EtConstruct/ NBarrage:1/ SStrike:1/ StrengthPack:1/175:1"+=soulbind=323921/324440/323918/342156/143:1/226:1/224:1/175:1
+profileset."EMSkin/CLegs/GrToes/EtConstruct/ DTandem:1/ FInfusion:1/ SStrike:1/175:1"+=soulbind=323921/324440/323918/342156/251:1/252:1/226:1/175:1
+profileset."EMSkin/CLegs/GrToes/EtConstruct/ DTandem:1/ FInfusion:1/ StrengthPack:1/175:1"+=soulbind=323921/324440/323918/342156/251:1/252:1/224:1/175:1
+profileset."EMSkin/CLegs/GrToes/EtConstruct/ DTandem:1/ SStrike:1/ StrengthPack:1/175:1"+=soulbind=323921/324440/323918/342156/251:1/226:1/224:1/175:1
+profileset."EMSkin/CLegs/GrToes/EtConstruct/ FInfusion:1/ SStrike:1/ StrengthPack:1/175:1"+=soulbind=323921/324440/323918/342156/252:1/226:1/224:1/175:1
+profileset."EMSkin/CLegs/GnChomp/EtConstruct/ NBarrage:1/ DTandem:1/175:1"+=soulbind=323921/324440/323919/342156/143:1/251:1/175:1
+profileset."EMSkin/CLegs/GnChomp/EtConstruct/ NBarrage:1/ FInfusion:1/175:1"+=soulbind=323921/324440/323919/342156/143:1/252:1/175:1
+profileset."EMSkin/CLegs/GnChomp/EtConstruct/ NBarrage:1/ SStrike:1/175:1"+=soulbind=323921/324440/323919/342156/143:1/226:1/175:1
+profileset."EMSkin/CLegs/GnChomp/EtConstruct/ NBarrage:1/ StrengthPack:1/175:1"+=soulbind=323921/324440/323919/342156/143:1/224:1/175:1
+profileset."EMSkin/CLegs/GnChomp/EtConstruct/ DTandem:1/ FInfusion:1/175:1"+=soulbind=323921/324440/323919/342156/251:1/252:1/175:1
+profileset."EMSkin/CLegs/GnChomp/EtConstruct/ DTandem:1/ SStrike:1/175:1"+=soulbind=323921/324440/323919/342156/251:1/226:1/175:1
+profileset."EMSkin/CLegs/GnChomp/EtConstruct/ DTandem:1/ StrengthPack:1/175:1"+=soulbind=323921/324440/323919/342156/251:1/224:1/175:1
+profileset."EMSkin/CLegs/GnChomp/EtConstruct/ FInfusion:1/ SStrike:1/175:1"+=soulbind=323921/324440/323919/342156/252:1/226:1/175:1
+profileset."EMSkin/CLegs/GnChomp/EtConstruct/ FInfusion:1/ StrengthPack:1/175:1"+=soulbind=323921/324440/323919/342156/252:1/224:1/175:1
+profileset."EMSkin/CLegs/GnChomp/EtConstruct/ SStrike:1/ StrengthPack:1/175:1"+=soulbind=323921/324440/323919/342156/226:1/224:1/175:1
+profileset."EMSkin/CLegs/SEmission/EtConstruct/ NBarrage:1/ DTandem:1/175:1"+=soulbind=323921/324440/323916/342156/143:1/251:1/175:1
+profileset."EMSkin/CLegs/SEmission/EtConstruct/ NBarrage:1/ FInfusion:1/175:1"+=soulbind=323921/324440/323916/342156/143:1/252:1/175:1
+profileset."EMSkin/CLegs/SEmission/EtConstruct/ NBarrage:1/ SStrike:1/175:1"+=soulbind=323921/324440/323916/342156/143:1/226:1/175:1
+profileset."EMSkin/CLegs/SEmission/EtConstruct/ NBarrage:1/ StrengthPack:1/175:1"+=soulbind=323921/324440/323916/342156/143:1/224:1/175:1
+profileset."EMSkin/CLegs/SEmission/EtConstruct/ DTandem:1/ FInfusion:1/175:1"+=soulbind=323921/324440/323916/342156/251:1/252:1/175:1
+profileset."EMSkin/CLegs/SEmission/EtConstruct/ DTandem:1/ SStrike:1/175:1"+=soulbind=323921/324440/323916/342156/251:1/226:1/175:1
+profileset."EMSkin/CLegs/SEmission/EtConstruct/ DTandem:1/ StrengthPack:1/175:1"+=soulbind=323921/324440/323916/342156/251:1/224:1/175:1
+profileset."EMSkin/CLegs/SEmission/EtConstruct/ FInfusion:1/ SStrike:1/175:1"+=soulbind=323921/324440/323916/342156/252:1/226:1/175:1
+profileset."EMSkin/CLegs/SEmission/EtConstruct/ FInfusion:1/ StrengthPack:1/175:1"+=soulbind=323921/324440/323916/342156/252:1/224:1/175:1
+profileset."EMSkin/CLegs/SEmission/EtConstruct/ SStrike:1/ StrengthPack:1/175:1"+=soulbind=323921/324440/323916/342156/226:1/224:1/175:1
+profileset."EMSkin/HKidney/GrToes/EtConstruct/ NBarrage:1/ DTandem:1/ FInfusion:1/175:1"+=soulbind=323921/324441/323918/342156/143:1/251:1/252:1/175:1
+profileset."EMSkin/HKidney/GrToes/EtConstruct/ NBarrage:1/ DTandem:1/ SStrike:1/175:1"+=soulbind=323921/324441/323918/342156/143:1/251:1/226:1/175:1
+profileset."EMSkin/HKidney/GrToes/EtConstruct/ NBarrage:1/ DTandem:1/ StrengthPack:1/175:1"+=soulbind=323921/324441/323918/342156/143:1/251:1/224:1/175:1
+profileset."EMSkin/HKidney/GrToes/EtConstruct/ NBarrage:1/ FInfusion:1/ SStrike:1/175:1"+=soulbind=323921/324441/323918/342156/143:1/252:1/226:1/175:1
+profileset."EMSkin/HKidney/GrToes/EtConstruct/ NBarrage:1/ FInfusion:1/ StrengthPack:1/175:1"+=soulbind=323921/324441/323918/342156/143:1/252:1/224:1/175:1
+profileset."EMSkin/HKidney/GrToes/EtConstruct/ NBarrage:1/ SStrike:1/ StrengthPack:1/175:1"+=soulbind=323921/324441/323918/342156/143:1/226:1/224:1/175:1
+profileset."EMSkin/HKidney/GrToes/EtConstruct/ DTandem:1/ FInfusion:1/ SStrike:1/175:1"+=soulbind=323921/324441/323918/342156/251:1/252:1/226:1/175:1
+profileset."EMSkin/HKidney/GrToes/EtConstruct/ DTandem:1/ FInfusion:1/ StrengthPack:1/175:1"+=soulbind=323921/324441/323918/342156/251:1/252:1/224:1/175:1
+profileset."EMSkin/HKidney/GrToes/EtConstruct/ DTandem:1/ SStrike:1/ StrengthPack:1/175:1"+=soulbind=323921/324441/323918/342156/251:1/226:1/224:1/175:1
+profileset."EMSkin/HKidney/GrToes/EtConstruct/ FInfusion:1/ SStrike:1/ StrengthPack:1/175:1"+=soulbind=323921/324441/323918/342156/252:1/226:1/224:1/175:1
+profileset."EMSkin/HKidney/GnChomp/EtConstruct/ NBarrage:1/ DTandem:1/175:1"+=soulbind=323921/324441/323919/342156/143:1/251:1/175:1
+profileset."EMSkin/HKidney/GnChomp/EtConstruct/ NBarrage:1/ FInfusion:1/175:1"+=soulbind=323921/324441/323919/342156/143:1/252:1/175:1
+profileset."EMSkin/HKidney/GnChomp/EtConstruct/ NBarrage:1/ SStrike:1/175:1"+=soulbind=323921/324441/323919/342156/143:1/226:1/175:1
+profileset."EMSkin/HKidney/GnChomp/EtConstruct/ NBarrage:1/ StrengthPack:1/175:1"+=soulbind=323921/324441/323919/342156/143:1/224:1/175:1
+profileset."EMSkin/HKidney/GnChomp/EtConstruct/ DTandem:1/ FInfusion:1/175:1"+=soulbind=323921/324441/323919/342156/251:1/252:1/175:1
+profileset."EMSkin/HKidney/GnChomp/EtConstruct/ DTandem:1/ SStrike:1/175:1"+=soulbind=323921/324441/323919/342156/251:1/226:1/175:1
+profileset."EMSkin/HKidney/GnChomp/EtConstruct/ DTandem:1/ StrengthPack:1/175:1"+=soulbind=323921/324441/323919/342156/251:1/224:1/175:1
+profileset."EMSkin/HKidney/GnChomp/EtConstruct/ FInfusion:1/ SStrike:1/175:1"+=soulbind=323921/324441/323919/342156/252:1/226:1/175:1
+profileset."EMSkin/HKidney/GnChomp/EtConstruct/ FInfusion:1/ StrengthPack:1/175:1"+=soulbind=323921/324441/323919/342156/252:1/224:1/175:1
+profileset."EMSkin/HKidney/GnChomp/EtConstruct/ SStrike:1/ StrengthPack:1/175:1"+=soulbind=323921/324441/323919/342156/226:1/224:1/175:1
+profileset."EMSkin/HKidney/SEmission/EtConstruct/ NBarrage:1/ DTandem:1/175:1"+=soulbind=323921/324441/323916/342156/143:1/251:1/175:1
+profileset."EMSkin/HKidney/SEmission/EtConstruct/ NBarrage:1/ FInfusion:1/175:1"+=soulbind=323921/324441/323916/342156/143:1/252:1/175:1
+profileset."EMSkin/HKidney/SEmission/EtConstruct/ NBarrage:1/ SStrike:1/175:1"+=soulbind=323921/324441/323916/342156/143:1/226:1/175:1
+profileset."EMSkin/HKidney/SEmission/EtConstruct/ NBarrage:1/ StrengthPack:1/175:1"+=soulbind=323921/324441/323916/342156/143:1/224:1/175:1
+profileset."EMSkin/HKidney/SEmission/EtConstruct/ DTandem:1/ FInfusion:1/175:1"+=soulbind=323921/324441/323916/342156/251:1/252:1/175:1
+profileset."EMSkin/HKidney/SEmission/EtConstruct/ DTandem:1/ SStrike:1/175:1"+=soulbind=323921/324441/323916/342156/251:1/226:1/175:1
+profileset."EMSkin/HKidney/SEmission/EtConstruct/ DTandem:1/ StrengthPack:1/175:1"+=soulbind=323921/324441/323916/342156/251:1/224:1/175:1
+profileset."EMSkin/HKidney/SEmission/EtConstruct/ FInfusion:1/ SStrike:1/175:1"+=soulbind=323921/324441/323916/342156/252:1/226:1/175:1
+profileset."EMSkin/HKidney/SEmission/EtConstruct/ FInfusion:1/ StrengthPack:1/175:1"+=soulbind=323921/324441/323916/342156/252:1/224:1/175:1
+profileset."EMSkin/HKidney/SEmission/EtConstruct/ SStrike:1/ StrengthPack:1/175:1"+=soulbind=323921/324441/323916/342156/226:1/224:1/175:1
+profileset."EAFlesh/CLegs/GrToes/EtConstruct/ NBarrage:1/ DTandem:1/ FInfusion:1"+=soulbind=341650/324440/323918/342156/143:1/251:1/252:1
+profileset."EAFlesh/CLegs/GrToes/EtConstruct/ NBarrage:1/ DTandem:1/ SStrike:1"+=soulbind=341650/324440/323918/342156/143:1/251:1/226:1
+profileset."EAFlesh/CLegs/GrToes/EtConstruct/ NBarrage:1/ DTandem:1/ StrengthPack:1"+=soulbind=341650/324440/323918/342156/143:1/251:1/224:1
+profileset."EAFlesh/CLegs/GrToes/EtConstruct/ NBarrage:1/ FInfusion:1/ SStrike:1"+=soulbind=341650/324440/323918/342156/143:1/252:1/226:1
+profileset."EAFlesh/CLegs/GrToes/EtConstruct/ NBarrage:1/ FInfusion:1/ StrengthPack:1"+=soulbind=341650/324440/323918/342156/143:1/252:1/224:1
+profileset."EAFlesh/CLegs/GrToes/EtConstruct/ NBarrage:1/ SStrike:1/ StrengthPack:1"+=soulbind=341650/324440/323918/342156/143:1/226:1/224:1
+profileset."EAFlesh/CLegs/GrToes/EtConstruct/ DTandem:1/ FInfusion:1/ SStrike:1"+=soulbind=341650/324440/323918/342156/251:1/252:1/226:1
+profileset."EAFlesh/CLegs/GrToes/EtConstruct/ DTandem:1/ FInfusion:1/ StrengthPack:1"+=soulbind=341650/324440/323918/342156/251:1/252:1/224:1
+profileset."EAFlesh/CLegs/GrToes/EtConstruct/ DTandem:1/ SStrike:1/ StrengthPack:1"+=soulbind=341650/324440/323918/342156/251:1/226:1/224:1
+profileset."EAFlesh/CLegs/GrToes/EtConstruct/ FInfusion:1/ SStrike:1/ StrengthPack:1"+=soulbind=341650/324440/323918/342156/252:1/226:1/224:1
+profileset."EAFlesh/CLegs/GnChomp/EtConstruct/ NBarrage:1/ DTandem:1"+=soulbind=341650/324440/323919/342156/143:1/251:1
+profileset."EAFlesh/CLegs/GnChomp/EtConstruct/ NBarrage:1/ FInfusion:1"+=soulbind=341650/324440/323919/342156/143:1/252:1
+profileset."EAFlesh/CLegs/GnChomp/EtConstruct/ NBarrage:1/ SStrike:1"+=soulbind=341650/324440/323919/342156/143:1/226:1
+profileset."EAFlesh/CLegs/GnChomp/EtConstruct/ NBarrage:1/ StrengthPack:1"+=soulbind=341650/324440/323919/342156/143:1/224:1
+profileset."EAFlesh/CLegs/GnChomp/EtConstruct/ DTandem:1/ FInfusion:1"+=soulbind=341650/324440/323919/342156/251:1/252:1
+profileset."EAFlesh/CLegs/GnChomp/EtConstruct/ DTandem:1/ SStrike:1"+=soulbind=341650/324440/323919/342156/251:1/226:1
+profileset."EAFlesh/CLegs/GnChomp/EtConstruct/ DTandem:1/ StrengthPack:1"+=soulbind=341650/324440/323919/342156/251:1/224:1
+profileset."EAFlesh/CLegs/GnChomp/EtConstruct/ FInfusion:1/ SStrike:1"+=soulbind=341650/324440/323919/342156/252:1/226:1
+profileset."EAFlesh/CLegs/GnChomp/EtConstruct/ FInfusion:1/ StrengthPack:1"+=soulbind=341650/324440/323919/342156/252:1/224:1
+profileset."EAFlesh/CLegs/GnChomp/EtConstruct/ SStrike:1/ StrengthPack:1"+=soulbind=341650/324440/323919/342156/226:1/224:1
+profileset."EAFlesh/CLegs/SEmission/EtConstruct/ NBarrage:1/ DTandem:1/175:1"+=soulbind=341650/324440/323916/342156/143:1/251:1/175:1
+profileset."EAFlesh/CLegs/SEmission/EtConstruct/ NBarrage:1/ FInfusion:1/175:1"+=soulbind=341650/324440/323916/342156/143:1/252:1/175:1
+profileset."EAFlesh/CLegs/SEmission/EtConstruct/ NBarrage:1/ SStrike:1/175:1"+=soulbind=341650/324440/323916/342156/143:1/226:1/175:1
+profileset."EAFlesh/CLegs/SEmission/EtConstruct/ NBarrage:1/ StrengthPack:1/175:1"+=soulbind=341650/324440/323916/342156/143:1/224:1/175:1
+profileset."EAFlesh/CLegs/SEmission/EtConstruct/ DTandem:1/ FInfusion:1/175:1"+=soulbind=341650/324440/323916/342156/251:1/252:1/175:1
+profileset."EAFlesh/CLegs/SEmission/EtConstruct/ DTandem:1/ SStrike:1/175:1"+=soulbind=341650/324440/323916/342156/251:1/226:1/175:1
+profileset."EAFlesh/CLegs/SEmission/EtConstruct/ DTandem:1/ StrengthPack:1/175:1"+=soulbind=341650/324440/323916/342156/251:1/224:1/175:1
+profileset."EAFlesh/CLegs/SEmission/EtConstruct/ FInfusion:1/ SStrike:1/175:1"+=soulbind=341650/324440/323916/342156/252:1/226:1/175:1
+profileset."EAFlesh/CLegs/SEmission/EtConstruct/ FInfusion:1/ StrengthPack:1/175:1"+=soulbind=341650/324440/323916/342156/252:1/224:1/175:1
+profileset."EAFlesh/CLegs/SEmission/EtConstruct/ SStrike:1/ StrengthPack:1/175:1"+=soulbind=341650/324440/323916/342156/226:1/224:1/175:1
+profileset."EAFlesh/HKidney/GrToes/EtConstruct/ NBarrage:1/ DTandem:1/ FInfusion:1"+=soulbind=341650/324441/323918/342156/143:1/251:1/252:1
+profileset."EAFlesh/HKidney/GrToes/EtConstruct/ NBarrage:1/ DTandem:1/ SStrike:1"+=soulbind=341650/324441/323918/342156/143:1/251:1/226:1
+profileset."EAFlesh/HKidney/GrToes/EtConstruct/ NBarrage:1/ DTandem:1/ StrengthPack:1"+=soulbind=341650/324441/323918/342156/143:1/251:1/224:1
+profileset."EAFlesh/HKidney/GrToes/EtConstruct/ NBarrage:1/ FInfusion:1/ SStrike:1"+=soulbind=341650/324441/323918/342156/143:1/252:1/226:1
+profileset."EAFlesh/HKidney/GrToes/EtConstruct/ NBarrage:1/ FInfusion:1/ StrengthPack:1"+=soulbind=341650/324441/323918/342156/143:1/252:1/224:1
+profileset."EAFlesh/HKidney/GrToes/EtConstruct/ NBarrage:1/ SStrike:1/ StrengthPack:1"+=soulbind=341650/324441/323918/342156/143:1/226:1/224:1
+profileset."EAFlesh/HKidney/GrToes/EtConstruct/ DTandem:1/ FInfusion:1/ SStrike:1"+=soulbind=341650/324441/323918/342156/251:1/252:1/226:1
+profileset."EAFlesh/HKidney/GrToes/EtConstruct/ DTandem:1/ FInfusion:1/ StrengthPack:1"+=soulbind=341650/324441/323918/342156/251:1/252:1/224:1
+profileset."EAFlesh/HKidney/GrToes/EtConstruct/ DTandem:1/ SStrike:1/ StrengthPack:1"+=soulbind=341650/324441/323918/342156/251:1/226:1/224:1
+profileset."EAFlesh/HKidney/GrToes/EtConstruct/ FInfusion:1/ SStrike:1/ StrengthPack:1"+=soulbind=341650/324441/323918/342156/252:1/226:1/224:1
+profileset."EAFlesh/HKidney/GnChomp/EtConstruct/ NBarrage:1/ DTandem:1"+=soulbind=341650/324441/323919/342156/143:1/251:1
+profileset."EAFlesh/HKidney/GnChomp/EtConstruct/ NBarrage:1/ FInfusion:1"+=soulbind=341650/324441/323919/342156/143:1/252:1
+profileset."EAFlesh/HKidney/GnChomp/EtConstruct/ NBarrage:1/ SStrike:1"+=soulbind=341650/324441/323919/342156/143:1/226:1
+profileset."EAFlesh/HKidney/GnChomp/EtConstruct/ NBarrage:1/ StrengthPack:1"+=soulbind=341650/324441/323919/342156/143:1/224:1
+profileset."EAFlesh/HKidney/GnChomp/EtConstruct/ DTandem:1/ FInfusion:1"+=soulbind=341650/324441/323919/342156/251:1/252:1
+profileset."EAFlesh/HKidney/GnChomp/EtConstruct/ DTandem:1/ SStrike:1"+=soulbind=341650/324441/323919/342156/251:1/226:1
+profileset."EAFlesh/HKidney/GnChomp/EtConstruct/ DTandem:1/ StrengthPack:1"+=soulbind=341650/324441/323919/342156/251:1/224:1
+profileset."EAFlesh/HKidney/GnChomp/EtConstruct/ FInfusion:1/ SStrike:1"+=soulbind=341650/324441/323919/342156/252:1/226:1
+profileset."EAFlesh/HKidney/GnChomp/EtConstruct/ FInfusion:1/ StrengthPack:1"+=soulbind=341650/324441/323919/342156/252:1/224:1
+profileset."EAFlesh/HKidney/GnChomp/EtConstruct/ SStrike:1/ StrengthPack:1"+=soulbind=341650/324441/323919/342156/226:1/224:1
+profileset."EAFlesh/HKidney/SEmission/EtConstruct/ NBarrage:1/ DTandem:1/175:1"+=soulbind=341650/324441/323916/342156/143:1/251:1/175:1
+profileset."EAFlesh/HKidney/SEmission/EtConstruct/ NBarrage:1/ FInfusion:1/175:1"+=soulbind=341650/324441/323916/342156/143:1/252:1/175:1
+profileset."EAFlesh/HKidney/SEmission/EtConstruct/ NBarrage:1/ SStrike:1/175:1"+=soulbind=341650/324441/323916/342156/143:1/226:1/175:1
+profileset."EAFlesh/HKidney/SEmission/EtConstruct/ NBarrage:1/ StrengthPack:1/175:1"+=soulbind=341650/324441/323916/342156/143:1/224:1/175:1
+profileset."EAFlesh/HKidney/SEmission/EtConstruct/ DTandem:1/ FInfusion:1/175:1"+=soulbind=341650/324441/323916/342156/251:1/252:1/175:1
+profileset."EAFlesh/HKidney/SEmission/EtConstruct/ DTandem:1/ SStrike:1/175:1"+=soulbind=341650/324441/323916/342156/251:1/226:1/175:1
+profileset."EAFlesh/HKidney/SEmission/EtConstruct/ DTandem:1/ StrengthPack:1/175:1"+=soulbind=341650/324441/323916/342156/251:1/224:1/175:1
+profileset."EAFlesh/HKidney/SEmission/EtConstruct/ FInfusion:1/ SStrike:1/175:1"+=soulbind=341650/324441/323916/342156/252:1/226:1/175:1
+profileset."EAFlesh/HKidney/SEmission/EtConstruct/ FInfusion:1/ StrengthPack:1/175:1"+=soulbind=341650/324441/323916/342156/252:1/224:1/175:1
+profileset."EAFlesh/HKidney/SEmission/EtConstruct/ SStrike:1/ StrengthPack:1/175:1"+=soulbind=341650/324441/323916/342156/226:1/224:1/175:1

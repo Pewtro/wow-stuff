@@ -90,20 +90,19 @@
 341650,EAFlesh
 342156,EtConstruct
 342270,RWTiring
-40,IoAsc
-43,SMalice
-39,GotL
-38,DotG
-34,AProdigy
-55,AotArchmage
-51,MBrand
-36,NPrecision
-249,CDest
-53,FAccretion
-32,MFlame
-30,ICascade
-18,SCore
-17,UCold
-20,IPropulsion
-21,IBite
-29,GSurge
+137, EMark
+139, ERelease
+143, NBarrage
+140, SAttunement
+183, FAppetite
+185, OWTB
+253, Bloodlet
+223, ECall
+189, BProject
+192, DChain
+199, PPrecision
+188, SFocus
+251, DTandem
+252, FInfusion
+226, SStrike
+224, StrengthPack

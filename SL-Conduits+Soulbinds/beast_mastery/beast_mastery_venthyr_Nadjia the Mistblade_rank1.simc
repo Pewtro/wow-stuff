@@ -1,53 +1,53 @@
 #Replace this with your desired base profile /simc etc 
 
 covenant=venthyr
-profileset."AChaos/FiLPlaces/EPreparation/TSeeker/1GotL:1/183:1/175:1"+=soulbind=331576/331579/331580/331586/139:1/183:1/175:1
-profileset."AChaos/FiLPlaces/EPreparation/TSeeker/1GotL:1/185:1/175:1"+=soulbind=331576/331579/331580/331586/139:1/185:1/175:1
-profileset."AChaos/FiLPlaces/EPreparation/TSeeker/1GotL:1/2FAccretion:1/175:1"+=soulbind=331576/331579/331580/331586/139:1/253:1/175:1
-profileset."AChaos/FiLPlaces/EPreparation/TSeeker/1GotL:1/223:1/175:1"+=soulbind=331576/331579/331580/331586/139:1/223:1/175:1
-profileset."AChaos/FiLPlaces/EPreparation/TSeeker/183:1/185:1/175:1"+=soulbind=331576/331579/331580/331586/183:1/185:1/175:1
-profileset."AChaos/FiLPlaces/EPreparation/TSeeker/183:1/2FAccretion:1/175:1"+=soulbind=331576/331579/331580/331586/183:1/253:1/175:1
-profileset."AChaos/FiLPlaces/EPreparation/TSeeker/183:1/223:1/175:1"+=soulbind=331576/331579/331580/331586/183:1/223:1/175:1
-profileset."AChaos/FiLPlaces/EPreparation/TSeeker/185:1/2FAccretion:1/175:1"+=soulbind=331576/331579/331580/331586/185:1/253:1/175:1
-profileset."AChaos/FiLPlaces/EPreparation/TSeeker/185:1/223:1/175:1"+=soulbind=331576/331579/331580/331586/185:1/223:1/175:1
-profileset."AChaos/FiLPlaces/EPreparation/TSeeker/2FAccretion:1/223:1/175:1"+=soulbind=331576/331579/331580/331586/253:1/223:1/175:1
-profileset."AChaos/FiLPlaces/FPredic/TSeeker/1GotL:1/183:1/185:1/175:1"+=soulbind=331576/331579/331582/331586/139:1/183:1/185:1/175:1
-profileset."AChaos/FiLPlaces/FPredic/TSeeker/1GotL:1/183:1/2FAccretion:1/175:1"+=soulbind=331576/331579/331582/331586/139:1/183:1/253:1/175:1
-profileset."AChaos/FiLPlaces/FPredic/TSeeker/1GotL:1/183:1/223:1/175:1"+=soulbind=331576/331579/331582/331586/139:1/183:1/223:1/175:1
-profileset."AChaos/FiLPlaces/FPredic/TSeeker/1GotL:1/185:1/2FAccretion:1/175:1"+=soulbind=331576/331579/331582/331586/139:1/185:1/253:1/175:1
-profileset."AChaos/FiLPlaces/FPredic/TSeeker/1GotL:1/185:1/223:1/175:1"+=soulbind=331576/331579/331582/331586/139:1/185:1/223:1/175:1
-profileset."AChaos/FiLPlaces/FPredic/TSeeker/1GotL:1/2FAccretion:1/223:1/175:1"+=soulbind=331576/331579/331582/331586/139:1/253:1/223:1/175:1
-profileset."AChaos/FiLPlaces/FPredic/TSeeker/183:1/185:1/2FAccretion:1/175:1"+=soulbind=331576/331579/331582/331586/183:1/185:1/253:1/175:1
-profileset."AChaos/FiLPlaces/FPredic/TSeeker/183:1/185:1/223:1/175:1"+=soulbind=331576/331579/331582/331586/183:1/185:1/223:1/175:1
-profileset."AChaos/FiLPlaces/FPredic/TSeeker/183:1/2FAccretion:1/223:1/175:1"+=soulbind=331576/331579/331582/331586/183:1/253:1/223:1/175:1
-profileset."AChaos/FiLPlaces/FPredic/TSeeker/185:1/2FAccretion:1/223:1/175:1"+=soulbind=331576/331579/331582/331586/185:1/253:1/223:1/175:1
-profileset."AChaos/FiLPlaces/DDuelist/TSeeker/1GotL:1/183:1/175:1"+=soulbind=331576/331579/331584/331586/139:1/183:1/175:1
-profileset."AChaos/FiLPlaces/DDuelist/TSeeker/1GotL:1/185:1/175:1"+=soulbind=331576/331579/331584/331586/139:1/185:1/175:1
-profileset."AChaos/FiLPlaces/DDuelist/TSeeker/1GotL:1/2FAccretion:1/175:1"+=soulbind=331576/331579/331584/331586/139:1/253:1/175:1
-profileset."AChaos/FiLPlaces/DDuelist/TSeeker/1GotL:1/223:1/175:1"+=soulbind=331576/331579/331584/331586/139:1/223:1/175:1
-profileset."AChaos/FiLPlaces/DDuelist/TSeeker/183:1/185:1/175:1"+=soulbind=331576/331579/331584/331586/183:1/185:1/175:1
-profileset."AChaos/FiLPlaces/DDuelist/TSeeker/183:1/2FAccretion:1/175:1"+=soulbind=331576/331579/331584/331586/183:1/253:1/175:1
-profileset."AChaos/FiLPlaces/DDuelist/TSeeker/183:1/223:1/175:1"+=soulbind=331576/331579/331584/331586/183:1/223:1/175:1
-profileset."AChaos/FiLPlaces/DDuelist/TSeeker/185:1/2FAccretion:1/175:1"+=soulbind=331576/331579/331584/331586/185:1/253:1/175:1
-profileset."AChaos/FiLPlaces/DDuelist/TSeeker/185:1/223:1/175:1"+=soulbind=331576/331579/331584/331586/185:1/223:1/175:1
-profileset."AChaos/FiLPlaces/DDuelist/TSeeker/2FAccretion:1/223:1/175:1"+=soulbind=331576/331579/331584/331586/253:1/223:1/175:1
-profileset."FFootwork/FiLPlaces/EPreparation/TSeeker/1GotL:1/175:1"+=soulbind=331577/331579/331580/331586/139:1/175:1
-profileset."FFootwork/FiLPlaces/EPreparation/TSeeker/183:1/175:1"+=soulbind=331577/331579/331580/331586/183:1/175:1
-profileset."FFootwork/FiLPlaces/EPreparation/TSeeker/185:1/175:1"+=soulbind=331577/331579/331580/331586/185:1/175:1
-profileset."FFootwork/FiLPlaces/EPreparation/TSeeker/2FAccretion:1/175:1"+=soulbind=331577/331579/331580/331586/253:1/175:1
-profileset."FFootwork/FiLPlaces/EPreparation/TSeeker/223:1/175:1"+=soulbind=331577/331579/331580/331586/223:1/175:1
-profileset."FFootwork/FiLPlaces/FPredic/TSeeker/1GotL:1/183:1/175:1"+=soulbind=331577/331579/331582/331586/139:1/183:1/175:1
-profileset."FFootwork/FiLPlaces/FPredic/TSeeker/1GotL:1/185:1/175:1"+=soulbind=331577/331579/331582/331586/139:1/185:1/175:1
-profileset."FFootwork/FiLPlaces/FPredic/TSeeker/1GotL:1/2FAccretion:1/175:1"+=soulbind=331577/331579/331582/331586/139:1/253:1/175:1
-profileset."FFootwork/FiLPlaces/FPredic/TSeeker/1GotL:1/223:1/175:1"+=soulbind=331577/331579/331582/331586/139:1/223:1/175:1
-profileset."FFootwork/FiLPlaces/FPredic/TSeeker/183:1/185:1/175:1"+=soulbind=331577/331579/331582/331586/183:1/185:1/175:1
-profileset."FFootwork/FiLPlaces/FPredic/TSeeker/183:1/2FAccretion:1/175:1"+=soulbind=331577/331579/331582/331586/183:1/253:1/175:1
-profileset."FFootwork/FiLPlaces/FPredic/TSeeker/183:1/223:1/175:1"+=soulbind=331577/331579/331582/331586/183:1/223:1/175:1
-profileset."FFootwork/FiLPlaces/FPredic/TSeeker/185:1/2FAccretion:1/175:1"+=soulbind=331577/331579/331582/331586/185:1/253:1/175:1
-profileset."FFootwork/FiLPlaces/FPredic/TSeeker/185:1/223:1/175:1"+=soulbind=331577/331579/331582/331586/185:1/223:1/175:1
-profileset."FFootwork/FiLPlaces/FPredic/TSeeker/2FAccretion:1/223:1/175:1"+=soulbind=331577/331579/331582/331586/253:1/223:1/175:1
-profileset."FFootwork/FiLPlaces/DDuelist/TSeeker/1GotL:1/175:1"+=soulbind=331577/331579/331584/331586/139:1/175:1
-profileset."FFootwork/FiLPlaces/DDuelist/TSeeker/183:1/175:1"+=soulbind=331577/331579/331584/331586/183:1/175:1
-profileset."FFootwork/FiLPlaces/DDuelist/TSeeker/185:1/175:1"+=soulbind=331577/331579/331584/331586/185:1/175:1
-profileset."FFootwork/FiLPlaces/DDuelist/TSeeker/2FAccretion:1/175:1"+=soulbind=331577/331579/331584/331586/253:1/175:1
-profileset."FFootwork/FiLPlaces/DDuelist/TSeeker/223:1/175:1"+=soulbind=331577/331579/331584/331586/223:1/175:1
+profileset."AChaos/FiLPlaces/EPreparation/TSeeker/ ERelease:1/ FAppetite:1/175:1"+=soulbind=331576/331579/331580/331586/139:1/183:1/175:1
+profileset."AChaos/FiLPlaces/EPreparation/TSeeker/ ERelease:1/ OWTB:1/175:1"+=soulbind=331576/331579/331580/331586/139:1/185:1/175:1
+profileset."AChaos/FiLPlaces/EPreparation/TSeeker/ ERelease:1/ Bloodlet:1/175:1"+=soulbind=331576/331579/331580/331586/139:1/253:1/175:1
+profileset."AChaos/FiLPlaces/EPreparation/TSeeker/ ERelease:1/ ECall:1/175:1"+=soulbind=331576/331579/331580/331586/139:1/223:1/175:1
+profileset."AChaos/FiLPlaces/EPreparation/TSeeker/ FAppetite:1/ OWTB:1/175:1"+=soulbind=331576/331579/331580/331586/183:1/185:1/175:1
+profileset."AChaos/FiLPlaces/EPreparation/TSeeker/ FAppetite:1/ Bloodlet:1/175:1"+=soulbind=331576/331579/331580/331586/183:1/253:1/175:1
+profileset."AChaos/FiLPlaces/EPreparation/TSeeker/ FAppetite:1/ ECall:1/175:1"+=soulbind=331576/331579/331580/331586/183:1/223:1/175:1
+profileset."AChaos/FiLPlaces/EPreparation/TSeeker/ OWTB:1/ Bloodlet:1/175:1"+=soulbind=331576/331579/331580/331586/185:1/253:1/175:1
+profileset."AChaos/FiLPlaces/EPreparation/TSeeker/ OWTB:1/ ECall:1/175:1"+=soulbind=331576/331579/331580/331586/185:1/223:1/175:1
+profileset."AChaos/FiLPlaces/EPreparation/TSeeker/ Bloodlet:1/ ECall:1/175:1"+=soulbind=331576/331579/331580/331586/253:1/223:1/175:1
+profileset."AChaos/FiLPlaces/FPredic/TSeeker/ ERelease:1/ FAppetite:1/ OWTB:1/175:1"+=soulbind=331576/331579/331582/331586/139:1/183:1/185:1/175:1
+profileset."AChaos/FiLPlaces/FPredic/TSeeker/ ERelease:1/ FAppetite:1/ Bloodlet:1/175:1"+=soulbind=331576/331579/331582/331586/139:1/183:1/253:1/175:1
+profileset."AChaos/FiLPlaces/FPredic/TSeeker/ ERelease:1/ FAppetite:1/ ECall:1/175:1"+=soulbind=331576/331579/331582/331586/139:1/183:1/223:1/175:1
+profileset."AChaos/FiLPlaces/FPredic/TSeeker/ ERelease:1/ OWTB:1/ Bloodlet:1/175:1"+=soulbind=331576/331579/331582/331586/139:1/185:1/253:1/175:1
+profileset."AChaos/FiLPlaces/FPredic/TSeeker/ ERelease:1/ OWTB:1/ ECall:1/175:1"+=soulbind=331576/331579/331582/331586/139:1/185:1/223:1/175:1
+profileset."AChaos/FiLPlaces/FPredic/TSeeker/ ERelease:1/ Bloodlet:1/ ECall:1/175:1"+=soulbind=331576/331579/331582/331586/139:1/253:1/223:1/175:1
+profileset."AChaos/FiLPlaces/FPredic/TSeeker/ FAppetite:1/ OWTB:1/ Bloodlet:1/175:1"+=soulbind=331576/331579/331582/331586/183:1/185:1/253:1/175:1
+profileset."AChaos/FiLPlaces/FPredic/TSeeker/ FAppetite:1/ OWTB:1/ ECall:1/175:1"+=soulbind=331576/331579/331582/331586/183:1/185:1/223:1/175:1
+profileset."AChaos/FiLPlaces/FPredic/TSeeker/ FAppetite:1/ Bloodlet:1/ ECall:1/175:1"+=soulbind=331576/331579/331582/331586/183:1/253:1/223:1/175:1
+profileset."AChaos/FiLPlaces/FPredic/TSeeker/ OWTB:1/ Bloodlet:1/ ECall:1/175:1"+=soulbind=331576/331579/331582/331586/185:1/253:1/223:1/175:1
+profileset."AChaos/FiLPlaces/DDuelist/TSeeker/ ERelease:1/ FAppetite:1/175:1"+=soulbind=331576/331579/331584/331586/139:1/183:1/175:1
+profileset."AChaos/FiLPlaces/DDuelist/TSeeker/ ERelease:1/ OWTB:1/175:1"+=soulbind=331576/331579/331584/331586/139:1/185:1/175:1
+profileset."AChaos/FiLPlaces/DDuelist/TSeeker/ ERelease:1/ Bloodlet:1/175:1"+=soulbind=331576/331579/331584/331586/139:1/253:1/175:1
+profileset."AChaos/FiLPlaces/DDuelist/TSeeker/ ERelease:1/ ECall:1/175:1"+=soulbind=331576/331579/331584/331586/139:1/223:1/175:1
+profileset."AChaos/FiLPlaces/DDuelist/TSeeker/ FAppetite:1/ OWTB:1/175:1"+=soulbind=331576/331579/331584/331586/183:1/185:1/175:1
+profileset."AChaos/FiLPlaces/DDuelist/TSeeker/ FAppetite:1/ Bloodlet:1/175:1"+=soulbind=331576/331579/331584/331586/183:1/253:1/175:1
+profileset."AChaos/FiLPlaces/DDuelist/TSeeker/ FAppetite:1/ ECall:1/175:1"+=soulbind=331576/331579/331584/331586/183:1/223:1/175:1
+profileset."AChaos/FiLPlaces/DDuelist/TSeeker/ OWTB:1/ Bloodlet:1/175:1"+=soulbind=331576/331579/331584/331586/185:1/253:1/175:1
+profileset."AChaos/FiLPlaces/DDuelist/TSeeker/ OWTB:1/ ECall:1/175:1"+=soulbind=331576/331579/331584/331586/185:1/223:1/175:1
+profileset."AChaos/FiLPlaces/DDuelist/TSeeker/ Bloodlet:1/ ECall:1/175:1"+=soulbind=331576/331579/331584/331586/253:1/223:1/175:1
+profileset."FFootwork/FiLPlaces/EPreparation/TSeeker/ ERelease:1/175:1"+=soulbind=331577/331579/331580/331586/139:1/175:1
+profileset."FFootwork/FiLPlaces/EPreparation/TSeeker/ FAppetite:1/175:1"+=soulbind=331577/331579/331580/331586/183:1/175:1
+profileset."FFootwork/FiLPlaces/EPreparation/TSeeker/ OWTB:1/175:1"+=soulbind=331577/331579/331580/331586/185:1/175:1
+profileset."FFootwork/FiLPlaces/EPreparation/TSeeker/ Bloodlet:1/175:1"+=soulbind=331577/331579/331580/331586/253:1/175:1
+profileset."FFootwork/FiLPlaces/EPreparation/TSeeker/ ECall:1/175:1"+=soulbind=331577/331579/331580/331586/223:1/175:1
+profileset."FFootwork/FiLPlaces/FPredic/TSeeker/ ERelease:1/ FAppetite:1/175:1"+=soulbind=331577/331579/331582/331586/139:1/183:1/175:1
+profileset."FFootwork/FiLPlaces/FPredic/TSeeker/ ERelease:1/ OWTB:1/175:1"+=soulbind=331577/331579/331582/331586/139:1/185:1/175:1
+profileset."FFootwork/FiLPlaces/FPredic/TSeeker/ ERelease:1/ Bloodlet:1/175:1"+=soulbind=331577/331579/331582/331586/139:1/253:1/175:1
+profileset."FFootwork/FiLPlaces/FPredic/TSeeker/ ERelease:1/ ECall:1/175:1"+=soulbind=331577/331579/331582/331586/139:1/223:1/175:1
+profileset."FFootwork/FiLPlaces/FPredic/TSeeker/ FAppetite:1/ OWTB:1/175:1"+=soulbind=331577/331579/331582/331586/183:1/185:1/175:1
+profileset."FFootwork/FiLPlaces/FPredic/TSeeker/ FAppetite:1/ Bloodlet:1/175:1"+=soulbind=331577/331579/331582/331586/183:1/253:1/175:1
+profileset."FFootwork/FiLPlaces/FPredic/TSeeker/ FAppetite:1/ ECall:1/175:1"+=soulbind=331577/331579/331582/331586/183:1/223:1/175:1
+profileset."FFootwork/FiLPlaces/FPredic/TSeeker/ OWTB:1/ Bloodlet:1/175:1"+=soulbind=331577/331579/331582/331586/185:1/253:1/175:1
+profileset."FFootwork/FiLPlaces/FPredic/TSeeker/ OWTB:1/ ECall:1/175:1"+=soulbind=331577/331579/331582/331586/185:1/223:1/175:1
+profileset."FFootwork/FiLPlaces/FPredic/TSeeker/ Bloodlet:1/ ECall:1/175:1"+=soulbind=331577/331579/331582/331586/253:1/223:1/175:1
+profileset."FFootwork/FiLPlaces/DDuelist/TSeeker/ ERelease:1/175:1"+=soulbind=331577/331579/331584/331586/139:1/175:1
+profileset."FFootwork/FiLPlaces/DDuelist/TSeeker/ FAppetite:1/175:1"+=soulbind=331577/331579/331584/331586/183:1/175:1
+profileset."FFootwork/FiLPlaces/DDuelist/TSeeker/ OWTB:1/175:1"+=soulbind=331577/331579/331584/331586/185:1/175:1
+profileset."FFootwork/FiLPlaces/DDuelist/TSeeker/ Bloodlet:1/175:1"+=soulbind=331577/331579/331584/331586/253:1/175:1
+profileset."FFootwork/FiLPlaces/DDuelist/TSeeker/ ECall:1/175:1"+=soulbind=331577/331579/331584/331586/223:1/175:1

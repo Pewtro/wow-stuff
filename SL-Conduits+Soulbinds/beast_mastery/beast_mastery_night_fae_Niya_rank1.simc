@@ -1,103 +1,103 @@
 #Replace this with your desired base profile /simc etc 
 
 covenant=night_fae
-profileset."RWTiring/NTBurs/NSplendor/GInvigor/1IoAsc:1/183:1/175:1"+=soulbind=342270/320659/320668/322721/140:1/183:1/175:1
-profileset."RWTiring/NTBurs/NSplendor/GInvigor/1IoAsc:1/185:1/175:1"+=soulbind=342270/320659/320668/322721/140:1/185:1/175:1
-profileset."RWTiring/NTBurs/NSplendor/GInvigor/1IoAsc:1/2FAccretion:1/175:1"+=soulbind=342270/320659/320668/322721/140:1/253:1/175:1
-profileset."RWTiring/NTBurs/NSplendor/GInvigor/1IoAsc:1/223:1/175:1"+=soulbind=342270/320659/320668/322721/140:1/223:1/175:1
-profileset."RWTiring/NTBurs/NSplendor/GInvigor/183:1/185:1/175:1"+=soulbind=342270/320659/320668/322721/183:1/185:1/175:1
-profileset."RWTiring/NTBurs/NSplendor/GInvigor/183:1/2FAccretion:1/175:1"+=soulbind=342270/320659/320668/322721/183:1/253:1/175:1
-profileset."RWTiring/NTBurs/NSplendor/GInvigor/183:1/223:1/175:1"+=soulbind=342270/320659/320668/322721/183:1/223:1/175:1
-profileset."RWTiring/NTBurs/NSplendor/GInvigor/185:1/2FAccretion:1/175:1"+=soulbind=342270/320659/320668/322721/185:1/253:1/175:1
-profileset."RWTiring/NTBurs/NSplendor/GInvigor/185:1/223:1/175:1"+=soulbind=342270/320659/320668/322721/185:1/223:1/175:1
-profileset."RWTiring/NTBurs/NSplendor/GInvigor/2FAccretion:1/223:1/175:1"+=soulbind=342270/320659/320668/322721/253:1/223:1/175:1
-profileset."RWTiring/NTBurs/SPatrol/GInvigor/1IoAsc:1/183:1/175:1"+=soulbind=342270/320659/320687/322721/140:1/183:1/175:1
-profileset."RWTiring/NTBurs/SPatrol/GInvigor/1IoAsc:1/185:1/175:1"+=soulbind=342270/320659/320687/322721/140:1/185:1/175:1
-profileset."RWTiring/NTBurs/SPatrol/GInvigor/1IoAsc:1/2FAccretion:1/175:1"+=soulbind=342270/320659/320687/322721/140:1/253:1/175:1
-profileset."RWTiring/NTBurs/SPatrol/GInvigor/1IoAsc:1/223:1/175:1"+=soulbind=342270/320659/320687/322721/140:1/223:1/175:1
-profileset."RWTiring/NTBurs/SPatrol/GInvigor/183:1/185:1/175:1"+=soulbind=342270/320659/320687/322721/183:1/185:1/175:1
-profileset."RWTiring/NTBurs/SPatrol/GInvigor/183:1/2FAccretion:1/175:1"+=soulbind=342270/320659/320687/322721/183:1/253:1/175:1
-profileset."RWTiring/NTBurs/SPatrol/GInvigor/183:1/223:1/175:1"+=soulbind=342270/320659/320687/322721/183:1/223:1/175:1
-profileset."RWTiring/NTBurs/SPatrol/GInvigor/185:1/2FAccretion:1/175:1"+=soulbind=342270/320659/320687/322721/185:1/253:1/175:1
-profileset."RWTiring/NTBurs/SPatrol/GInvigor/185:1/223:1/175:1"+=soulbind=342270/320659/320687/322721/185:1/223:1/175:1
-profileset."RWTiring/NTBurs/SPatrol/GInvigor/2FAccretion:1/223:1/175:1"+=soulbind=342270/320659/320687/322721/253:1/223:1/175:1
-profileset."RWTiring/NTPoison/NSplendor/GInvigor/1IoAsc:1/183:1/185:1/175:1"+=soulbind=342270/320660/320668/322721/140:1/183:1/185:1/175:1
-profileset."RWTiring/NTPoison/NSplendor/GInvigor/1IoAsc:1/183:1/2FAccretion:1/175:1"+=soulbind=342270/320660/320668/322721/140:1/183:1/253:1/175:1
-profileset."RWTiring/NTPoison/NSplendor/GInvigor/1IoAsc:1/183:1/223:1/175:1"+=soulbind=342270/320660/320668/322721/140:1/183:1/223:1/175:1
-profileset."RWTiring/NTPoison/NSplendor/GInvigor/1IoAsc:1/185:1/2FAccretion:1/175:1"+=soulbind=342270/320660/320668/322721/140:1/185:1/253:1/175:1
-profileset."RWTiring/NTPoison/NSplendor/GInvigor/1IoAsc:1/185:1/223:1/175:1"+=soulbind=342270/320660/320668/322721/140:1/185:1/223:1/175:1
-profileset."RWTiring/NTPoison/NSplendor/GInvigor/1IoAsc:1/2FAccretion:1/223:1/175:1"+=soulbind=342270/320660/320668/322721/140:1/253:1/223:1/175:1
-profileset."RWTiring/NTPoison/NSplendor/GInvigor/183:1/185:1/2FAccretion:1/175:1"+=soulbind=342270/320660/320668/322721/183:1/185:1/253:1/175:1
-profileset."RWTiring/NTPoison/NSplendor/GInvigor/183:1/185:1/223:1/175:1"+=soulbind=342270/320660/320668/322721/183:1/185:1/223:1/175:1
-profileset."RWTiring/NTPoison/NSplendor/GInvigor/183:1/2FAccretion:1/223:1/175:1"+=soulbind=342270/320660/320668/322721/183:1/253:1/223:1/175:1
-profileset."RWTiring/NTPoison/NSplendor/GInvigor/185:1/2FAccretion:1/223:1/175:1"+=soulbind=342270/320660/320668/322721/185:1/253:1/223:1/175:1
-profileset."RWTiring/NTPoison/SPatrol/GInvigor/1IoAsc:1/183:1/185:1/175:1"+=soulbind=342270/320660/320687/322721/140:1/183:1/185:1/175:1
-profileset."RWTiring/NTPoison/SPatrol/GInvigor/1IoAsc:1/183:1/2FAccretion:1/175:1"+=soulbind=342270/320660/320687/322721/140:1/183:1/253:1/175:1
-profileset."RWTiring/NTPoison/SPatrol/GInvigor/1IoAsc:1/183:1/223:1/175:1"+=soulbind=342270/320660/320687/322721/140:1/183:1/223:1/175:1
-profileset."RWTiring/NTPoison/SPatrol/GInvigor/1IoAsc:1/185:1/2FAccretion:1/175:1"+=soulbind=342270/320660/320687/322721/140:1/185:1/253:1/175:1
-profileset."RWTiring/NTPoison/SPatrol/GInvigor/1IoAsc:1/185:1/223:1/175:1"+=soulbind=342270/320660/320687/322721/140:1/185:1/223:1/175:1
-profileset."RWTiring/NTPoison/SPatrol/GInvigor/1IoAsc:1/2FAccretion:1/223:1/175:1"+=soulbind=342270/320660/320687/322721/140:1/253:1/223:1/175:1
-profileset."RWTiring/NTPoison/SPatrol/GInvigor/183:1/185:1/2FAccretion:1/175:1"+=soulbind=342270/320660/320687/322721/183:1/185:1/253:1/175:1
-profileset."RWTiring/NTPoison/SPatrol/GInvigor/183:1/185:1/223:1/175:1"+=soulbind=342270/320660/320687/322721/183:1/185:1/223:1/175:1
-profileset."RWTiring/NTPoison/SPatrol/GInvigor/183:1/2FAccretion:1/223:1/175:1"+=soulbind=342270/320660/320687/322721/183:1/253:1/223:1/175:1
-profileset."RWTiring/NTPoison/SPatrol/GInvigor/185:1/2FAccretion:1/223:1/175:1"+=soulbind=342270/320660/320687/322721/185:1/253:1/223:1/175:1
-profileset."RWTiring/NTHerbs/NSplendor/GInvigor/1IoAsc:1/183:1/175:1"+=soulbind=342270/320662/320668/322721/140:1/183:1/175:1
-profileset."RWTiring/NTHerbs/NSplendor/GInvigor/1IoAsc:1/185:1/175:1"+=soulbind=342270/320662/320668/322721/140:1/185:1/175:1
-profileset."RWTiring/NTHerbs/NSplendor/GInvigor/1IoAsc:1/2FAccretion:1/175:1"+=soulbind=342270/320662/320668/322721/140:1/253:1/175:1
-profileset."RWTiring/NTHerbs/NSplendor/GInvigor/1IoAsc:1/223:1/175:1"+=soulbind=342270/320662/320668/322721/140:1/223:1/175:1
-profileset."RWTiring/NTHerbs/NSplendor/GInvigor/183:1/185:1/175:1"+=soulbind=342270/320662/320668/322721/183:1/185:1/175:1
-profileset."RWTiring/NTHerbs/NSplendor/GInvigor/183:1/2FAccretion:1/175:1"+=soulbind=342270/320662/320668/322721/183:1/253:1/175:1
-profileset."RWTiring/NTHerbs/NSplendor/GInvigor/183:1/223:1/175:1"+=soulbind=342270/320662/320668/322721/183:1/223:1/175:1
-profileset."RWTiring/NTHerbs/NSplendor/GInvigor/185:1/2FAccretion:1/175:1"+=soulbind=342270/320662/320668/322721/185:1/253:1/175:1
-profileset."RWTiring/NTHerbs/NSplendor/GInvigor/185:1/223:1/175:1"+=soulbind=342270/320662/320668/322721/185:1/223:1/175:1
-profileset."RWTiring/NTHerbs/NSplendor/GInvigor/2FAccretion:1/223:1/175:1"+=soulbind=342270/320662/320668/322721/253:1/223:1/175:1
-profileset."RWTiring/NTHerbs/SPatrol/GInvigor/1IoAsc:1/183:1/175:1"+=soulbind=342270/320662/320687/322721/140:1/183:1/175:1
-profileset."RWTiring/NTHerbs/SPatrol/GInvigor/1IoAsc:1/185:1/175:1"+=soulbind=342270/320662/320687/322721/140:1/185:1/175:1
-profileset."RWTiring/NTHerbs/SPatrol/GInvigor/1IoAsc:1/2FAccretion:1/175:1"+=soulbind=342270/320662/320687/322721/140:1/253:1/175:1
-profileset."RWTiring/NTHerbs/SPatrol/GInvigor/1IoAsc:1/223:1/175:1"+=soulbind=342270/320662/320687/322721/140:1/223:1/175:1
-profileset."RWTiring/NTHerbs/SPatrol/GInvigor/183:1/185:1/175:1"+=soulbind=342270/320662/320687/322721/183:1/185:1/175:1
-profileset."RWTiring/NTHerbs/SPatrol/GInvigor/183:1/2FAccretion:1/175:1"+=soulbind=342270/320662/320687/322721/183:1/253:1/175:1
-profileset."RWTiring/NTHerbs/SPatrol/GInvigor/183:1/223:1/175:1"+=soulbind=342270/320662/320687/322721/183:1/223:1/175:1
-profileset."RWTiring/NTHerbs/SPatrol/GInvigor/185:1/2FAccretion:1/175:1"+=soulbind=342270/320662/320687/322721/185:1/253:1/175:1
-profileset."RWTiring/NTHerbs/SPatrol/GInvigor/185:1/223:1/175:1"+=soulbind=342270/320662/320687/322721/185:1/223:1/175:1
-profileset."RWTiring/NTHerbs/SPatrol/GInvigor/2FAccretion:1/223:1/175:1"+=soulbind=342270/320662/320687/322721/253:1/223:1/175:1
-profileset."SotMove/NTBurs/NSplendor/GInvigor/1IoAsc:1/175:1"+=soulbind=320658/320659/320668/322721/140:1/175:1
-profileset."SotMove/NTBurs/NSplendor/GInvigor/183:1/175:1"+=soulbind=320658/320659/320668/322721/183:1/175:1
-profileset."SotMove/NTBurs/NSplendor/GInvigor/185:1/175:1"+=soulbind=320658/320659/320668/322721/185:1/175:1
-profileset."SotMove/NTBurs/NSplendor/GInvigor/2FAccretion:1/175:1"+=soulbind=320658/320659/320668/322721/253:1/175:1
-profileset."SotMove/NTBurs/NSplendor/GInvigor/223:1/175:1"+=soulbind=320658/320659/320668/322721/223:1/175:1
-profileset."SotMove/NTBurs/SPatrol/GInvigor/1IoAsc:1/175:1"+=soulbind=320658/320659/320687/322721/140:1/175:1
-profileset."SotMove/NTBurs/SPatrol/GInvigor/183:1/175:1"+=soulbind=320658/320659/320687/322721/183:1/175:1
-profileset."SotMove/NTBurs/SPatrol/GInvigor/185:1/175:1"+=soulbind=320658/320659/320687/322721/185:1/175:1
-profileset."SotMove/NTBurs/SPatrol/GInvigor/2FAccretion:1/175:1"+=soulbind=320658/320659/320687/322721/253:1/175:1
-profileset."SotMove/NTBurs/SPatrol/GInvigor/223:1/175:1"+=soulbind=320658/320659/320687/322721/223:1/175:1
-profileset."SotMove/NTPoison/NSplendor/GInvigor/1IoAsc:1/183:1/175:1"+=soulbind=320658/320660/320668/322721/140:1/183:1/175:1
-profileset."SotMove/NTPoison/NSplendor/GInvigor/1IoAsc:1/185:1/175:1"+=soulbind=320658/320660/320668/322721/140:1/185:1/175:1
-profileset."SotMove/NTPoison/NSplendor/GInvigor/1IoAsc:1/2FAccretion:1/175:1"+=soulbind=320658/320660/320668/322721/140:1/253:1/175:1
-profileset."SotMove/NTPoison/NSplendor/GInvigor/1IoAsc:1/223:1/175:1"+=soulbind=320658/320660/320668/322721/140:1/223:1/175:1
-profileset."SotMove/NTPoison/NSplendor/GInvigor/183:1/185:1/175:1"+=soulbind=320658/320660/320668/322721/183:1/185:1/175:1
-profileset."SotMove/NTPoison/NSplendor/GInvigor/183:1/2FAccretion:1/175:1"+=soulbind=320658/320660/320668/322721/183:1/253:1/175:1
-profileset."SotMove/NTPoison/NSplendor/GInvigor/183:1/223:1/175:1"+=soulbind=320658/320660/320668/322721/183:1/223:1/175:1
-profileset."SotMove/NTPoison/NSplendor/GInvigor/185:1/2FAccretion:1/175:1"+=soulbind=320658/320660/320668/322721/185:1/253:1/175:1
-profileset."SotMove/NTPoison/NSplendor/GInvigor/185:1/223:1/175:1"+=soulbind=320658/320660/320668/322721/185:1/223:1/175:1
-profileset."SotMove/NTPoison/NSplendor/GInvigor/2FAccretion:1/223:1/175:1"+=soulbind=320658/320660/320668/322721/253:1/223:1/175:1
-profileset."SotMove/NTPoison/SPatrol/GInvigor/1IoAsc:1/183:1/175:1"+=soulbind=320658/320660/320687/322721/140:1/183:1/175:1
-profileset."SotMove/NTPoison/SPatrol/GInvigor/1IoAsc:1/185:1/175:1"+=soulbind=320658/320660/320687/322721/140:1/185:1/175:1
-profileset."SotMove/NTPoison/SPatrol/GInvigor/1IoAsc:1/2FAccretion:1/175:1"+=soulbind=320658/320660/320687/322721/140:1/253:1/175:1
-profileset."SotMove/NTPoison/SPatrol/GInvigor/1IoAsc:1/223:1/175:1"+=soulbind=320658/320660/320687/322721/140:1/223:1/175:1
-profileset."SotMove/NTPoison/SPatrol/GInvigor/183:1/185:1/175:1"+=soulbind=320658/320660/320687/322721/183:1/185:1/175:1
-profileset."SotMove/NTPoison/SPatrol/GInvigor/183:1/2FAccretion:1/175:1"+=soulbind=320658/320660/320687/322721/183:1/253:1/175:1
-profileset."SotMove/NTPoison/SPatrol/GInvigor/183:1/223:1/175:1"+=soulbind=320658/320660/320687/322721/183:1/223:1/175:1
-profileset."SotMove/NTPoison/SPatrol/GInvigor/185:1/2FAccretion:1/175:1"+=soulbind=320658/320660/320687/322721/185:1/253:1/175:1
-profileset."SotMove/NTPoison/SPatrol/GInvigor/185:1/223:1/175:1"+=soulbind=320658/320660/320687/322721/185:1/223:1/175:1
-profileset."SotMove/NTPoison/SPatrol/GInvigor/2FAccretion:1/223:1/175:1"+=soulbind=320658/320660/320687/322721/253:1/223:1/175:1
-profileset."SotMove/NTHerbs/NSplendor/GInvigor/1IoAsc:1/175:1"+=soulbind=320658/320662/320668/322721/140:1/175:1
-profileset."SotMove/NTHerbs/NSplendor/GInvigor/183:1/175:1"+=soulbind=320658/320662/320668/322721/183:1/175:1
-profileset."SotMove/NTHerbs/NSplendor/GInvigor/185:1/175:1"+=soulbind=320658/320662/320668/322721/185:1/175:1
-profileset."SotMove/NTHerbs/NSplendor/GInvigor/2FAccretion:1/175:1"+=soulbind=320658/320662/320668/322721/253:1/175:1
-profileset."SotMove/NTHerbs/NSplendor/GInvigor/223:1/175:1"+=soulbind=320658/320662/320668/322721/223:1/175:1
-profileset."SotMove/NTHerbs/SPatrol/GInvigor/1IoAsc:1/175:1"+=soulbind=320658/320662/320687/322721/140:1/175:1
-profileset."SotMove/NTHerbs/SPatrol/GInvigor/183:1/175:1"+=soulbind=320658/320662/320687/322721/183:1/175:1
-profileset."SotMove/NTHerbs/SPatrol/GInvigor/185:1/175:1"+=soulbind=320658/320662/320687/322721/185:1/175:1
-profileset."SotMove/NTHerbs/SPatrol/GInvigor/2FAccretion:1/175:1"+=soulbind=320658/320662/320687/322721/253:1/175:1
-profileset."SotMove/NTHerbs/SPatrol/GInvigor/223:1/175:1"+=soulbind=320658/320662/320687/322721/223:1/175:1
+profileset."RWTiring/NTBurs/NSplendor/GInvigor/ SAttunement:1/ FAppetite:1/175:1"+=soulbind=342270/320659/320668/322721/140:1/183:1/175:1
+profileset."RWTiring/NTBurs/NSplendor/GInvigor/ SAttunement:1/ OWTB:1/175:1"+=soulbind=342270/320659/320668/322721/140:1/185:1/175:1
+profileset."RWTiring/NTBurs/NSplendor/GInvigor/ SAttunement:1/ Bloodlet:1/175:1"+=soulbind=342270/320659/320668/322721/140:1/253:1/175:1
+profileset."RWTiring/NTBurs/NSplendor/GInvigor/ SAttunement:1/ ECall:1/175:1"+=soulbind=342270/320659/320668/322721/140:1/223:1/175:1
+profileset."RWTiring/NTBurs/NSplendor/GInvigor/ FAppetite:1/ OWTB:1/175:1"+=soulbind=342270/320659/320668/322721/183:1/185:1/175:1
+profileset."RWTiring/NTBurs/NSplendor/GInvigor/ FAppetite:1/ Bloodlet:1/175:1"+=soulbind=342270/320659/320668/322721/183:1/253:1/175:1
+profileset."RWTiring/NTBurs/NSplendor/GInvigor/ FAppetite:1/ ECall:1/175:1"+=soulbind=342270/320659/320668/322721/183:1/223:1/175:1
+profileset."RWTiring/NTBurs/NSplendor/GInvigor/ OWTB:1/ Bloodlet:1/175:1"+=soulbind=342270/320659/320668/322721/185:1/253:1/175:1
+profileset."RWTiring/NTBurs/NSplendor/GInvigor/ OWTB:1/ ECall:1/175:1"+=soulbind=342270/320659/320668/322721/185:1/223:1/175:1
+profileset."RWTiring/NTBurs/NSplendor/GInvigor/ Bloodlet:1/ ECall:1/175:1"+=soulbind=342270/320659/320668/322721/253:1/223:1/175:1
+profileset."RWTiring/NTBurs/SPatrol/GInvigor/ SAttunement:1/ FAppetite:1/175:1"+=soulbind=342270/320659/320687/322721/140:1/183:1/175:1
+profileset."RWTiring/NTBurs/SPatrol/GInvigor/ SAttunement:1/ OWTB:1/175:1"+=soulbind=342270/320659/320687/322721/140:1/185:1/175:1
+profileset."RWTiring/NTBurs/SPatrol/GInvigor/ SAttunement:1/ Bloodlet:1/175:1"+=soulbind=342270/320659/320687/322721/140:1/253:1/175:1
+profileset."RWTiring/NTBurs/SPatrol/GInvigor/ SAttunement:1/ ECall:1/175:1"+=soulbind=342270/320659/320687/322721/140:1/223:1/175:1
+profileset."RWTiring/NTBurs/SPatrol/GInvigor/ FAppetite:1/ OWTB:1/175:1"+=soulbind=342270/320659/320687/322721/183:1/185:1/175:1
+profileset."RWTiring/NTBurs/SPatrol/GInvigor/ FAppetite:1/ Bloodlet:1/175:1"+=soulbind=342270/320659/320687/322721/183:1/253:1/175:1
+profileset."RWTiring/NTBurs/SPatrol/GInvigor/ FAppetite:1/ ECall:1/175:1"+=soulbind=342270/320659/320687/322721/183:1/223:1/175:1
+profileset."RWTiring/NTBurs/SPatrol/GInvigor/ OWTB:1/ Bloodlet:1/175:1"+=soulbind=342270/320659/320687/322721/185:1/253:1/175:1
+profileset."RWTiring/NTBurs/SPatrol/GInvigor/ OWTB:1/ ECall:1/175:1"+=soulbind=342270/320659/320687/322721/185:1/223:1/175:1
+profileset."RWTiring/NTBurs/SPatrol/GInvigor/ Bloodlet:1/ ECall:1/175:1"+=soulbind=342270/320659/320687/322721/253:1/223:1/175:1
+profileset."RWTiring/NTPoison/NSplendor/GInvigor/ SAttunement:1/ FAppetite:1/ OWTB:1/175:1"+=soulbind=342270/320660/320668/322721/140:1/183:1/185:1/175:1
+profileset."RWTiring/NTPoison/NSplendor/GInvigor/ SAttunement:1/ FAppetite:1/ Bloodlet:1/175:1"+=soulbind=342270/320660/320668/322721/140:1/183:1/253:1/175:1
+profileset."RWTiring/NTPoison/NSplendor/GInvigor/ SAttunement:1/ FAppetite:1/ ECall:1/175:1"+=soulbind=342270/320660/320668/322721/140:1/183:1/223:1/175:1
+profileset."RWTiring/NTPoison/NSplendor/GInvigor/ SAttunement:1/ OWTB:1/ Bloodlet:1/175:1"+=soulbind=342270/320660/320668/322721/140:1/185:1/253:1/175:1
+profileset."RWTiring/NTPoison/NSplendor/GInvigor/ SAttunement:1/ OWTB:1/ ECall:1/175:1"+=soulbind=342270/320660/320668/322721/140:1/185:1/223:1/175:1
+profileset."RWTiring/NTPoison/NSplendor/GInvigor/ SAttunement:1/ Bloodlet:1/ ECall:1/175:1"+=soulbind=342270/320660/320668/322721/140:1/253:1/223:1/175:1
+profileset."RWTiring/NTPoison/NSplendor/GInvigor/ FAppetite:1/ OWTB:1/ Bloodlet:1/175:1"+=soulbind=342270/320660/320668/322721/183:1/185:1/253:1/175:1
+profileset."RWTiring/NTPoison/NSplendor/GInvigor/ FAppetite:1/ OWTB:1/ ECall:1/175:1"+=soulbind=342270/320660/320668/322721/183:1/185:1/223:1/175:1
+profileset."RWTiring/NTPoison/NSplendor/GInvigor/ FAppetite:1/ Bloodlet:1/ ECall:1/175:1"+=soulbind=342270/320660/320668/322721/183:1/253:1/223:1/175:1
+profileset."RWTiring/NTPoison/NSplendor/GInvigor/ OWTB:1/ Bloodlet:1/ ECall:1/175:1"+=soulbind=342270/320660/320668/322721/185:1/253:1/223:1/175:1
+profileset."RWTiring/NTPoison/SPatrol/GInvigor/ SAttunement:1/ FAppetite:1/ OWTB:1/175:1"+=soulbind=342270/320660/320687/322721/140:1/183:1/185:1/175:1
+profileset."RWTiring/NTPoison/SPatrol/GInvigor/ SAttunement:1/ FAppetite:1/ Bloodlet:1/175:1"+=soulbind=342270/320660/320687/322721/140:1/183:1/253:1/175:1
+profileset."RWTiring/NTPoison/SPatrol/GInvigor/ SAttunement:1/ FAppetite:1/ ECall:1/175:1"+=soulbind=342270/320660/320687/322721/140:1/183:1/223:1/175:1
+profileset."RWTiring/NTPoison/SPatrol/GInvigor/ SAttunement:1/ OWTB:1/ Bloodlet:1/175:1"+=soulbind=342270/320660/320687/322721/140:1/185:1/253:1/175:1
+profileset."RWTiring/NTPoison/SPatrol/GInvigor/ SAttunement:1/ OWTB:1/ ECall:1/175:1"+=soulbind=342270/320660/320687/322721/140:1/185:1/223:1/175:1
+profileset."RWTiring/NTPoison/SPatrol/GInvigor/ SAttunement:1/ Bloodlet:1/ ECall:1/175:1"+=soulbind=342270/320660/320687/322721/140:1/253:1/223:1/175:1
+profileset."RWTiring/NTPoison/SPatrol/GInvigor/ FAppetite:1/ OWTB:1/ Bloodlet:1/175:1"+=soulbind=342270/320660/320687/322721/183:1/185:1/253:1/175:1
+profileset."RWTiring/NTPoison/SPatrol/GInvigor/ FAppetite:1/ OWTB:1/ ECall:1/175:1"+=soulbind=342270/320660/320687/322721/183:1/185:1/223:1/175:1
+profileset."RWTiring/NTPoison/SPatrol/GInvigor/ FAppetite:1/ Bloodlet:1/ ECall:1/175:1"+=soulbind=342270/320660/320687/322721/183:1/253:1/223:1/175:1
+profileset."RWTiring/NTPoison/SPatrol/GInvigor/ OWTB:1/ Bloodlet:1/ ECall:1/175:1"+=soulbind=342270/320660/320687/322721/185:1/253:1/223:1/175:1
+profileset."RWTiring/NTHerbs/NSplendor/GInvigor/ SAttunement:1/ FAppetite:1/175:1"+=soulbind=342270/320662/320668/322721/140:1/183:1/175:1
+profileset."RWTiring/NTHerbs/NSplendor/GInvigor/ SAttunement:1/ OWTB:1/175:1"+=soulbind=342270/320662/320668/322721/140:1/185:1/175:1
+profileset."RWTiring/NTHerbs/NSplendor/GInvigor/ SAttunement:1/ Bloodlet:1/175:1"+=soulbind=342270/320662/320668/322721/140:1/253:1/175:1
+profileset."RWTiring/NTHerbs/NSplendor/GInvigor/ SAttunement:1/ ECall:1/175:1"+=soulbind=342270/320662/320668/322721/140:1/223:1/175:1
+profileset."RWTiring/NTHerbs/NSplendor/GInvigor/ FAppetite:1/ OWTB:1/175:1"+=soulbind=342270/320662/320668/322721/183:1/185:1/175:1
+profileset."RWTiring/NTHerbs/NSplendor/GInvigor/ FAppetite:1/ Bloodlet:1/175:1"+=soulbind=342270/320662/320668/322721/183:1/253:1/175:1
+profileset."RWTiring/NTHerbs/NSplendor/GInvigor/ FAppetite:1/ ECall:1/175:1"+=soulbind=342270/320662/320668/322721/183:1/223:1/175:1
+profileset."RWTiring/NTHerbs/NSplendor/GInvigor/ OWTB:1/ Bloodlet:1/175:1"+=soulbind=342270/320662/320668/322721/185:1/253:1/175:1
+profileset."RWTiring/NTHerbs/NSplendor/GInvigor/ OWTB:1/ ECall:1/175:1"+=soulbind=342270/320662/320668/322721/185:1/223:1/175:1
+profileset."RWTiring/NTHerbs/NSplendor/GInvigor/ Bloodlet:1/ ECall:1/175:1"+=soulbind=342270/320662/320668/322721/253:1/223:1/175:1
+profileset."RWTiring/NTHerbs/SPatrol/GInvigor/ SAttunement:1/ FAppetite:1/175:1"+=soulbind=342270/320662/320687/322721/140:1/183:1/175:1
+profileset."RWTiring/NTHerbs/SPatrol/GInvigor/ SAttunement:1/ OWTB:1/175:1"+=soulbind=342270/320662/320687/322721/140:1/185:1/175:1
+profileset."RWTiring/NTHerbs/SPatrol/GInvigor/ SAttunement:1/ Bloodlet:1/175:1"+=soulbind=342270/320662/320687/322721/140:1/253:1/175:1
+profileset."RWTiring/NTHerbs/SPatrol/GInvigor/ SAttunement:1/ ECall:1/175:1"+=soulbind=342270/320662/320687/322721/140:1/223:1/175:1
+profileset."RWTiring/NTHerbs/SPatrol/GInvigor/ FAppetite:1/ OWTB:1/175:1"+=soulbind=342270/320662/320687/322721/183:1/185:1/175:1
+profileset."RWTiring/NTHerbs/SPatrol/GInvigor/ FAppetite:1/ Bloodlet:1/175:1"+=soulbind=342270/320662/320687/322721/183:1/253:1/175:1
+profileset."RWTiring/NTHerbs/SPatrol/GInvigor/ FAppetite:1/ ECall:1/175:1"+=soulbind=342270/320662/320687/322721/183:1/223:1/175:1
+profileset."RWTiring/NTHerbs/SPatrol/GInvigor/ OWTB:1/ Bloodlet:1/175:1"+=soulbind=342270/320662/320687/322721/185:1/253:1/175:1
+profileset."RWTiring/NTHerbs/SPatrol/GInvigor/ OWTB:1/ ECall:1/175:1"+=soulbind=342270/320662/320687/322721/185:1/223:1/175:1
+profileset."RWTiring/NTHerbs/SPatrol/GInvigor/ Bloodlet:1/ ECall:1/175:1"+=soulbind=342270/320662/320687/322721/253:1/223:1/175:1
+profileset."SotMove/NTBurs/NSplendor/GInvigor/ SAttunement:1/175:1"+=soulbind=320658/320659/320668/322721/140:1/175:1
+profileset."SotMove/NTBurs/NSplendor/GInvigor/ FAppetite:1/175:1"+=soulbind=320658/320659/320668/322721/183:1/175:1
+profileset."SotMove/NTBurs/NSplendor/GInvigor/ OWTB:1/175:1"+=soulbind=320658/320659/320668/322721/185:1/175:1
+profileset."SotMove/NTBurs/NSplendor/GInvigor/ Bloodlet:1/175:1"+=soulbind=320658/320659/320668/322721/253:1/175:1
+profileset."SotMove/NTBurs/NSplendor/GInvigor/ ECall:1/175:1"+=soulbind=320658/320659/320668/322721/223:1/175:1
+profileset."SotMove/NTBurs/SPatrol/GInvigor/ SAttunement:1/175:1"+=soulbind=320658/320659/320687/322721/140:1/175:1
+profileset."SotMove/NTBurs/SPatrol/GInvigor/ FAppetite:1/175:1"+=soulbind=320658/320659/320687/322721/183:1/175:1
+profileset."SotMove/NTBurs/SPatrol/GInvigor/ OWTB:1/175:1"+=soulbind=320658/320659/320687/322721/185:1/175:1
+profileset."SotMove/NTBurs/SPatrol/GInvigor/ Bloodlet:1/175:1"+=soulbind=320658/320659/320687/322721/253:1/175:1
+profileset."SotMove/NTBurs/SPatrol/GInvigor/ ECall:1/175:1"+=soulbind=320658/320659/320687/322721/223:1/175:1
+profileset."SotMove/NTPoison/NSplendor/GInvigor/ SAttunement:1/ FAppetite:1/175:1"+=soulbind=320658/320660/320668/322721/140:1/183:1/175:1
+profileset."SotMove/NTPoison/NSplendor/GInvigor/ SAttunement:1/ OWTB:1/175:1"+=soulbind=320658/320660/320668/322721/140:1/185:1/175:1
+profileset."SotMove/NTPoison/NSplendor/GInvigor/ SAttunement:1/ Bloodlet:1/175:1"+=soulbind=320658/320660/320668/322721/140:1/253:1/175:1
+profileset."SotMove/NTPoison/NSplendor/GInvigor/ SAttunement:1/ ECall:1/175:1"+=soulbind=320658/320660/320668/322721/140:1/223:1/175:1
+profileset."SotMove/NTPoison/NSplendor/GInvigor/ FAppetite:1/ OWTB:1/175:1"+=soulbind=320658/320660/320668/322721/183:1/185:1/175:1
+profileset."SotMove/NTPoison/NSplendor/GInvigor/ FAppetite:1/ Bloodlet:1/175:1"+=soulbind=320658/320660/320668/322721/183:1/253:1/175:1
+profileset."SotMove/NTPoison/NSplendor/GInvigor/ FAppetite:1/ ECall:1/175:1"+=soulbind=320658/320660/320668/322721/183:1/223:1/175:1
+profileset."SotMove/NTPoison/NSplendor/GInvigor/ OWTB:1/ Bloodlet:1/175:1"+=soulbind=320658/320660/320668/322721/185:1/253:1/175:1
+profileset."SotMove/NTPoison/NSplendor/GInvigor/ OWTB:1/ ECall:1/175:1"+=soulbind=320658/320660/320668/322721/185:1/223:1/175:1
+profileset."SotMove/NTPoison/NSplendor/GInvigor/ Bloodlet:1/ ECall:1/175:1"+=soulbind=320658/320660/320668/322721/253:1/223:1/175:1
+profileset."SotMove/NTPoison/SPatrol/GInvigor/ SAttunement:1/ FAppetite:1/175:1"+=soulbind=320658/320660/320687/322721/140:1/183:1/175:1
+profileset."SotMove/NTPoison/SPatrol/GInvigor/ SAttunement:1/ OWTB:1/175:1"+=soulbind=320658/320660/320687/322721/140:1/185:1/175:1
+profileset."SotMove/NTPoison/SPatrol/GInvigor/ SAttunement:1/ Bloodlet:1/175:1"+=soulbind=320658/320660/320687/322721/140:1/253:1/175:1
+profileset."SotMove/NTPoison/SPatrol/GInvigor/ SAttunement:1/ ECall:1/175:1"+=soulbind=320658/320660/320687/322721/140:1/223:1/175:1
+profileset."SotMove/NTPoison/SPatrol/GInvigor/ FAppetite:1/ OWTB:1/175:1"+=soulbind=320658/320660/320687/322721/183:1/185:1/175:1
+profileset."SotMove/NTPoison/SPatrol/GInvigor/ FAppetite:1/ Bloodlet:1/175:1"+=soulbind=320658/320660/320687/322721/183:1/253:1/175:1
+profileset."SotMove/NTPoison/SPatrol/GInvigor/ FAppetite:1/ ECall:1/175:1"+=soulbind=320658/320660/320687/322721/183:1/223:1/175:1
+profileset."SotMove/NTPoison/SPatrol/GInvigor/ OWTB:1/ Bloodlet:1/175:1"+=soulbind=320658/320660/320687/322721/185:1/253:1/175:1
+profileset."SotMove/NTPoison/SPatrol/GInvigor/ OWTB:1/ ECall:1/175:1"+=soulbind=320658/320660/320687/322721/185:1/223:1/175:1
+profileset."SotMove/NTPoison/SPatrol/GInvigor/ Bloodlet:1/ ECall:1/175:1"+=soulbind=320658/320660/320687/322721/253:1/223:1/175:1
+profileset."SotMove/NTHerbs/NSplendor/GInvigor/ SAttunement:1/175:1"+=soulbind=320658/320662/320668/322721/140:1/175:1
+profileset."SotMove/NTHerbs/NSplendor/GInvigor/ FAppetite:1/175:1"+=soulbind=320658/320662/320668/322721/183:1/175:1
+profileset."SotMove/NTHerbs/NSplendor/GInvigor/ OWTB:1/175:1"+=soulbind=320658/320662/320668/322721/185:1/175:1
+profileset."SotMove/NTHerbs/NSplendor/GInvigor/ Bloodlet:1/175:1"+=soulbind=320658/320662/320668/322721/253:1/175:1
+profileset."SotMove/NTHerbs/NSplendor/GInvigor/ ECall:1/175:1"+=soulbind=320658/320662/320668/322721/223:1/175:1
+profileset."SotMove/NTHerbs/SPatrol/GInvigor/ SAttunement:1/175:1"+=soulbind=320658/320662/320687/322721/140:1/175:1
+profileset."SotMove/NTHerbs/SPatrol/GInvigor/ FAppetite:1/175:1"+=soulbind=320658/320662/320687/322721/183:1/175:1
+profileset."SotMove/NTHerbs/SPatrol/GInvigor/ OWTB:1/175:1"+=soulbind=320658/320662/320687/322721/185:1/175:1
+profileset."SotMove/NTHerbs/SPatrol/GInvigor/ Bloodlet:1/175:1"+=soulbind=320658/320662/320687/322721/253:1/175:1
+profileset."SotMove/NTHerbs/SPatrol/GInvigor/ ECall:1/175:1"+=soulbind=320658/320662/320687/322721/223:1/175:1
