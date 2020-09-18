@@ -106,3 +106,4 @@
 252, FInfusion
 226, SStrike
 224, StrengthPack
+175, RevOfFortune

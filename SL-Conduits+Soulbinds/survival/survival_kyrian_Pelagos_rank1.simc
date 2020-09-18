@@ -1,36 +1,36 @@
 #Replace this with your desired base profile /simc etc 
 
 covenant=kyrian
-profileset."LGtP/PoPatience/BfFriend/CMed/ EMark:1/ DTandem:1/175:1"+=soulbind=328257/329777/328265/328266/137:1/251:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ EMark:1/ FInfusion:1/175:1"+=soulbind=328257/329777/328265/328266/137:1/252:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ EMark:1/ SStrike:1/175:1"+=soulbind=328257/329777/328265/328266/137:1/226:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ EMark:1/ StrengthPack:1/175:1"+=soulbind=328257/329777/328265/328266/137:1/224:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ DTandem:1/ FInfusion:1/175:1"+=soulbind=328257/329777/328265/328266/251:1/252:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ DTandem:1/ SStrike:1/175:1"+=soulbind=328257/329777/328265/328266/251:1/226:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ DTandem:1/ StrengthPack:1/175:1"+=soulbind=328257/329777/328265/328266/251:1/224:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ FInfusion:1/ SStrike:1/175:1"+=soulbind=328257/329777/328265/328266/252:1/226:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ FInfusion:1/ StrengthPack:1/175:1"+=soulbind=328257/329777/328265/328266/252:1/224:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ SStrike:1/ StrengthPack:1/175:1"+=soulbind=328257/329777/328265/328266/226:1/224:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ EMark:1/175:1"+=soulbind=328257/329777/328265/328266/137:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ DTandem:1/175:1"+=soulbind=328257/329777/328265/328266/251:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ FInfusion:1/175:1"+=soulbind=328257/329777/328265/328266/252:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ SStrike:1/175:1"+=soulbind=328257/329777/328265/328266/226:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ StrengthPack:1/175:1"+=soulbind=328257/329777/328265/328266/224:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ EMark:1/ DTandem:1/175:1"+=soulbind=328257/329777/328263/328266/137:1/251:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ EMark:1/ FInfusion:1/175:1"+=soulbind=328257/329777/328263/328266/137:1/252:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ EMark:1/ SStrike:1/175:1"+=soulbind=328257/329777/328263/328266/137:1/226:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ EMark:1/ StrengthPack:1/175:1"+=soulbind=328257/329777/328263/328266/137:1/224:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ DTandem:1/ FInfusion:1/175:1"+=soulbind=328257/329777/328263/328266/251:1/252:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ DTandem:1/ SStrike:1/175:1"+=soulbind=328257/329777/328263/328266/251:1/226:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ DTandem:1/ StrengthPack:1/175:1"+=soulbind=328257/329777/328263/328266/251:1/224:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ FInfusion:1/ SStrike:1/175:1"+=soulbind=328257/329777/328263/328266/252:1/226:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ FInfusion:1/ StrengthPack:1/175:1"+=soulbind=328257/329777/328263/328266/252:1/224:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ SStrike:1/ StrengthPack:1/175:1"+=soulbind=328257/329777/328263/328266/226:1/224:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ EMark:1/175:1"+=soulbind=328257/329777/328263/328266/137:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ DTandem:1/175:1"+=soulbind=328257/329777/328263/328266/251:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ FInfusion:1/175:1"+=soulbind=328257/329777/328263/328266/252:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ SStrike:1/175:1"+=soulbind=328257/329777/328263/328266/226:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ StrengthPack:1/175:1"+=soulbind=328257/329777/328263/328266/224:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ EMark:1/ DTandem:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/137:1/251:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ EMark:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/137:1/252:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ EMark:1/ SStrike:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/137:1/226:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ EMark:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/137:1/224:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ DTandem:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/251:1/252:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ DTandem:1/ SStrike:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/251:1/226:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ DTandem:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/251:1/224:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ FInfusion:1/ SStrike:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/252:1/226:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ FInfusion:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/252:1/224:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ SStrike:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/226:1/224:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ EMark:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/137:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ DTandem:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/251:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ FInfusion:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/252:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ SStrike:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/226:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ StrengthPack:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/224:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ EMark:1/ DTandem:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/137:1/251:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ EMark:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/137:1/252:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ EMark:1/ SStrike:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/137:1/226:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ EMark:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/137:1/224:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ DTandem:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/251:1/252:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ DTandem:1/ SStrike:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/251:1/226:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ DTandem:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/251:1/224:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ FInfusion:1/ SStrike:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/252:1/226:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ FInfusion:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/252:1/224:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ SStrike:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/226:1/224:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ EMark:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/137:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ DTandem:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/251:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ FInfusion:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/252:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ SStrike:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/226:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ StrengthPack:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/224:1/175:1
 profileset."LGtP/RoTrials/BfFriend/CMed/ EMark:1/ DTandem:1"+=soulbind=328257/329786/328265/328266/137:1/251:1
 profileset."LGtP/RoTrials/BfFriend/CMed/ EMark:1/ FInfusion:1"+=soulbind=328257/329786/328265/328266/137:1/252:1
 profileset."LGtP/RoTrials/BfFriend/CMed/ EMark:1/ SStrike:1"+=soulbind=328257/329786/328265/328266/137:1/226:1
@@ -41,11 +41,11 @@ profileset."LGtP/RoTrials/BfFriend/CMed/ DTandem:1/ StrengthPack:1"+=soulbind=32
 profileset."LGtP/RoTrials/BfFriend/CMed/ FInfusion:1/ SStrike:1"+=soulbind=328257/329786/328265/328266/252:1/226:1
 profileset."LGtP/RoTrials/BfFriend/CMed/ FInfusion:1/ StrengthPack:1"+=soulbind=328257/329786/328265/328266/252:1/224:1
 profileset."LGtP/RoTrials/BfFriend/CMed/ SStrike:1/ StrengthPack:1"+=soulbind=328257/329786/328265/328266/226:1/224:1
-profileset."LGtP/RoTrials/BfFriend/CMed/ EMark:1/175:1"+=soulbind=328257/329786/328265/328266/137:1/175:1
-profileset."LGtP/RoTrials/BfFriend/CMed/ DTandem:1/175:1"+=soulbind=328257/329786/328265/328266/251:1/175:1
-profileset."LGtP/RoTrials/BfFriend/CMed/ FInfusion:1/175:1"+=soulbind=328257/329786/328265/328266/252:1/175:1
-profileset."LGtP/RoTrials/BfFriend/CMed/ SStrike:1/175:1"+=soulbind=328257/329786/328265/328266/226:1/175:1
-profileset."LGtP/RoTrials/BfFriend/CMed/ StrengthPack:1/175:1"+=soulbind=328257/329786/328265/328266/224:1/175:1
+profileset."LGtP/RoTrials/BfFriend/CMed/ EMark:1/ RevOfFortune:1"+=soulbind=328257/329786/328265/328266/137:1/175:1
+profileset."LGtP/RoTrials/BfFriend/CMed/ DTandem:1/ RevOfFortune:1"+=soulbind=328257/329786/328265/328266/251:1/175:1
+profileset."LGtP/RoTrials/BfFriend/CMed/ FInfusion:1/ RevOfFortune:1"+=soulbind=328257/329786/328265/328266/252:1/175:1
+profileset."LGtP/RoTrials/BfFriend/CMed/ SStrike:1/ RevOfFortune:1"+=soulbind=328257/329786/328265/328266/226:1/175:1
+profileset."LGtP/RoTrials/BfFriend/CMed/ StrengthPack:1/ RevOfFortune:1"+=soulbind=328257/329786/328265/328266/224:1/175:1
 profileset."LGtP/RoTrials/CVest/CMed/ EMark:1/ DTandem:1"+=soulbind=328257/329786/328263/328266/137:1/251:1
 profileset."LGtP/RoTrials/CVest/CMed/ EMark:1/ FInfusion:1"+=soulbind=328257/329786/328263/328266/137:1/252:1
 profileset."LGtP/RoTrials/CVest/CMed/ EMark:1/ SStrike:1"+=soulbind=328257/329786/328263/328266/137:1/226:1
@@ -56,11 +56,11 @@ profileset."LGtP/RoTrials/CVest/CMed/ DTandem:1/ StrengthPack:1"+=soulbind=32825
 profileset."LGtP/RoTrials/CVest/CMed/ FInfusion:1/ SStrike:1"+=soulbind=328257/329786/328263/328266/252:1/226:1
 profileset."LGtP/RoTrials/CVest/CMed/ FInfusion:1/ StrengthPack:1"+=soulbind=328257/329786/328263/328266/252:1/224:1
 profileset."LGtP/RoTrials/CVest/CMed/ SStrike:1/ StrengthPack:1"+=soulbind=328257/329786/328263/328266/226:1/224:1
-profileset."LGtP/RoTrials/CVest/CMed/ EMark:1/175:1"+=soulbind=328257/329786/328263/328266/137:1/175:1
-profileset."LGtP/RoTrials/CVest/CMed/ DTandem:1/175:1"+=soulbind=328257/329786/328263/328266/251:1/175:1
-profileset."LGtP/RoTrials/CVest/CMed/ FInfusion:1/175:1"+=soulbind=328257/329786/328263/328266/252:1/175:1
-profileset."LGtP/RoTrials/CVest/CMed/ SStrike:1/175:1"+=soulbind=328257/329786/328263/328266/226:1/175:1
-profileset."LGtP/RoTrials/CVest/CMed/ StrengthPack:1/175:1"+=soulbind=328257/329786/328263/328266/224:1/175:1
+profileset."LGtP/RoTrials/CVest/CMed/ EMark:1/ RevOfFortune:1"+=soulbind=328257/329786/328263/328266/137:1/175:1
+profileset."LGtP/RoTrials/CVest/CMed/ DTandem:1/ RevOfFortune:1"+=soulbind=328257/329786/328263/328266/251:1/175:1
+profileset."LGtP/RoTrials/CVest/CMed/ FInfusion:1/ RevOfFortune:1"+=soulbind=328257/329786/328263/328266/252:1/175:1
+profileset."LGtP/RoTrials/CVest/CMed/ SStrike:1/ RevOfFortune:1"+=soulbind=328257/329786/328263/328266/226:1/175:1
+profileset."LGtP/RoTrials/CVest/CMed/ StrengthPack:1/ RevOfFortune:1"+=soulbind=328257/329786/328263/328266/224:1/175:1
 profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ DTandem:1/ FInfusion:1"+=soulbind=328257/328261/328265/328266/137:1/251:1/252:1
 profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ DTandem:1/ SStrike:1"+=soulbind=328257/328261/328265/328266/137:1/251:1/226:1
 profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ DTandem:1/ StrengthPack:1"+=soulbind=328257/328261/328265/328266/137:1/251:1/224:1
@@ -71,16 +71,16 @@ profileset."LGtP/FMantra/BfFriend/CMed/ DTandem:1/ FInfusion:1/ SStrike:1"+=soul
 profileset."LGtP/FMantra/BfFriend/CMed/ DTandem:1/ FInfusion:1/ StrengthPack:1"+=soulbind=328257/328261/328265/328266/251:1/252:1/224:1
 profileset."LGtP/FMantra/BfFriend/CMed/ DTandem:1/ SStrike:1/ StrengthPack:1"+=soulbind=328257/328261/328265/328266/251:1/226:1/224:1
 profileset."LGtP/FMantra/BfFriend/CMed/ FInfusion:1/ SStrike:1/ StrengthPack:1"+=soulbind=328257/328261/328265/328266/252:1/226:1/224:1
-profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ DTandem:1/175:1"+=soulbind=328257/328261/328265/328266/137:1/251:1/175:1
-profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ FInfusion:1/175:1"+=soulbind=328257/328261/328265/328266/137:1/252:1/175:1
-profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ SStrike:1/175:1"+=soulbind=328257/328261/328265/328266/137:1/226:1/175:1
-profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ StrengthPack:1/175:1"+=soulbind=328257/328261/328265/328266/137:1/224:1/175:1
-profileset."LGtP/FMantra/BfFriend/CMed/ DTandem:1/ FInfusion:1/175:1"+=soulbind=328257/328261/328265/328266/251:1/252:1/175:1
-profileset."LGtP/FMantra/BfFriend/CMed/ DTandem:1/ SStrike:1/175:1"+=soulbind=328257/328261/328265/328266/251:1/226:1/175:1
-profileset."LGtP/FMantra/BfFriend/CMed/ DTandem:1/ StrengthPack:1/175:1"+=soulbind=328257/328261/328265/328266/251:1/224:1/175:1
-profileset."LGtP/FMantra/BfFriend/CMed/ FInfusion:1/ SStrike:1/175:1"+=soulbind=328257/328261/328265/328266/252:1/226:1/175:1
-profileset."LGtP/FMantra/BfFriend/CMed/ FInfusion:1/ StrengthPack:1/175:1"+=soulbind=328257/328261/328265/328266/252:1/224:1/175:1
-profileset."LGtP/FMantra/BfFriend/CMed/ SStrike:1/ StrengthPack:1/175:1"+=soulbind=328257/328261/328265/328266/226:1/224:1/175:1
+profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ DTandem:1/ RevOfFortune:1"+=soulbind=328257/328261/328265/328266/137:1/251:1/175:1
+profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=328257/328261/328265/328266/137:1/252:1/175:1
+profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ SStrike:1/ RevOfFortune:1"+=soulbind=328257/328261/328265/328266/137:1/226:1/175:1
+profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=328257/328261/328265/328266/137:1/224:1/175:1
+profileset."LGtP/FMantra/BfFriend/CMed/ DTandem:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=328257/328261/328265/328266/251:1/252:1/175:1
+profileset."LGtP/FMantra/BfFriend/CMed/ DTandem:1/ SStrike:1/ RevOfFortune:1"+=soulbind=328257/328261/328265/328266/251:1/226:1/175:1
+profileset."LGtP/FMantra/BfFriend/CMed/ DTandem:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=328257/328261/328265/328266/251:1/224:1/175:1
+profileset."LGtP/FMantra/BfFriend/CMed/ FInfusion:1/ SStrike:1/ RevOfFortune:1"+=soulbind=328257/328261/328265/328266/252:1/226:1/175:1
+profileset."LGtP/FMantra/BfFriend/CMed/ FInfusion:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=328257/328261/328265/328266/252:1/224:1/175:1
+profileset."LGtP/FMantra/BfFriend/CMed/ SStrike:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=328257/328261/328265/328266/226:1/224:1/175:1
 profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ DTandem:1/ FInfusion:1"+=soulbind=328257/328261/328263/328266/137:1/251:1/252:1
 profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ DTandem:1/ SStrike:1"+=soulbind=328257/328261/328263/328266/137:1/251:1/226:1
 profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ DTandem:1/ StrengthPack:1"+=soulbind=328257/328261/328263/328266/137:1/251:1/224:1
@@ -91,13 +91,13 @@ profileset."LGtP/FMantra/CVest/CMed/ DTandem:1/ FInfusion:1/ SStrike:1"+=soulbin
 profileset."LGtP/FMantra/CVest/CMed/ DTandem:1/ FInfusion:1/ StrengthPack:1"+=soulbind=328257/328261/328263/328266/251:1/252:1/224:1
 profileset."LGtP/FMantra/CVest/CMed/ DTandem:1/ SStrike:1/ StrengthPack:1"+=soulbind=328257/328261/328263/328266/251:1/226:1/224:1
 profileset."LGtP/FMantra/CVest/CMed/ FInfusion:1/ SStrike:1/ StrengthPack:1"+=soulbind=328257/328261/328263/328266/252:1/226:1/224:1
-profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ DTandem:1/175:1"+=soulbind=328257/328261/328263/328266/137:1/251:1/175:1
-profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ FInfusion:1/175:1"+=soulbind=328257/328261/328263/328266/137:1/252:1/175:1
-profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ SStrike:1/175:1"+=soulbind=328257/328261/328263/328266/137:1/226:1/175:1
-profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ StrengthPack:1/175:1"+=soulbind=328257/328261/328263/328266/137:1/224:1/175:1
-profileset."LGtP/FMantra/CVest/CMed/ DTandem:1/ FInfusion:1/175:1"+=soulbind=328257/328261/328263/328266/251:1/252:1/175:1
-profileset."LGtP/FMantra/CVest/CMed/ DTandem:1/ SStrike:1/175:1"+=soulbind=328257/328261/328263/328266/251:1/226:1/175:1
-profileset."LGtP/FMantra/CVest/CMed/ DTandem:1/ StrengthPack:1/175:1"+=soulbind=328257/328261/328263/328266/251:1/224:1/175:1
-profileset."LGtP/FMantra/CVest/CMed/ FInfusion:1/ SStrike:1/175:1"+=soulbind=328257/328261/328263/328266/252:1/226:1/175:1
-profileset."LGtP/FMantra/CVest/CMed/ FInfusion:1/ StrengthPack:1/175:1"+=soulbind=328257/328261/328263/328266/252:1/224:1/175:1
-profileset."LGtP/FMantra/CVest/CMed/ SStrike:1/ StrengthPack:1/175:1"+=soulbind=328257/328261/328263/328266/226:1/224:1/175:1
+profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ DTandem:1/ RevOfFortune:1"+=soulbind=328257/328261/328263/328266/137:1/251:1/175:1
+profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=328257/328261/328263/328266/137:1/252:1/175:1
+profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ SStrike:1/ RevOfFortune:1"+=soulbind=328257/328261/328263/328266/137:1/226:1/175:1
+profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=328257/328261/328263/328266/137:1/224:1/175:1
+profileset."LGtP/FMantra/CVest/CMed/ DTandem:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=328257/328261/328263/328266/251:1/252:1/175:1
+profileset."LGtP/FMantra/CVest/CMed/ DTandem:1/ SStrike:1/ RevOfFortune:1"+=soulbind=328257/328261/328263/328266/251:1/226:1/175:1
+profileset."LGtP/FMantra/CVest/CMed/ DTandem:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=328257/328261/328263/328266/251:1/224:1/175:1
+profileset."LGtP/FMantra/CVest/CMed/ FInfusion:1/ SStrike:1/ RevOfFortune:1"+=soulbind=328257/328261/328263/328266/252:1/226:1/175:1
+profileset."LGtP/FMantra/CVest/CMed/ FInfusion:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=328257/328261/328263/328266/252:1/224:1/175:1
+profileset."LGtP/FMantra/CVest/CMed/ SStrike:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=328257/328261/328263/328266/226:1/224:1/175:1

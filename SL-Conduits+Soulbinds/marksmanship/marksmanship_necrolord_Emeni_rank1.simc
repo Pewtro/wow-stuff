@@ -1,66 +1,66 @@
 #Replace this with your desired base profile /simc etc 
 
 covenant=necrolord
-profileset."EMSkin/CLegs/GrToes/EtConstruct/ NBarrage:1/ BProject:1/ DChain:1/175:1"+=soulbind=323921/324440/323918/342156/143:1/189:1/192:1/175:1
-profileset."EMSkin/CLegs/GrToes/EtConstruct/ NBarrage:1/ BProject:1/ PPrecision:1/175:1"+=soulbind=323921/324440/323918/342156/143:1/189:1/199:1/175:1
-profileset."EMSkin/CLegs/GrToes/EtConstruct/ NBarrage:1/ BProject:1/ SFocus:1/175:1"+=soulbind=323921/324440/323918/342156/143:1/189:1/188:1/175:1
-profileset."EMSkin/CLegs/GrToes/EtConstruct/ NBarrage:1/ DChain:1/ PPrecision:1/175:1"+=soulbind=323921/324440/323918/342156/143:1/192:1/199:1/175:1
-profileset."EMSkin/CLegs/GrToes/EtConstruct/ NBarrage:1/ DChain:1/ SFocus:1/175:1"+=soulbind=323921/324440/323918/342156/143:1/192:1/188:1/175:1
-profileset."EMSkin/CLegs/GrToes/EtConstruct/ NBarrage:1/ PPrecision:1/ SFocus:1/175:1"+=soulbind=323921/324440/323918/342156/143:1/199:1/188:1/175:1
-profileset."EMSkin/CLegs/GrToes/EtConstruct/ BProject:1/ DChain:1/ PPrecision:1/175:1"+=soulbind=323921/324440/323918/342156/189:1/192:1/199:1/175:1
-profileset."EMSkin/CLegs/GrToes/EtConstruct/ BProject:1/ DChain:1/ SFocus:1/175:1"+=soulbind=323921/324440/323918/342156/189:1/192:1/188:1/175:1
-profileset."EMSkin/CLegs/GrToes/EtConstruct/ BProject:1/ PPrecision:1/ SFocus:1/175:1"+=soulbind=323921/324440/323918/342156/189:1/199:1/188:1/175:1
-profileset."EMSkin/CLegs/GrToes/EtConstruct/ DChain:1/ PPrecision:1/ SFocus:1/175:1"+=soulbind=323921/324440/323918/342156/192:1/199:1/188:1/175:1
-profileset."EMSkin/CLegs/GnChomp/EtConstruct/ NBarrage:1/ BProject:1/175:1"+=soulbind=323921/324440/323919/342156/143:1/189:1/175:1
-profileset."EMSkin/CLegs/GnChomp/EtConstruct/ NBarrage:1/ DChain:1/175:1"+=soulbind=323921/324440/323919/342156/143:1/192:1/175:1
-profileset."EMSkin/CLegs/GnChomp/EtConstruct/ NBarrage:1/ PPrecision:1/175:1"+=soulbind=323921/324440/323919/342156/143:1/199:1/175:1
-profileset."EMSkin/CLegs/GnChomp/EtConstruct/ NBarrage:1/ SFocus:1/175:1"+=soulbind=323921/324440/323919/342156/143:1/188:1/175:1
-profileset."EMSkin/CLegs/GnChomp/EtConstruct/ BProject:1/ DChain:1/175:1"+=soulbind=323921/324440/323919/342156/189:1/192:1/175:1
-profileset."EMSkin/CLegs/GnChomp/EtConstruct/ BProject:1/ PPrecision:1/175:1"+=soulbind=323921/324440/323919/342156/189:1/199:1/175:1
-profileset."EMSkin/CLegs/GnChomp/EtConstruct/ BProject:1/ SFocus:1/175:1"+=soulbind=323921/324440/323919/342156/189:1/188:1/175:1
-profileset."EMSkin/CLegs/GnChomp/EtConstruct/ DChain:1/ PPrecision:1/175:1"+=soulbind=323921/324440/323919/342156/192:1/199:1/175:1
-profileset."EMSkin/CLegs/GnChomp/EtConstruct/ DChain:1/ SFocus:1/175:1"+=soulbind=323921/324440/323919/342156/192:1/188:1/175:1
-profileset."EMSkin/CLegs/GnChomp/EtConstruct/ PPrecision:1/ SFocus:1/175:1"+=soulbind=323921/324440/323919/342156/199:1/188:1/175:1
-profileset."EMSkin/CLegs/SEmission/EtConstruct/ NBarrage:1/ BProject:1/175:1"+=soulbind=323921/324440/323916/342156/143:1/189:1/175:1
-profileset."EMSkin/CLegs/SEmission/EtConstruct/ NBarrage:1/ DChain:1/175:1"+=soulbind=323921/324440/323916/342156/143:1/192:1/175:1
-profileset."EMSkin/CLegs/SEmission/EtConstruct/ NBarrage:1/ PPrecision:1/175:1"+=soulbind=323921/324440/323916/342156/143:1/199:1/175:1
-profileset."EMSkin/CLegs/SEmission/EtConstruct/ NBarrage:1/ SFocus:1/175:1"+=soulbind=323921/324440/323916/342156/143:1/188:1/175:1
-profileset."EMSkin/CLegs/SEmission/EtConstruct/ BProject:1/ DChain:1/175:1"+=soulbind=323921/324440/323916/342156/189:1/192:1/175:1
-profileset."EMSkin/CLegs/SEmission/EtConstruct/ BProject:1/ PPrecision:1/175:1"+=soulbind=323921/324440/323916/342156/189:1/199:1/175:1
-profileset."EMSkin/CLegs/SEmission/EtConstruct/ BProject:1/ SFocus:1/175:1"+=soulbind=323921/324440/323916/342156/189:1/188:1/175:1
-profileset."EMSkin/CLegs/SEmission/EtConstruct/ DChain:1/ PPrecision:1/175:1"+=soulbind=323921/324440/323916/342156/192:1/199:1/175:1
-profileset."EMSkin/CLegs/SEmission/EtConstruct/ DChain:1/ SFocus:1/175:1"+=soulbind=323921/324440/323916/342156/192:1/188:1/175:1
-profileset."EMSkin/CLegs/SEmission/EtConstruct/ PPrecision:1/ SFocus:1/175:1"+=soulbind=323921/324440/323916/342156/199:1/188:1/175:1
-profileset."EMSkin/HKidney/GrToes/EtConstruct/ NBarrage:1/ BProject:1/ DChain:1/175:1"+=soulbind=323921/324441/323918/342156/143:1/189:1/192:1/175:1
-profileset."EMSkin/HKidney/GrToes/EtConstruct/ NBarrage:1/ BProject:1/ PPrecision:1/175:1"+=soulbind=323921/324441/323918/342156/143:1/189:1/199:1/175:1
-profileset."EMSkin/HKidney/GrToes/EtConstruct/ NBarrage:1/ BProject:1/ SFocus:1/175:1"+=soulbind=323921/324441/323918/342156/143:1/189:1/188:1/175:1
-profileset."EMSkin/HKidney/GrToes/EtConstruct/ NBarrage:1/ DChain:1/ PPrecision:1/175:1"+=soulbind=323921/324441/323918/342156/143:1/192:1/199:1/175:1
-profileset."EMSkin/HKidney/GrToes/EtConstruct/ NBarrage:1/ DChain:1/ SFocus:1/175:1"+=soulbind=323921/324441/323918/342156/143:1/192:1/188:1/175:1
-profileset."EMSkin/HKidney/GrToes/EtConstruct/ NBarrage:1/ PPrecision:1/ SFocus:1/175:1"+=soulbind=323921/324441/323918/342156/143:1/199:1/188:1/175:1
-profileset."EMSkin/HKidney/GrToes/EtConstruct/ BProject:1/ DChain:1/ PPrecision:1/175:1"+=soulbind=323921/324441/323918/342156/189:1/192:1/199:1/175:1
-profileset."EMSkin/HKidney/GrToes/EtConstruct/ BProject:1/ DChain:1/ SFocus:1/175:1"+=soulbind=323921/324441/323918/342156/189:1/192:1/188:1/175:1
-profileset."EMSkin/HKidney/GrToes/EtConstruct/ BProject:1/ PPrecision:1/ SFocus:1/175:1"+=soulbind=323921/324441/323918/342156/189:1/199:1/188:1/175:1
-profileset."EMSkin/HKidney/GrToes/EtConstruct/ DChain:1/ PPrecision:1/ SFocus:1/175:1"+=soulbind=323921/324441/323918/342156/192:1/199:1/188:1/175:1
-profileset."EMSkin/HKidney/GnChomp/EtConstruct/ NBarrage:1/ BProject:1/175:1"+=soulbind=323921/324441/323919/342156/143:1/189:1/175:1
-profileset."EMSkin/HKidney/GnChomp/EtConstruct/ NBarrage:1/ DChain:1/175:1"+=soulbind=323921/324441/323919/342156/143:1/192:1/175:1
-profileset."EMSkin/HKidney/GnChomp/EtConstruct/ NBarrage:1/ PPrecision:1/175:1"+=soulbind=323921/324441/323919/342156/143:1/199:1/175:1
-profileset."EMSkin/HKidney/GnChomp/EtConstruct/ NBarrage:1/ SFocus:1/175:1"+=soulbind=323921/324441/323919/342156/143:1/188:1/175:1
-profileset."EMSkin/HKidney/GnChomp/EtConstruct/ BProject:1/ DChain:1/175:1"+=soulbind=323921/324441/323919/342156/189:1/192:1/175:1
-profileset."EMSkin/HKidney/GnChomp/EtConstruct/ BProject:1/ PPrecision:1/175:1"+=soulbind=323921/324441/323919/342156/189:1/199:1/175:1
-profileset."EMSkin/HKidney/GnChomp/EtConstruct/ BProject:1/ SFocus:1/175:1"+=soulbind=323921/324441/323919/342156/189:1/188:1/175:1
-profileset."EMSkin/HKidney/GnChomp/EtConstruct/ DChain:1/ PPrecision:1/175:1"+=soulbind=323921/324441/323919/342156/192:1/199:1/175:1
-profileset."EMSkin/HKidney/GnChomp/EtConstruct/ DChain:1/ SFocus:1/175:1"+=soulbind=323921/324441/323919/342156/192:1/188:1/175:1
-profileset."EMSkin/HKidney/GnChomp/EtConstruct/ PPrecision:1/ SFocus:1/175:1"+=soulbind=323921/324441/323919/342156/199:1/188:1/175:1
-profileset."EMSkin/HKidney/SEmission/EtConstruct/ NBarrage:1/ BProject:1/175:1"+=soulbind=323921/324441/323916/342156/143:1/189:1/175:1
-profileset."EMSkin/HKidney/SEmission/EtConstruct/ NBarrage:1/ DChain:1/175:1"+=soulbind=323921/324441/323916/342156/143:1/192:1/175:1
-profileset."EMSkin/HKidney/SEmission/EtConstruct/ NBarrage:1/ PPrecision:1/175:1"+=soulbind=323921/324441/323916/342156/143:1/199:1/175:1
-profileset."EMSkin/HKidney/SEmission/EtConstruct/ NBarrage:1/ SFocus:1/175:1"+=soulbind=323921/324441/323916/342156/143:1/188:1/175:1
-profileset."EMSkin/HKidney/SEmission/EtConstruct/ BProject:1/ DChain:1/175:1"+=soulbind=323921/324441/323916/342156/189:1/192:1/175:1
-profileset."EMSkin/HKidney/SEmission/EtConstruct/ BProject:1/ PPrecision:1/175:1"+=soulbind=323921/324441/323916/342156/189:1/199:1/175:1
-profileset."EMSkin/HKidney/SEmission/EtConstruct/ BProject:1/ SFocus:1/175:1"+=soulbind=323921/324441/323916/342156/189:1/188:1/175:1
-profileset."EMSkin/HKidney/SEmission/EtConstruct/ DChain:1/ PPrecision:1/175:1"+=soulbind=323921/324441/323916/342156/192:1/199:1/175:1
-profileset."EMSkin/HKidney/SEmission/EtConstruct/ DChain:1/ SFocus:1/175:1"+=soulbind=323921/324441/323916/342156/192:1/188:1/175:1
-profileset."EMSkin/HKidney/SEmission/EtConstruct/ PPrecision:1/ SFocus:1/175:1"+=soulbind=323921/324441/323916/342156/199:1/188:1/175:1
+profileset."EMSkin/CLegs/GrToes/EtConstruct/ NBarrage:1/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=323921/324440/323918/342156/143:1/189:1/192:1/175:1
+profileset."EMSkin/CLegs/GrToes/EtConstruct/ NBarrage:1/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323921/324440/323918/342156/143:1/189:1/199:1/175:1
+profileset."EMSkin/CLegs/GrToes/EtConstruct/ NBarrage:1/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324440/323918/342156/143:1/189:1/188:1/175:1
+profileset."EMSkin/CLegs/GrToes/EtConstruct/ NBarrage:1/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323921/324440/323918/342156/143:1/192:1/199:1/175:1
+profileset."EMSkin/CLegs/GrToes/EtConstruct/ NBarrage:1/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324440/323918/342156/143:1/192:1/188:1/175:1
+profileset."EMSkin/CLegs/GrToes/EtConstruct/ NBarrage:1/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324440/323918/342156/143:1/199:1/188:1/175:1
+profileset."EMSkin/CLegs/GrToes/EtConstruct/ BProject:1/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323921/324440/323918/342156/189:1/192:1/199:1/175:1
+profileset."EMSkin/CLegs/GrToes/EtConstruct/ BProject:1/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324440/323918/342156/189:1/192:1/188:1/175:1
+profileset."EMSkin/CLegs/GrToes/EtConstruct/ BProject:1/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324440/323918/342156/189:1/199:1/188:1/175:1
+profileset."EMSkin/CLegs/GrToes/EtConstruct/ DChain:1/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324440/323918/342156/192:1/199:1/188:1/175:1
+profileset."EMSkin/CLegs/GnChomp/EtConstruct/ NBarrage:1/ BProject:1/ RevOfFortune:1"+=soulbind=323921/324440/323919/342156/143:1/189:1/175:1
+profileset."EMSkin/CLegs/GnChomp/EtConstruct/ NBarrage:1/ DChain:1/ RevOfFortune:1"+=soulbind=323921/324440/323919/342156/143:1/192:1/175:1
+profileset."EMSkin/CLegs/GnChomp/EtConstruct/ NBarrage:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323921/324440/323919/342156/143:1/199:1/175:1
+profileset."EMSkin/CLegs/GnChomp/EtConstruct/ NBarrage:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324440/323919/342156/143:1/188:1/175:1
+profileset."EMSkin/CLegs/GnChomp/EtConstruct/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=323921/324440/323919/342156/189:1/192:1/175:1
+profileset."EMSkin/CLegs/GnChomp/EtConstruct/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323921/324440/323919/342156/189:1/199:1/175:1
+profileset."EMSkin/CLegs/GnChomp/EtConstruct/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324440/323919/342156/189:1/188:1/175:1
+profileset."EMSkin/CLegs/GnChomp/EtConstruct/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323921/324440/323919/342156/192:1/199:1/175:1
+profileset."EMSkin/CLegs/GnChomp/EtConstruct/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324440/323919/342156/192:1/188:1/175:1
+profileset."EMSkin/CLegs/GnChomp/EtConstruct/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324440/323919/342156/199:1/188:1/175:1
+profileset."EMSkin/CLegs/SEmission/EtConstruct/ NBarrage:1/ BProject:1/ RevOfFortune:1"+=soulbind=323921/324440/323916/342156/143:1/189:1/175:1
+profileset."EMSkin/CLegs/SEmission/EtConstruct/ NBarrage:1/ DChain:1/ RevOfFortune:1"+=soulbind=323921/324440/323916/342156/143:1/192:1/175:1
+profileset."EMSkin/CLegs/SEmission/EtConstruct/ NBarrage:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323921/324440/323916/342156/143:1/199:1/175:1
+profileset."EMSkin/CLegs/SEmission/EtConstruct/ NBarrage:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324440/323916/342156/143:1/188:1/175:1
+profileset."EMSkin/CLegs/SEmission/EtConstruct/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=323921/324440/323916/342156/189:1/192:1/175:1
+profileset."EMSkin/CLegs/SEmission/EtConstruct/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323921/324440/323916/342156/189:1/199:1/175:1
+profileset."EMSkin/CLegs/SEmission/EtConstruct/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324440/323916/342156/189:1/188:1/175:1
+profileset."EMSkin/CLegs/SEmission/EtConstruct/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323921/324440/323916/342156/192:1/199:1/175:1
+profileset."EMSkin/CLegs/SEmission/EtConstruct/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324440/323916/342156/192:1/188:1/175:1
+profileset."EMSkin/CLegs/SEmission/EtConstruct/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324440/323916/342156/199:1/188:1/175:1
+profileset."EMSkin/HKidney/GrToes/EtConstruct/ NBarrage:1/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=323921/324441/323918/342156/143:1/189:1/192:1/175:1
+profileset."EMSkin/HKidney/GrToes/EtConstruct/ NBarrage:1/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323921/324441/323918/342156/143:1/189:1/199:1/175:1
+profileset."EMSkin/HKidney/GrToes/EtConstruct/ NBarrage:1/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324441/323918/342156/143:1/189:1/188:1/175:1
+profileset."EMSkin/HKidney/GrToes/EtConstruct/ NBarrage:1/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323921/324441/323918/342156/143:1/192:1/199:1/175:1
+profileset."EMSkin/HKidney/GrToes/EtConstruct/ NBarrage:1/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324441/323918/342156/143:1/192:1/188:1/175:1
+profileset."EMSkin/HKidney/GrToes/EtConstruct/ NBarrage:1/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324441/323918/342156/143:1/199:1/188:1/175:1
+profileset."EMSkin/HKidney/GrToes/EtConstruct/ BProject:1/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323921/324441/323918/342156/189:1/192:1/199:1/175:1
+profileset."EMSkin/HKidney/GrToes/EtConstruct/ BProject:1/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324441/323918/342156/189:1/192:1/188:1/175:1
+profileset."EMSkin/HKidney/GrToes/EtConstruct/ BProject:1/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324441/323918/342156/189:1/199:1/188:1/175:1
+profileset."EMSkin/HKidney/GrToes/EtConstruct/ DChain:1/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324441/323918/342156/192:1/199:1/188:1/175:1
+profileset."EMSkin/HKidney/GnChomp/EtConstruct/ NBarrage:1/ BProject:1/ RevOfFortune:1"+=soulbind=323921/324441/323919/342156/143:1/189:1/175:1
+profileset."EMSkin/HKidney/GnChomp/EtConstruct/ NBarrage:1/ DChain:1/ RevOfFortune:1"+=soulbind=323921/324441/323919/342156/143:1/192:1/175:1
+profileset."EMSkin/HKidney/GnChomp/EtConstruct/ NBarrage:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323921/324441/323919/342156/143:1/199:1/175:1
+profileset."EMSkin/HKidney/GnChomp/EtConstruct/ NBarrage:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324441/323919/342156/143:1/188:1/175:1
+profileset."EMSkin/HKidney/GnChomp/EtConstruct/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=323921/324441/323919/342156/189:1/192:1/175:1
+profileset."EMSkin/HKidney/GnChomp/EtConstruct/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323921/324441/323919/342156/189:1/199:1/175:1
+profileset."EMSkin/HKidney/GnChomp/EtConstruct/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324441/323919/342156/189:1/188:1/175:1
+profileset."EMSkin/HKidney/GnChomp/EtConstruct/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323921/324441/323919/342156/192:1/199:1/175:1
+profileset."EMSkin/HKidney/GnChomp/EtConstruct/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324441/323919/342156/192:1/188:1/175:1
+profileset."EMSkin/HKidney/GnChomp/EtConstruct/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324441/323919/342156/199:1/188:1/175:1
+profileset."EMSkin/HKidney/SEmission/EtConstruct/ NBarrage:1/ BProject:1/ RevOfFortune:1"+=soulbind=323921/324441/323916/342156/143:1/189:1/175:1
+profileset."EMSkin/HKidney/SEmission/EtConstruct/ NBarrage:1/ DChain:1/ RevOfFortune:1"+=soulbind=323921/324441/323916/342156/143:1/192:1/175:1
+profileset."EMSkin/HKidney/SEmission/EtConstruct/ NBarrage:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323921/324441/323916/342156/143:1/199:1/175:1
+profileset."EMSkin/HKidney/SEmission/EtConstruct/ NBarrage:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324441/323916/342156/143:1/188:1/175:1
+profileset."EMSkin/HKidney/SEmission/EtConstruct/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=323921/324441/323916/342156/189:1/192:1/175:1
+profileset."EMSkin/HKidney/SEmission/EtConstruct/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323921/324441/323916/342156/189:1/199:1/175:1
+profileset."EMSkin/HKidney/SEmission/EtConstruct/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324441/323916/342156/189:1/188:1/175:1
+profileset."EMSkin/HKidney/SEmission/EtConstruct/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323921/324441/323916/342156/192:1/199:1/175:1
+profileset."EMSkin/HKidney/SEmission/EtConstruct/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324441/323916/342156/192:1/188:1/175:1
+profileset."EMSkin/HKidney/SEmission/EtConstruct/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323921/324441/323916/342156/199:1/188:1/175:1
 profileset."EAFlesh/CLegs/GrToes/EtConstruct/ NBarrage:1/ BProject:1/ DChain:1"+=soulbind=341650/324440/323918/342156/143:1/189:1/192:1
 profileset."EAFlesh/CLegs/GrToes/EtConstruct/ NBarrage:1/ BProject:1/ PPrecision:1"+=soulbind=341650/324440/323918/342156/143:1/189:1/199:1
 profileset."EAFlesh/CLegs/GrToes/EtConstruct/ NBarrage:1/ BProject:1/ SFocus:1"+=soulbind=341650/324440/323918/342156/143:1/189:1/188:1
@@ -81,16 +81,16 @@ profileset."EAFlesh/CLegs/GnChomp/EtConstruct/ BProject:1/ SFocus:1"+=soulbind=3
 profileset."EAFlesh/CLegs/GnChomp/EtConstruct/ DChain:1/ PPrecision:1"+=soulbind=341650/324440/323919/342156/192:1/199:1
 profileset."EAFlesh/CLegs/GnChomp/EtConstruct/ DChain:1/ SFocus:1"+=soulbind=341650/324440/323919/342156/192:1/188:1
 profileset."EAFlesh/CLegs/GnChomp/EtConstruct/ PPrecision:1/ SFocus:1"+=soulbind=341650/324440/323919/342156/199:1/188:1
-profileset."EAFlesh/CLegs/SEmission/EtConstruct/ NBarrage:1/ BProject:1/175:1"+=soulbind=341650/324440/323916/342156/143:1/189:1/175:1
-profileset."EAFlesh/CLegs/SEmission/EtConstruct/ NBarrage:1/ DChain:1/175:1"+=soulbind=341650/324440/323916/342156/143:1/192:1/175:1
-profileset."EAFlesh/CLegs/SEmission/EtConstruct/ NBarrage:1/ PPrecision:1/175:1"+=soulbind=341650/324440/323916/342156/143:1/199:1/175:1
-profileset."EAFlesh/CLegs/SEmission/EtConstruct/ NBarrage:1/ SFocus:1/175:1"+=soulbind=341650/324440/323916/342156/143:1/188:1/175:1
-profileset."EAFlesh/CLegs/SEmission/EtConstruct/ BProject:1/ DChain:1/175:1"+=soulbind=341650/324440/323916/342156/189:1/192:1/175:1
-profileset."EAFlesh/CLegs/SEmission/EtConstruct/ BProject:1/ PPrecision:1/175:1"+=soulbind=341650/324440/323916/342156/189:1/199:1/175:1
-profileset."EAFlesh/CLegs/SEmission/EtConstruct/ BProject:1/ SFocus:1/175:1"+=soulbind=341650/324440/323916/342156/189:1/188:1/175:1
-profileset."EAFlesh/CLegs/SEmission/EtConstruct/ DChain:1/ PPrecision:1/175:1"+=soulbind=341650/324440/323916/342156/192:1/199:1/175:1
-profileset."EAFlesh/CLegs/SEmission/EtConstruct/ DChain:1/ SFocus:1/175:1"+=soulbind=341650/324440/323916/342156/192:1/188:1/175:1
-profileset."EAFlesh/CLegs/SEmission/EtConstruct/ PPrecision:1/ SFocus:1/175:1"+=soulbind=341650/324440/323916/342156/199:1/188:1/175:1
+profileset."EAFlesh/CLegs/SEmission/EtConstruct/ NBarrage:1/ BProject:1/ RevOfFortune:1"+=soulbind=341650/324440/323916/342156/143:1/189:1/175:1
+profileset."EAFlesh/CLegs/SEmission/EtConstruct/ NBarrage:1/ DChain:1/ RevOfFortune:1"+=soulbind=341650/324440/323916/342156/143:1/192:1/175:1
+profileset."EAFlesh/CLegs/SEmission/EtConstruct/ NBarrage:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=341650/324440/323916/342156/143:1/199:1/175:1
+profileset."EAFlesh/CLegs/SEmission/EtConstruct/ NBarrage:1/ SFocus:1/ RevOfFortune:1"+=soulbind=341650/324440/323916/342156/143:1/188:1/175:1
+profileset."EAFlesh/CLegs/SEmission/EtConstruct/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=341650/324440/323916/342156/189:1/192:1/175:1
+profileset."EAFlesh/CLegs/SEmission/EtConstruct/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=341650/324440/323916/342156/189:1/199:1/175:1
+profileset."EAFlesh/CLegs/SEmission/EtConstruct/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=341650/324440/323916/342156/189:1/188:1/175:1
+profileset."EAFlesh/CLegs/SEmission/EtConstruct/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=341650/324440/323916/342156/192:1/199:1/175:1
+profileset."EAFlesh/CLegs/SEmission/EtConstruct/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=341650/324440/323916/342156/192:1/188:1/175:1
+profileset."EAFlesh/CLegs/SEmission/EtConstruct/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=341650/324440/323916/342156/199:1/188:1/175:1
 profileset."EAFlesh/HKidney/GrToes/EtConstruct/ NBarrage:1/ BProject:1/ DChain:1"+=soulbind=341650/324441/323918/342156/143:1/189:1/192:1
 profileset."EAFlesh/HKidney/GrToes/EtConstruct/ NBarrage:1/ BProject:1/ PPrecision:1"+=soulbind=341650/324441/323918/342156/143:1/189:1/199:1
 profileset."EAFlesh/HKidney/GrToes/EtConstruct/ NBarrage:1/ BProject:1/ SFocus:1"+=soulbind=341650/324441/323918/342156/143:1/189:1/188:1
@@ -111,13 +111,13 @@ profileset."EAFlesh/HKidney/GnChomp/EtConstruct/ BProject:1/ SFocus:1"+=soulbind
 profileset."EAFlesh/HKidney/GnChomp/EtConstruct/ DChain:1/ PPrecision:1"+=soulbind=341650/324441/323919/342156/192:1/199:1
 profileset."EAFlesh/HKidney/GnChomp/EtConstruct/ DChain:1/ SFocus:1"+=soulbind=341650/324441/323919/342156/192:1/188:1
 profileset."EAFlesh/HKidney/GnChomp/EtConstruct/ PPrecision:1/ SFocus:1"+=soulbind=341650/324441/323919/342156/199:1/188:1
-profileset."EAFlesh/HKidney/SEmission/EtConstruct/ NBarrage:1/ BProject:1/175:1"+=soulbind=341650/324441/323916/342156/143:1/189:1/175:1
-profileset."EAFlesh/HKidney/SEmission/EtConstruct/ NBarrage:1/ DChain:1/175:1"+=soulbind=341650/324441/323916/342156/143:1/192:1/175:1
-profileset."EAFlesh/HKidney/SEmission/EtConstruct/ NBarrage:1/ PPrecision:1/175:1"+=soulbind=341650/324441/323916/342156/143:1/199:1/175:1
-profileset."EAFlesh/HKidney/SEmission/EtConstruct/ NBarrage:1/ SFocus:1/175:1"+=soulbind=341650/324441/323916/342156/143:1/188:1/175:1
-profileset."EAFlesh/HKidney/SEmission/EtConstruct/ BProject:1/ DChain:1/175:1"+=soulbind=341650/324441/323916/342156/189:1/192:1/175:1
-profileset."EAFlesh/HKidney/SEmission/EtConstruct/ BProject:1/ PPrecision:1/175:1"+=soulbind=341650/324441/323916/342156/189:1/199:1/175:1
-profileset."EAFlesh/HKidney/SEmission/EtConstruct/ BProject:1/ SFocus:1/175:1"+=soulbind=341650/324441/323916/342156/189:1/188:1/175:1
-profileset."EAFlesh/HKidney/SEmission/EtConstruct/ DChain:1/ PPrecision:1/175:1"+=soulbind=341650/324441/323916/342156/192:1/199:1/175:1
-profileset."EAFlesh/HKidney/SEmission/EtConstruct/ DChain:1/ SFocus:1/175:1"+=soulbind=341650/324441/323916/342156/192:1/188:1/175:1
-profileset."EAFlesh/HKidney/SEmission/EtConstruct/ PPrecision:1/ SFocus:1/175:1"+=soulbind=341650/324441/323916/342156/199:1/188:1/175:1
+profileset."EAFlesh/HKidney/SEmission/EtConstruct/ NBarrage:1/ BProject:1/ RevOfFortune:1"+=soulbind=341650/324441/323916/342156/143:1/189:1/175:1
+profileset."EAFlesh/HKidney/SEmission/EtConstruct/ NBarrage:1/ DChain:1/ RevOfFortune:1"+=soulbind=341650/324441/323916/342156/143:1/192:1/175:1
+profileset."EAFlesh/HKidney/SEmission/EtConstruct/ NBarrage:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=341650/324441/323916/342156/143:1/199:1/175:1
+profileset."EAFlesh/HKidney/SEmission/EtConstruct/ NBarrage:1/ SFocus:1/ RevOfFortune:1"+=soulbind=341650/324441/323916/342156/143:1/188:1/175:1
+profileset."EAFlesh/HKidney/SEmission/EtConstruct/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=341650/324441/323916/342156/189:1/192:1/175:1
+profileset."EAFlesh/HKidney/SEmission/EtConstruct/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=341650/324441/323916/342156/189:1/199:1/175:1
+profileset."EAFlesh/HKidney/SEmission/EtConstruct/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=341650/324441/323916/342156/189:1/188:1/175:1
+profileset."EAFlesh/HKidney/SEmission/EtConstruct/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=341650/324441/323916/342156/192:1/199:1/175:1
+profileset."EAFlesh/HKidney/SEmission/EtConstruct/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=341650/324441/323916/342156/192:1/188:1/175:1
+profileset."EAFlesh/HKidney/SEmission/EtConstruct/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=341650/324441/323916/342156/199:1/188:1/175:1

@@ -1,36 +1,36 @@
 #Replace this with your desired base profile /simc etc 
 
 covenant=kyrian
-profileset."LGtP/PoPatience/BfFriend/CMed/ EMark:1/ BProject:1/175:1"+=soulbind=328257/329777/328265/328266/137:1/189:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ EMark:1/ DChain:1/175:1"+=soulbind=328257/329777/328265/328266/137:1/192:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ EMark:1/ PPrecision:1/175:1"+=soulbind=328257/329777/328265/328266/137:1/199:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ EMark:1/ SFocus:1/175:1"+=soulbind=328257/329777/328265/328266/137:1/188:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ BProject:1/ DChain:1/175:1"+=soulbind=328257/329777/328265/328266/189:1/192:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ BProject:1/ PPrecision:1/175:1"+=soulbind=328257/329777/328265/328266/189:1/199:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ BProject:1/ SFocus:1/175:1"+=soulbind=328257/329777/328265/328266/189:1/188:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ DChain:1/ PPrecision:1/175:1"+=soulbind=328257/329777/328265/328266/192:1/199:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ DChain:1/ SFocus:1/175:1"+=soulbind=328257/329777/328265/328266/192:1/188:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ PPrecision:1/ SFocus:1/175:1"+=soulbind=328257/329777/328265/328266/199:1/188:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ EMark:1/175:1"+=soulbind=328257/329777/328265/328266/137:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ BProject:1/175:1"+=soulbind=328257/329777/328265/328266/189:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ DChain:1/175:1"+=soulbind=328257/329777/328265/328266/192:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ PPrecision:1/175:1"+=soulbind=328257/329777/328265/328266/199:1/175:1
-profileset."LGtP/PoPatience/BfFriend/CMed/ SFocus:1/175:1"+=soulbind=328257/329777/328265/328266/188:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ EMark:1/ BProject:1/175:1"+=soulbind=328257/329777/328263/328266/137:1/189:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ EMark:1/ DChain:1/175:1"+=soulbind=328257/329777/328263/328266/137:1/192:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ EMark:1/ PPrecision:1/175:1"+=soulbind=328257/329777/328263/328266/137:1/199:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ EMark:1/ SFocus:1/175:1"+=soulbind=328257/329777/328263/328266/137:1/188:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ BProject:1/ DChain:1/175:1"+=soulbind=328257/329777/328263/328266/189:1/192:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ BProject:1/ PPrecision:1/175:1"+=soulbind=328257/329777/328263/328266/189:1/199:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ BProject:1/ SFocus:1/175:1"+=soulbind=328257/329777/328263/328266/189:1/188:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ DChain:1/ PPrecision:1/175:1"+=soulbind=328257/329777/328263/328266/192:1/199:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ DChain:1/ SFocus:1/175:1"+=soulbind=328257/329777/328263/328266/192:1/188:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ PPrecision:1/ SFocus:1/175:1"+=soulbind=328257/329777/328263/328266/199:1/188:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ EMark:1/175:1"+=soulbind=328257/329777/328263/328266/137:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ BProject:1/175:1"+=soulbind=328257/329777/328263/328266/189:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ DChain:1/175:1"+=soulbind=328257/329777/328263/328266/192:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ PPrecision:1/175:1"+=soulbind=328257/329777/328263/328266/199:1/175:1
-profileset."LGtP/PoPatience/CVest/CMed/ SFocus:1/175:1"+=soulbind=328257/329777/328263/328266/188:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ EMark:1/ BProject:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/137:1/189:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ EMark:1/ DChain:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/137:1/192:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ EMark:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/137:1/199:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ EMark:1/ SFocus:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/137:1/188:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/189:1/192:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/189:1/199:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/189:1/188:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/192:1/199:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/192:1/188:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/199:1/188:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ EMark:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/137:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ BProject:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/189:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ DChain:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/192:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ PPrecision:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/199:1/175:1
+profileset."LGtP/PoPatience/BfFriend/CMed/ SFocus:1/ RevOfFortune:1"+=soulbind=328257/329777/328265/328266/188:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ EMark:1/ BProject:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/137:1/189:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ EMark:1/ DChain:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/137:1/192:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ EMark:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/137:1/199:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ EMark:1/ SFocus:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/137:1/188:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/189:1/192:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/189:1/199:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/189:1/188:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/192:1/199:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/192:1/188:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/199:1/188:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ EMark:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/137:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ BProject:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/189:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ DChain:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/192:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ PPrecision:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/199:1/175:1
+profileset."LGtP/PoPatience/CVest/CMed/ SFocus:1/ RevOfFortune:1"+=soulbind=328257/329777/328263/328266/188:1/175:1
 profileset."LGtP/RoTrials/BfFriend/CMed/ EMark:1/ BProject:1"+=soulbind=328257/329786/328265/328266/137:1/189:1
 profileset."LGtP/RoTrials/BfFriend/CMed/ EMark:1/ DChain:1"+=soulbind=328257/329786/328265/328266/137:1/192:1
 profileset."LGtP/RoTrials/BfFriend/CMed/ EMark:1/ PPrecision:1"+=soulbind=328257/329786/328265/328266/137:1/199:1
@@ -41,11 +41,11 @@ profileset."LGtP/RoTrials/BfFriend/CMed/ BProject:1/ SFocus:1"+=soulbind=328257/
 profileset."LGtP/RoTrials/BfFriend/CMed/ DChain:1/ PPrecision:1"+=soulbind=328257/329786/328265/328266/192:1/199:1
 profileset."LGtP/RoTrials/BfFriend/CMed/ DChain:1/ SFocus:1"+=soulbind=328257/329786/328265/328266/192:1/188:1
 profileset."LGtP/RoTrials/BfFriend/CMed/ PPrecision:1/ SFocus:1"+=soulbind=328257/329786/328265/328266/199:1/188:1
-profileset."LGtP/RoTrials/BfFriend/CMed/ EMark:1/175:1"+=soulbind=328257/329786/328265/328266/137:1/175:1
-profileset."LGtP/RoTrials/BfFriend/CMed/ BProject:1/175:1"+=soulbind=328257/329786/328265/328266/189:1/175:1
-profileset."LGtP/RoTrials/BfFriend/CMed/ DChain:1/175:1"+=soulbind=328257/329786/328265/328266/192:1/175:1
-profileset."LGtP/RoTrials/BfFriend/CMed/ PPrecision:1/175:1"+=soulbind=328257/329786/328265/328266/199:1/175:1
-profileset."LGtP/RoTrials/BfFriend/CMed/ SFocus:1/175:1"+=soulbind=328257/329786/328265/328266/188:1/175:1
+profileset."LGtP/RoTrials/BfFriend/CMed/ EMark:1/ RevOfFortune:1"+=soulbind=328257/329786/328265/328266/137:1/175:1
+profileset."LGtP/RoTrials/BfFriend/CMed/ BProject:1/ RevOfFortune:1"+=soulbind=328257/329786/328265/328266/189:1/175:1
+profileset."LGtP/RoTrials/BfFriend/CMed/ DChain:1/ RevOfFortune:1"+=soulbind=328257/329786/328265/328266/192:1/175:1
+profileset."LGtP/RoTrials/BfFriend/CMed/ PPrecision:1/ RevOfFortune:1"+=soulbind=328257/329786/328265/328266/199:1/175:1
+profileset."LGtP/RoTrials/BfFriend/CMed/ SFocus:1/ RevOfFortune:1"+=soulbind=328257/329786/328265/328266/188:1/175:1
 profileset."LGtP/RoTrials/CVest/CMed/ EMark:1/ BProject:1"+=soulbind=328257/329786/328263/328266/137:1/189:1
 profileset."LGtP/RoTrials/CVest/CMed/ EMark:1/ DChain:1"+=soulbind=328257/329786/328263/328266/137:1/192:1
 profileset."LGtP/RoTrials/CVest/CMed/ EMark:1/ PPrecision:1"+=soulbind=328257/329786/328263/328266/137:1/199:1
@@ -56,11 +56,11 @@ profileset."LGtP/RoTrials/CVest/CMed/ BProject:1/ SFocus:1"+=soulbind=328257/329
 profileset."LGtP/RoTrials/CVest/CMed/ DChain:1/ PPrecision:1"+=soulbind=328257/329786/328263/328266/192:1/199:1
 profileset."LGtP/RoTrials/CVest/CMed/ DChain:1/ SFocus:1"+=soulbind=328257/329786/328263/328266/192:1/188:1
 profileset."LGtP/RoTrials/CVest/CMed/ PPrecision:1/ SFocus:1"+=soulbind=328257/329786/328263/328266/199:1/188:1
-profileset."LGtP/RoTrials/CVest/CMed/ EMark:1/175:1"+=soulbind=328257/329786/328263/328266/137:1/175:1
-profileset."LGtP/RoTrials/CVest/CMed/ BProject:1/175:1"+=soulbind=328257/329786/328263/328266/189:1/175:1
-profileset."LGtP/RoTrials/CVest/CMed/ DChain:1/175:1"+=soulbind=328257/329786/328263/328266/192:1/175:1
-profileset."LGtP/RoTrials/CVest/CMed/ PPrecision:1/175:1"+=soulbind=328257/329786/328263/328266/199:1/175:1
-profileset."LGtP/RoTrials/CVest/CMed/ SFocus:1/175:1"+=soulbind=328257/329786/328263/328266/188:1/175:1
+profileset."LGtP/RoTrials/CVest/CMed/ EMark:1/ RevOfFortune:1"+=soulbind=328257/329786/328263/328266/137:1/175:1
+profileset."LGtP/RoTrials/CVest/CMed/ BProject:1/ RevOfFortune:1"+=soulbind=328257/329786/328263/328266/189:1/175:1
+profileset."LGtP/RoTrials/CVest/CMed/ DChain:1/ RevOfFortune:1"+=soulbind=328257/329786/328263/328266/192:1/175:1
+profileset."LGtP/RoTrials/CVest/CMed/ PPrecision:1/ RevOfFortune:1"+=soulbind=328257/329786/328263/328266/199:1/175:1
+profileset."LGtP/RoTrials/CVest/CMed/ SFocus:1/ RevOfFortune:1"+=soulbind=328257/329786/328263/328266/188:1/175:1
 profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ BProject:1/ DChain:1"+=soulbind=328257/328261/328265/328266/137:1/189:1/192:1
 profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ BProject:1/ PPrecision:1"+=soulbind=328257/328261/328265/328266/137:1/189:1/199:1
 profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ BProject:1/ SFocus:1"+=soulbind=328257/328261/328265/328266/137:1/189:1/188:1
@@ -71,16 +71,16 @@ profileset."LGtP/FMantra/BfFriend/CMed/ BProject:1/ DChain:1/ PPrecision:1"+=sou
 profileset."LGtP/FMantra/BfFriend/CMed/ BProject:1/ DChain:1/ SFocus:1"+=soulbind=328257/328261/328265/328266/189:1/192:1/188:1
 profileset."LGtP/FMantra/BfFriend/CMed/ BProject:1/ PPrecision:1/ SFocus:1"+=soulbind=328257/328261/328265/328266/189:1/199:1/188:1
 profileset."LGtP/FMantra/BfFriend/CMed/ DChain:1/ PPrecision:1/ SFocus:1"+=soulbind=328257/328261/328265/328266/192:1/199:1/188:1
-profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ BProject:1/175:1"+=soulbind=328257/328261/328265/328266/137:1/189:1/175:1
-profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ DChain:1/175:1"+=soulbind=328257/328261/328265/328266/137:1/192:1/175:1
-profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ PPrecision:1/175:1"+=soulbind=328257/328261/328265/328266/137:1/199:1/175:1
-profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ SFocus:1/175:1"+=soulbind=328257/328261/328265/328266/137:1/188:1/175:1
-profileset."LGtP/FMantra/BfFriend/CMed/ BProject:1/ DChain:1/175:1"+=soulbind=328257/328261/328265/328266/189:1/192:1/175:1
-profileset."LGtP/FMantra/BfFriend/CMed/ BProject:1/ PPrecision:1/175:1"+=soulbind=328257/328261/328265/328266/189:1/199:1/175:1
-profileset."LGtP/FMantra/BfFriend/CMed/ BProject:1/ SFocus:1/175:1"+=soulbind=328257/328261/328265/328266/189:1/188:1/175:1
-profileset."LGtP/FMantra/BfFriend/CMed/ DChain:1/ PPrecision:1/175:1"+=soulbind=328257/328261/328265/328266/192:1/199:1/175:1
-profileset."LGtP/FMantra/BfFriend/CMed/ DChain:1/ SFocus:1/175:1"+=soulbind=328257/328261/328265/328266/192:1/188:1/175:1
-profileset."LGtP/FMantra/BfFriend/CMed/ PPrecision:1/ SFocus:1/175:1"+=soulbind=328257/328261/328265/328266/199:1/188:1/175:1
+profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ BProject:1/ RevOfFortune:1"+=soulbind=328257/328261/328265/328266/137:1/189:1/175:1
+profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ DChain:1/ RevOfFortune:1"+=soulbind=328257/328261/328265/328266/137:1/192:1/175:1
+profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=328257/328261/328265/328266/137:1/199:1/175:1
+profileset."LGtP/FMantra/BfFriend/CMed/ EMark:1/ SFocus:1/ RevOfFortune:1"+=soulbind=328257/328261/328265/328266/137:1/188:1/175:1
+profileset."LGtP/FMantra/BfFriend/CMed/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=328257/328261/328265/328266/189:1/192:1/175:1
+profileset."LGtP/FMantra/BfFriend/CMed/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=328257/328261/328265/328266/189:1/199:1/175:1
+profileset."LGtP/FMantra/BfFriend/CMed/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=328257/328261/328265/328266/189:1/188:1/175:1
+profileset."LGtP/FMantra/BfFriend/CMed/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=328257/328261/328265/328266/192:1/199:1/175:1
+profileset."LGtP/FMantra/BfFriend/CMed/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=328257/328261/328265/328266/192:1/188:1/175:1
+profileset."LGtP/FMantra/BfFriend/CMed/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=328257/328261/328265/328266/199:1/188:1/175:1
 profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ BProject:1/ DChain:1"+=soulbind=328257/328261/328263/328266/137:1/189:1/192:1
 profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ BProject:1/ PPrecision:1"+=soulbind=328257/328261/328263/328266/137:1/189:1/199:1
 profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ BProject:1/ SFocus:1"+=soulbind=328257/328261/328263/328266/137:1/189:1/188:1
@@ -91,13 +91,13 @@ profileset."LGtP/FMantra/CVest/CMed/ BProject:1/ DChain:1/ PPrecision:1"+=soulbi
 profileset."LGtP/FMantra/CVest/CMed/ BProject:1/ DChain:1/ SFocus:1"+=soulbind=328257/328261/328263/328266/189:1/192:1/188:1
 profileset."LGtP/FMantra/CVest/CMed/ BProject:1/ PPrecision:1/ SFocus:1"+=soulbind=328257/328261/328263/328266/189:1/199:1/188:1
 profileset."LGtP/FMantra/CVest/CMed/ DChain:1/ PPrecision:1/ SFocus:1"+=soulbind=328257/328261/328263/328266/192:1/199:1/188:1
-profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ BProject:1/175:1"+=soulbind=328257/328261/328263/328266/137:1/189:1/175:1
-profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ DChain:1/175:1"+=soulbind=328257/328261/328263/328266/137:1/192:1/175:1
-profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ PPrecision:1/175:1"+=soulbind=328257/328261/328263/328266/137:1/199:1/175:1
-profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ SFocus:1/175:1"+=soulbind=328257/328261/328263/328266/137:1/188:1/175:1
-profileset."LGtP/FMantra/CVest/CMed/ BProject:1/ DChain:1/175:1"+=soulbind=328257/328261/328263/328266/189:1/192:1/175:1
-profileset."LGtP/FMantra/CVest/CMed/ BProject:1/ PPrecision:1/175:1"+=soulbind=328257/328261/328263/328266/189:1/199:1/175:1
-profileset."LGtP/FMantra/CVest/CMed/ BProject:1/ SFocus:1/175:1"+=soulbind=328257/328261/328263/328266/189:1/188:1/175:1
-profileset."LGtP/FMantra/CVest/CMed/ DChain:1/ PPrecision:1/175:1"+=soulbind=328257/328261/328263/328266/192:1/199:1/175:1
-profileset."LGtP/FMantra/CVest/CMed/ DChain:1/ SFocus:1/175:1"+=soulbind=328257/328261/328263/328266/192:1/188:1/175:1
-profileset."LGtP/FMantra/CVest/CMed/ PPrecision:1/ SFocus:1/175:1"+=soulbind=328257/328261/328263/328266/199:1/188:1/175:1
+profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ BProject:1/ RevOfFortune:1"+=soulbind=328257/328261/328263/328266/137:1/189:1/175:1
+profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ DChain:1/ RevOfFortune:1"+=soulbind=328257/328261/328263/328266/137:1/192:1/175:1
+profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=328257/328261/328263/328266/137:1/199:1/175:1
+profileset."LGtP/FMantra/CVest/CMed/ EMark:1/ SFocus:1/ RevOfFortune:1"+=soulbind=328257/328261/328263/328266/137:1/188:1/175:1
+profileset."LGtP/FMantra/CVest/CMed/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=328257/328261/328263/328266/189:1/192:1/175:1
+profileset."LGtP/FMantra/CVest/CMed/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=328257/328261/328263/328266/189:1/199:1/175:1
+profileset."LGtP/FMantra/CVest/CMed/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=328257/328261/328263/328266/189:1/188:1/175:1
+profileset."LGtP/FMantra/CVest/CMed/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=328257/328261/328263/328266/192:1/199:1/175:1
+profileset."LGtP/FMantra/CVest/CMed/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=328257/328261/328263/328266/192:1/188:1/175:1
+profileset."LGtP/FMantra/CVest/CMed/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=328257/328261/328263/328266/199:1/188:1/175:1
