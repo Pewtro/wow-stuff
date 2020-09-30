@@ -1,103 +1,103 @@
 #Replace this with your desired base profile /simc etc 
 
 covenant=necrolord
-profileset."VSolvvent/TwBloop/Keyring/UForm/ NBarrage:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/143:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ BProject:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/189:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ DChain:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/192:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/199:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/188:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ NBarrage:1/ BProject:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/143:1/189:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ NBarrage:1/ DChain:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/143:1/192:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ NBarrage:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/143:1/199:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ NBarrage:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/143:1/188:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/189:1/192:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/189:1/199:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/189:1/188:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/192:1/199:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/192:1/188:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/199:1/188:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ NBarrage:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/143:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ BProject:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/189:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ DChain:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/192:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/199:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/188:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ NBarrage:1/ BProject:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/143:1/189:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ NBarrage:1/ DChain:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/143:1/192:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ NBarrage:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/143:1/199:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ NBarrage:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/143:1/188:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/189:1/192:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/189:1/199:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/189:1/188:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/192:1/199:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/192:1/188:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/199:1/188:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ NBarrage:1/ BProject:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/189:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ NBarrage:1/ DChain:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/192:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ NBarrage:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/199:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ NBarrage:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/188:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/189:1/192:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/189:1/199:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/189:1/188:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/192:1/199:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/192:1/188:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/199:1/188:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ NBarrage:1/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/189:1/192:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ NBarrage:1/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/189:1/199:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ NBarrage:1/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/189:1/188:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ NBarrage:1/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/192:1/199:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ NBarrage:1/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/192:1/188:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ NBarrage:1/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/199:1/188:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ BProject:1/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/189:1/192:1/199:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ BProject:1/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/189:1/192:1/188:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ BProject:1/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/189:1/199:1/188:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ DChain:1/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/192:1/199:1/188:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ NBarrage:1/ BProject:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/189:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ NBarrage:1/ DChain:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/192:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ NBarrage:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/199:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ NBarrage:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/188:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/189:1/192:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/189:1/199:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/189:1/188:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/192:1/199:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/192:1/188:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/199:1/188:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ NBarrage:1/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/189:1/192:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ NBarrage:1/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/189:1/199:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ NBarrage:1/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/189:1/188:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ NBarrage:1/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/192:1/199:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ NBarrage:1/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/192:1/188:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ NBarrage:1/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/199:1/188:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ BProject:1/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/189:1/192:1/199:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ BProject:1/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/189:1/192:1/188:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ BProject:1/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/189:1/199:1/188:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ DChain:1/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/192:1/199:1/188:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ NBarrage:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/143:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ BProject:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/189:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ DChain:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/192:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/199:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/188:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ NBarrage:1/ BProject:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/143:1/189:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ NBarrage:1/ DChain:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/143:1/192:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ NBarrage:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/143:1/199:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ NBarrage:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/143:1/188:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/189:1/192:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/189:1/199:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/189:1/188:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/192:1/199:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/192:1/188:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/199:1/188:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ NBarrage:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/143:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ BProject:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/189:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ DChain:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/192:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/199:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/188:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ NBarrage:1/ BProject:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/143:1/189:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ NBarrage:1/ DChain:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/143:1/192:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ NBarrage:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/143:1/199:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ NBarrage:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/143:1/188:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/189:1/192:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/189:1/199:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/189:1/188:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/192:1/199:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/192:1/188:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/199:1/188:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/NBarrage:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/143:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/BProject:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/189:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/DChain:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/192:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/199:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/SFocus:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/188:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/NBarrage:1/BProject:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/143:1/189:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/NBarrage:1/DChain:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/143:1/192:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/NBarrage:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/143:1/199:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/NBarrage:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/143:1/188:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/BProject:1/DChain:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/189:1/192:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/BProject:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/189:1/199:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/BProject:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/189:1/188:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/DChain:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/192:1/199:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/DChain:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/192:1/188:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/PPrecision:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/199:1/188:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/NBarrage:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/143:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/BProject:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/189:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/DChain:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/192:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/199:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/SFocus:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/188:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/NBarrage:1/BProject:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/143:1/189:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/NBarrage:1/DChain:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/143:1/192:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/NBarrage:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/143:1/199:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/NBarrage:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/143:1/188:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/BProject:1/DChain:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/189:1/192:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/BProject:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/189:1/199:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/BProject:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/189:1/188:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/DChain:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/192:1/199:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/DChain:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/192:1/188:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/PPrecision:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/199:1/188:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/NBarrage:1/BProject:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/189:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/NBarrage:1/DChain:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/192:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/NBarrage:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/199:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/NBarrage:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/188:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/BProject:1/DChain:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/189:1/192:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/BProject:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/189:1/199:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/BProject:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/189:1/188:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/DChain:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/192:1/199:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/DChain:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/192:1/188:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/PPrecision:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/199:1/188:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/NBarrage:1/BProject:1/DChain:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/189:1/192:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/NBarrage:1/BProject:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/189:1/199:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/NBarrage:1/BProject:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/189:1/188:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/NBarrage:1/DChain:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/192:1/199:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/NBarrage:1/DChain:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/192:1/188:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/NBarrage:1/PPrecision:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/199:1/188:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/BProject:1/DChain:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/189:1/192:1/199:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/BProject:1/DChain:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/189:1/192:1/188:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/BProject:1/PPrecision:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/189:1/199:1/188:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/DChain:1/PPrecision:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/192:1/199:1/188:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/NBarrage:1/BProject:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/189:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/NBarrage:1/DChain:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/192:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/NBarrage:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/199:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/NBarrage:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/188:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/BProject:1/DChain:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/189:1/192:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/BProject:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/189:1/199:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/BProject:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/189:1/188:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/DChain:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/192:1/199:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/DChain:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/192:1/188:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/PPrecision:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/199:1/188:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/NBarrage:1/BProject:1/DChain:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/189:1/192:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/NBarrage:1/BProject:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/189:1/199:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/NBarrage:1/BProject:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/189:1/188:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/NBarrage:1/DChain:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/192:1/199:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/NBarrage:1/DChain:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/192:1/188:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/NBarrage:1/PPrecision:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/199:1/188:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/BProject:1/DChain:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/189:1/192:1/199:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/BProject:1/DChain:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/189:1/192:1/188:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/BProject:1/PPrecision:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/189:1/199:1/188:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/DChain:1/PPrecision:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/192:1/199:1/188:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/NBarrage:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/143:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/BProject:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/189:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/DChain:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/192:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/199:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/SFocus:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/188:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/NBarrage:1/BProject:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/143:1/189:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/NBarrage:1/DChain:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/143:1/192:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/NBarrage:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/143:1/199:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/NBarrage:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/143:1/188:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/BProject:1/DChain:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/189:1/192:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/BProject:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/189:1/199:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/BProject:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/189:1/188:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/DChain:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/192:1/199:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/DChain:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/192:1/188:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/PPrecision:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/199:1/188:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/NBarrage:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/143:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/BProject:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/189:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/DChain:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/192:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/199:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/SFocus:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/188:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/NBarrage:1/BProject:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/143:1/189:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/NBarrage:1/DChain:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/143:1/192:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/NBarrage:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/143:1/199:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/NBarrage:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/143:1/188:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/BProject:1/DChain:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/189:1/192:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/BProject:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/189:1/199:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/BProject:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/189:1/188:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/DChain:1/PPrecision:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/192:1/199:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/DChain:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/192:1/188:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/PPrecision:1/SFocus:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/199:1/188:1/175:1

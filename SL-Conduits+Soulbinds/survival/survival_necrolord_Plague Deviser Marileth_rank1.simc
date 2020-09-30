@@ -1,103 +1,103 @@
 #Replace this with your desired base profile /simc etc 
 
 covenant=necrolord
-profileset."VSolvvent/TwBloop/Keyring/UForm/ NBarrage:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/143:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ DTandem:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/251:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ FInfusion:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/252:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/226:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/224:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ NBarrage:1/ DTandem:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/143:1/251:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ NBarrage:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/143:1/252:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ NBarrage:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/143:1/226:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ NBarrage:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/143:1/224:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ DTandem:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/251:1/252:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ DTandem:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/251:1/226:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ DTandem:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/251:1/224:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ FInfusion:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/252:1/226:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ FInfusion:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/252:1/224:1/175:1
-profileset."VSolvvent/TwBloop/Keyring/UForm/ SStrike:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323089/323079/323095/226:1/224:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ NBarrage:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/143:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ DTandem:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/251:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ FInfusion:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/252:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/226:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/224:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ NBarrage:1/ DTandem:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/143:1/251:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ NBarrage:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/143:1/252:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ NBarrage:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/143:1/226:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ NBarrage:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/143:1/224:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ DTandem:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/251:1/252:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ DTandem:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/251:1/226:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ DTandem:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/251:1/224:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ FInfusion:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/252:1/226:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ FInfusion:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/252:1/224:1/175:1
-profileset."VSolvvent/TwBloop/PCSlime/UForm/ SStrike:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323089/323081/323095/226:1/224:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ NBarrage:1/ DTandem:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/251:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ NBarrage:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/252:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ NBarrage:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/226:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ NBarrage:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/224:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ DTandem:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/251:1/252:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ DTandem:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/251:1/226:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ DTandem:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/251:1/224:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ FInfusion:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/252:1/226:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ FInfusion:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/252:1/224:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ SStrike:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/226:1/224:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ NBarrage:1/ DTandem:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/251:1/252:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ NBarrage:1/ DTandem:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/251:1/226:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ NBarrage:1/ DTandem:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/251:1/224:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ NBarrage:1/ FInfusion:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/252:1/226:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ NBarrage:1/ FInfusion:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/252:1/224:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ NBarrage:1/ SStrike:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/226:1/224:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ DTandem:1/ FInfusion:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/251:1/252:1/226:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ DTandem:1/ FInfusion:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/251:1/252:1/224:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ DTandem:1/ SStrike:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/251:1/226:1/224:1/175:1
-profileset."VSolvvent/OFCoat/Keyring/UForm/ FInfusion:1/ SStrike:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323091/323079/323095/252:1/226:1/224:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ NBarrage:1/ DTandem:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/251:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ NBarrage:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/252:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ NBarrage:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/226:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ NBarrage:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/224:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ DTandem:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/251:1/252:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ DTandem:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/251:1/226:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ DTandem:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/251:1/224:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ FInfusion:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/252:1/226:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ FInfusion:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/252:1/224:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ SStrike:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/226:1/224:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ NBarrage:1/ DTandem:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/251:1/252:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ NBarrage:1/ DTandem:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/251:1/226:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ NBarrage:1/ DTandem:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/251:1/224:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ NBarrage:1/ FInfusion:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/252:1/226:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ NBarrage:1/ FInfusion:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/252:1/224:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ NBarrage:1/ SStrike:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/226:1/224:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ DTandem:1/ FInfusion:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/251:1/252:1/226:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ DTandem:1/ FInfusion:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/251:1/252:1/224:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ DTandem:1/ SStrike:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/251:1/226:1/224:1/175:1
-profileset."VSolvvent/OFCoat/PCSlime/UForm/ FInfusion:1/ SStrike:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323091/323081/323095/252:1/226:1/224:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ NBarrage:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/143:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ DTandem:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/251:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ FInfusion:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/252:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/226:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/224:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ NBarrage:1/ DTandem:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/143:1/251:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ NBarrage:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/143:1/252:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ NBarrage:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/143:1/226:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ NBarrage:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/143:1/224:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ DTandem:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/251:1/252:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ DTandem:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/251:1/226:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ DTandem:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/251:1/224:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ FInfusion:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/252:1/226:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ FInfusion:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/252:1/224:1/175:1
-profileset."VSolvvent/PPStrike/Keyring/UForm/ SStrike:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323090/323079/323095/226:1/224:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ NBarrage:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/143:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ DTandem:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/251:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ FInfusion:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/252:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/226:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/224:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ NBarrage:1/ DTandem:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/143:1/251:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ NBarrage:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/143:1/252:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ NBarrage:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/143:1/226:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ NBarrage:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/143:1/224:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ DTandem:1/ FInfusion:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/251:1/252:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ DTandem:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/251:1/226:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ DTandem:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/251:1/224:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ FInfusion:1/ SStrike:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/252:1/226:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ FInfusion:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/252:1/224:1/175:1
-profileset."VSolvvent/PPStrike/PCSlime/UForm/ SStrike:1/ StrengthPack:1/ RevOfFortune:1"+=soulbind=323074/323090/323081/323095/226:1/224:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/NBarrage:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/143:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/DTandem:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/251:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/FInfusion:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/252:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/SStrike:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/226:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/224:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/NBarrage:1/DTandem:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/143:1/251:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/NBarrage:1/FInfusion:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/143:1/252:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/NBarrage:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/143:1/226:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/NBarrage:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/143:1/224:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/DTandem:1/FInfusion:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/251:1/252:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/DTandem:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/251:1/226:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/DTandem:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/251:1/224:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/FInfusion:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/252:1/226:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/FInfusion:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/252:1/224:1/175:1
+profileset."VSolvvent/TwBloop/Keyring/UForm/SStrike:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323089/323079/323095/226:1/224:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/NBarrage:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/143:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/DTandem:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/251:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/FInfusion:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/252:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/SStrike:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/226:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/224:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/NBarrage:1/DTandem:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/143:1/251:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/NBarrage:1/FInfusion:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/143:1/252:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/NBarrage:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/143:1/226:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/NBarrage:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/143:1/224:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/DTandem:1/FInfusion:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/251:1/252:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/DTandem:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/251:1/226:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/DTandem:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/251:1/224:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/FInfusion:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/252:1/226:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/FInfusion:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/252:1/224:1/175:1
+profileset."VSolvvent/TwBloop/PCSlime/UForm/SStrike:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323089/323081/323095/226:1/224:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/NBarrage:1/DTandem:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/251:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/NBarrage:1/FInfusion:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/252:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/NBarrage:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/226:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/NBarrage:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/224:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/DTandem:1/FInfusion:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/251:1/252:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/DTandem:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/251:1/226:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/DTandem:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/251:1/224:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/FInfusion:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/252:1/226:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/FInfusion:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/252:1/224:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/SStrike:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/226:1/224:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/NBarrage:1/DTandem:1/FInfusion:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/251:1/252:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/NBarrage:1/DTandem:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/251:1/226:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/NBarrage:1/DTandem:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/251:1/224:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/NBarrage:1/FInfusion:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/252:1/226:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/NBarrage:1/FInfusion:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/252:1/224:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/NBarrage:1/SStrike:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/143:1/226:1/224:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/DTandem:1/FInfusion:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/251:1/252:1/226:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/DTandem:1/FInfusion:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/251:1/252:1/224:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/DTandem:1/SStrike:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/251:1/226:1/224:1/175:1
+profileset."VSolvvent/OFCoat/Keyring/UForm/FInfusion:1/SStrike:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323091/323079/323095/252:1/226:1/224:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/NBarrage:1/DTandem:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/251:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/NBarrage:1/FInfusion:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/252:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/NBarrage:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/226:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/NBarrage:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/224:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/DTandem:1/FInfusion:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/251:1/252:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/DTandem:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/251:1/226:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/DTandem:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/251:1/224:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/FInfusion:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/252:1/226:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/FInfusion:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/252:1/224:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/SStrike:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/226:1/224:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/NBarrage:1/DTandem:1/FInfusion:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/251:1/252:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/NBarrage:1/DTandem:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/251:1/226:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/NBarrage:1/DTandem:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/251:1/224:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/NBarrage:1/FInfusion:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/252:1/226:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/NBarrage:1/FInfusion:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/252:1/224:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/NBarrage:1/SStrike:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/143:1/226:1/224:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/DTandem:1/FInfusion:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/251:1/252:1/226:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/DTandem:1/FInfusion:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/251:1/252:1/224:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/DTandem:1/SStrike:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/251:1/226:1/224:1/175:1
+profileset."VSolvvent/OFCoat/PCSlime/UForm/FInfusion:1/SStrike:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323091/323081/323095/252:1/226:1/224:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/NBarrage:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/143:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/DTandem:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/251:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/FInfusion:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/252:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/SStrike:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/226:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/224:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/NBarrage:1/DTandem:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/143:1/251:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/NBarrage:1/FInfusion:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/143:1/252:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/NBarrage:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/143:1/226:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/NBarrage:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/143:1/224:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/DTandem:1/FInfusion:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/251:1/252:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/DTandem:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/251:1/226:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/DTandem:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/251:1/224:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/FInfusion:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/252:1/226:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/FInfusion:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/252:1/224:1/175:1
+profileset."VSolvvent/PPStrike/Keyring/UForm/SStrike:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323090/323079/323095/226:1/224:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/NBarrage:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/143:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/DTandem:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/251:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/FInfusion:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/252:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/SStrike:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/226:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/224:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/NBarrage:1/DTandem:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/143:1/251:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/NBarrage:1/FInfusion:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/143:1/252:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/NBarrage:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/143:1/226:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/NBarrage:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/143:1/224:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/DTandem:1/FInfusion:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/251:1/252:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/DTandem:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/251:1/226:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/DTandem:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/251:1/224:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/FInfusion:1/SStrike:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/252:1/226:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/FInfusion:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/252:1/224:1/175:1
+profileset."VSolvvent/PPStrike/PCSlime/UForm/SStrike:1/StrengthPack:1/RevOfFortune:1"+=soulbind=323074/323090/323081/323095/226:1/224:1/175:1

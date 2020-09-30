@@ -1,103 +1,103 @@
 #Replace this with your desired base profile /simc etc 
 
 covenant=night_fae
-profileset."FoBloss/SBfly/FDust/Ptender/ SAttunement:1/ RevOfFortune:1"+=soulbind=319191/319210/319214/319217/140:1/175:1
-profileset."FoBloss/SBfly/FDust/Ptender/ BProject:1/ RevOfFortune:1"+=soulbind=319191/319210/319214/319217/189:1/175:1
-profileset."FoBloss/SBfly/FDust/Ptender/ DChain:1/ RevOfFortune:1"+=soulbind=319191/319210/319214/319217/192:1/175:1
-profileset."FoBloss/SBfly/FDust/Ptender/ PPrecision:1/ RevOfFortune:1"+=soulbind=319191/319210/319214/319217/199:1/175:1
-profileset."FoBloss/SBfly/FDust/Ptender/ SFocus:1/ RevOfFortune:1"+=soulbind=319191/319210/319214/319217/188:1/175:1
-profileset."FoBloss/SBfly/Somnam/Ptender/ SAttunement:1/ RevOfFortune:1"+=soulbind=319191/319210/319216/319217/140:1/175:1
-profileset."FoBloss/SBfly/Somnam/Ptender/ BProject:1/ RevOfFortune:1"+=soulbind=319191/319210/319216/319217/189:1/175:1
-profileset."FoBloss/SBfly/Somnam/Ptender/ DChain:1/ RevOfFortune:1"+=soulbind=319191/319210/319216/319217/192:1/175:1
-profileset."FoBloss/SBfly/Somnam/Ptender/ PPrecision:1/ RevOfFortune:1"+=soulbind=319191/319210/319216/319217/199:1/175:1
-profileset."FoBloss/SBfly/Somnam/Ptender/ SFocus:1/ RevOfFortune:1"+=soulbind=319191/319210/319216/319217/188:1/175:1
-profileset."FoBloss/SVoice/FDust/Ptender/ SAttunement:1/ BProject:1/ RevOfFortune:1"+=soulbind=319191/319211/319214/319217/140:1/189:1/175:1
-profileset."FoBloss/SVoice/FDust/Ptender/ SAttunement:1/ DChain:1/ RevOfFortune:1"+=soulbind=319191/319211/319214/319217/140:1/192:1/175:1
-profileset."FoBloss/SVoice/FDust/Ptender/ SAttunement:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=319191/319211/319214/319217/140:1/199:1/175:1
-profileset."FoBloss/SVoice/FDust/Ptender/ SAttunement:1/ SFocus:1/ RevOfFortune:1"+=soulbind=319191/319211/319214/319217/140:1/188:1/175:1
-profileset."FoBloss/SVoice/FDust/Ptender/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=319191/319211/319214/319217/189:1/192:1/175:1
-profileset."FoBloss/SVoice/FDust/Ptender/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=319191/319211/319214/319217/189:1/199:1/175:1
-profileset."FoBloss/SVoice/FDust/Ptender/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=319191/319211/319214/319217/189:1/188:1/175:1
-profileset."FoBloss/SVoice/FDust/Ptender/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=319191/319211/319214/319217/192:1/199:1/175:1
-profileset."FoBloss/SVoice/FDust/Ptender/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=319191/319211/319214/319217/192:1/188:1/175:1
-profileset."FoBloss/SVoice/FDust/Ptender/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=319191/319211/319214/319217/199:1/188:1/175:1
-profileset."FoBloss/SVoice/Somnam/Ptender/ SAttunement:1/ BProject:1/ RevOfFortune:1"+=soulbind=319191/319211/319216/319217/140:1/189:1/175:1
-profileset."FoBloss/SVoice/Somnam/Ptender/ SAttunement:1/ DChain:1/ RevOfFortune:1"+=soulbind=319191/319211/319216/319217/140:1/192:1/175:1
-profileset."FoBloss/SVoice/Somnam/Ptender/ SAttunement:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=319191/319211/319216/319217/140:1/199:1/175:1
-profileset."FoBloss/SVoice/Somnam/Ptender/ SAttunement:1/ SFocus:1/ RevOfFortune:1"+=soulbind=319191/319211/319216/319217/140:1/188:1/175:1
-profileset."FoBloss/SVoice/Somnam/Ptender/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=319191/319211/319216/319217/189:1/192:1/175:1
-profileset."FoBloss/SVoice/Somnam/Ptender/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=319191/319211/319216/319217/189:1/199:1/175:1
-profileset."FoBloss/SVoice/Somnam/Ptender/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=319191/319211/319216/319217/189:1/188:1/175:1
-profileset."FoBloss/SVoice/Somnam/Ptender/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=319191/319211/319216/319217/192:1/199:1/175:1
-profileset."FoBloss/SVoice/Somnam/Ptender/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=319191/319211/319216/319217/192:1/188:1/175:1
-profileset."FoBloss/SVoice/Somnam/Ptender/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=319191/319211/319216/319217/199:1/188:1/175:1
-profileset."FoBloss/EChrys/FDust/Ptender/ SAttunement:1/ RevOfFortune:1"+=soulbind=319191/319213/319214/319217/140:1/175:1
-profileset."FoBloss/EChrys/FDust/Ptender/ BProject:1/ RevOfFortune:1"+=soulbind=319191/319213/319214/319217/189:1/175:1
-profileset."FoBloss/EChrys/FDust/Ptender/ DChain:1/ RevOfFortune:1"+=soulbind=319191/319213/319214/319217/192:1/175:1
-profileset."FoBloss/EChrys/FDust/Ptender/ PPrecision:1/ RevOfFortune:1"+=soulbind=319191/319213/319214/319217/199:1/175:1
-profileset."FoBloss/EChrys/FDust/Ptender/ SFocus:1/ RevOfFortune:1"+=soulbind=319191/319213/319214/319217/188:1/175:1
-profileset."FoBloss/EChrys/Somnam/Ptender/ SAttunement:1/ RevOfFortune:1"+=soulbind=319191/319213/319216/319217/140:1/175:1
-profileset."FoBloss/EChrys/Somnam/Ptender/ BProject:1/ RevOfFortune:1"+=soulbind=319191/319213/319216/319217/189:1/175:1
-profileset."FoBloss/EChrys/Somnam/Ptender/ DChain:1/ RevOfFortune:1"+=soulbind=319191/319213/319216/319217/192:1/175:1
-profileset."FoBloss/EChrys/Somnam/Ptender/ PPrecision:1/ RevOfFortune:1"+=soulbind=319191/319213/319216/319217/199:1/175:1
-profileset."FoBloss/EChrys/Somnam/Ptender/ SFocus:1/ RevOfFortune:1"+=soulbind=319191/319213/319216/319217/188:1/175:1
-profileset."FoBloss/SBfly/FDust/Ptender/ SAttunement:1/ BProject:1"+=soulbind=319191/319210/319214/319217/140:1/189:1
-profileset."FoBloss/SBfly/FDust/Ptender/ SAttunement:1/ DChain:1"+=soulbind=319191/319210/319214/319217/140:1/192:1
-profileset."FoBloss/SBfly/FDust/Ptender/ SAttunement:1/ PPrecision:1"+=soulbind=319191/319210/319214/319217/140:1/199:1
-profileset."FoBloss/SBfly/FDust/Ptender/ SAttunement:1/ SFocus:1"+=soulbind=319191/319210/319214/319217/140:1/188:1
-profileset."FoBloss/SBfly/FDust/Ptender/ BProject:1/ DChain:1"+=soulbind=319191/319210/319214/319217/189:1/192:1
-profileset."FoBloss/SBfly/FDust/Ptender/ BProject:1/ PPrecision:1"+=soulbind=319191/319210/319214/319217/189:1/199:1
-profileset."FoBloss/SBfly/FDust/Ptender/ BProject:1/ SFocus:1"+=soulbind=319191/319210/319214/319217/189:1/188:1
-profileset."FoBloss/SBfly/FDust/Ptender/ DChain:1/ PPrecision:1"+=soulbind=319191/319210/319214/319217/192:1/199:1
-profileset."FoBloss/SBfly/FDust/Ptender/ DChain:1/ SFocus:1"+=soulbind=319191/319210/319214/319217/192:1/188:1
-profileset."FoBloss/SBfly/FDust/Ptender/ PPrecision:1/ SFocus:1"+=soulbind=319191/319210/319214/319217/199:1/188:1
-profileset."FoBloss/SBfly/Somnam/Ptender/ SAttunement:1/ BProject:1"+=soulbind=319191/319210/319216/319217/140:1/189:1
-profileset."FoBloss/SBfly/Somnam/Ptender/ SAttunement:1/ DChain:1"+=soulbind=319191/319210/319216/319217/140:1/192:1
-profileset."FoBloss/SBfly/Somnam/Ptender/ SAttunement:1/ PPrecision:1"+=soulbind=319191/319210/319216/319217/140:1/199:1
-profileset."FoBloss/SBfly/Somnam/Ptender/ SAttunement:1/ SFocus:1"+=soulbind=319191/319210/319216/319217/140:1/188:1
-profileset."FoBloss/SBfly/Somnam/Ptender/ BProject:1/ DChain:1"+=soulbind=319191/319210/319216/319217/189:1/192:1
-profileset."FoBloss/SBfly/Somnam/Ptender/ BProject:1/ PPrecision:1"+=soulbind=319191/319210/319216/319217/189:1/199:1
-profileset."FoBloss/SBfly/Somnam/Ptender/ BProject:1/ SFocus:1"+=soulbind=319191/319210/319216/319217/189:1/188:1
-profileset."FoBloss/SBfly/Somnam/Ptender/ DChain:1/ PPrecision:1"+=soulbind=319191/319210/319216/319217/192:1/199:1
-profileset."FoBloss/SBfly/Somnam/Ptender/ DChain:1/ SFocus:1"+=soulbind=319191/319210/319216/319217/192:1/188:1
-profileset."FoBloss/SBfly/Somnam/Ptender/ PPrecision:1/ SFocus:1"+=soulbind=319191/319210/319216/319217/199:1/188:1
-profileset."FoBloss/SVoice/FDust/Ptender/ SAttunement:1/ BProject:1/ DChain:1"+=soulbind=319191/319211/319214/319217/140:1/189:1/192:1
-profileset."FoBloss/SVoice/FDust/Ptender/ SAttunement:1/ BProject:1/ PPrecision:1"+=soulbind=319191/319211/319214/319217/140:1/189:1/199:1
-profileset."FoBloss/SVoice/FDust/Ptender/ SAttunement:1/ BProject:1/ SFocus:1"+=soulbind=319191/319211/319214/319217/140:1/189:1/188:1
-profileset."FoBloss/SVoice/FDust/Ptender/ SAttunement:1/ DChain:1/ PPrecision:1"+=soulbind=319191/319211/319214/319217/140:1/192:1/199:1
-profileset."FoBloss/SVoice/FDust/Ptender/ SAttunement:1/ DChain:1/ SFocus:1"+=soulbind=319191/319211/319214/319217/140:1/192:1/188:1
-profileset."FoBloss/SVoice/FDust/Ptender/ SAttunement:1/ PPrecision:1/ SFocus:1"+=soulbind=319191/319211/319214/319217/140:1/199:1/188:1
-profileset."FoBloss/SVoice/FDust/Ptender/ BProject:1/ DChain:1/ PPrecision:1"+=soulbind=319191/319211/319214/319217/189:1/192:1/199:1
-profileset."FoBloss/SVoice/FDust/Ptender/ BProject:1/ DChain:1/ SFocus:1"+=soulbind=319191/319211/319214/319217/189:1/192:1/188:1
-profileset."FoBloss/SVoice/FDust/Ptender/ BProject:1/ PPrecision:1/ SFocus:1"+=soulbind=319191/319211/319214/319217/189:1/199:1/188:1
-profileset."FoBloss/SVoice/FDust/Ptender/ DChain:1/ PPrecision:1/ SFocus:1"+=soulbind=319191/319211/319214/319217/192:1/199:1/188:1
-profileset."FoBloss/SVoice/Somnam/Ptender/ SAttunement:1/ BProject:1/ DChain:1"+=soulbind=319191/319211/319216/319217/140:1/189:1/192:1
-profileset."FoBloss/SVoice/Somnam/Ptender/ SAttunement:1/ BProject:1/ PPrecision:1"+=soulbind=319191/319211/319216/319217/140:1/189:1/199:1
-profileset."FoBloss/SVoice/Somnam/Ptender/ SAttunement:1/ BProject:1/ SFocus:1"+=soulbind=319191/319211/319216/319217/140:1/189:1/188:1
-profileset."FoBloss/SVoice/Somnam/Ptender/ SAttunement:1/ DChain:1/ PPrecision:1"+=soulbind=319191/319211/319216/319217/140:1/192:1/199:1
-profileset."FoBloss/SVoice/Somnam/Ptender/ SAttunement:1/ DChain:1/ SFocus:1"+=soulbind=319191/319211/319216/319217/140:1/192:1/188:1
-profileset."FoBloss/SVoice/Somnam/Ptender/ SAttunement:1/ PPrecision:1/ SFocus:1"+=soulbind=319191/319211/319216/319217/140:1/199:1/188:1
-profileset."FoBloss/SVoice/Somnam/Ptender/ BProject:1/ DChain:1/ PPrecision:1"+=soulbind=319191/319211/319216/319217/189:1/192:1/199:1
-profileset."FoBloss/SVoice/Somnam/Ptender/ BProject:1/ DChain:1/ SFocus:1"+=soulbind=319191/319211/319216/319217/189:1/192:1/188:1
-profileset."FoBloss/SVoice/Somnam/Ptender/ BProject:1/ PPrecision:1/ SFocus:1"+=soulbind=319191/319211/319216/319217/189:1/199:1/188:1
-profileset."FoBloss/SVoice/Somnam/Ptender/ DChain:1/ PPrecision:1/ SFocus:1"+=soulbind=319191/319211/319216/319217/192:1/199:1/188:1
-profileset."FoBloss/EChrys/FDust/Ptender/ SAttunement:1/ BProject:1/ RevOfFortune:1"+=soulbind=319191/319213/319214/319217/140:1/189:1/175:1
-profileset."FoBloss/EChrys/FDust/Ptender/ SAttunement:1/ DChain:1/ RevOfFortune:1"+=soulbind=319191/319213/319214/319217/140:1/192:1/175:1
-profileset."FoBloss/EChrys/FDust/Ptender/ SAttunement:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=319191/319213/319214/319217/140:1/199:1/175:1
-profileset."FoBloss/EChrys/FDust/Ptender/ SAttunement:1/ SFocus:1/ RevOfFortune:1"+=soulbind=319191/319213/319214/319217/140:1/188:1/175:1
-profileset."FoBloss/EChrys/FDust/Ptender/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=319191/319213/319214/319217/189:1/192:1/175:1
-profileset."FoBloss/EChrys/FDust/Ptender/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=319191/319213/319214/319217/189:1/199:1/175:1
-profileset."FoBloss/EChrys/FDust/Ptender/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=319191/319213/319214/319217/189:1/188:1/175:1
-profileset."FoBloss/EChrys/FDust/Ptender/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=319191/319213/319214/319217/192:1/199:1/175:1
-profileset."FoBloss/EChrys/FDust/Ptender/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=319191/319213/319214/319217/192:1/188:1/175:1
-profileset."FoBloss/EChrys/FDust/Ptender/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=319191/319213/319214/319217/199:1/188:1/175:1
-profileset."FoBloss/EChrys/Somnam/Ptender/ SAttunement:1/ BProject:1/ RevOfFortune:1"+=soulbind=319191/319213/319216/319217/140:1/189:1/175:1
-profileset."FoBloss/EChrys/Somnam/Ptender/ SAttunement:1/ DChain:1/ RevOfFortune:1"+=soulbind=319191/319213/319216/319217/140:1/192:1/175:1
-profileset."FoBloss/EChrys/Somnam/Ptender/ SAttunement:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=319191/319213/319216/319217/140:1/199:1/175:1
-profileset."FoBloss/EChrys/Somnam/Ptender/ SAttunement:1/ SFocus:1/ RevOfFortune:1"+=soulbind=319191/319213/319216/319217/140:1/188:1/175:1
-profileset."FoBloss/EChrys/Somnam/Ptender/ BProject:1/ DChain:1/ RevOfFortune:1"+=soulbind=319191/319213/319216/319217/189:1/192:1/175:1
-profileset."FoBloss/EChrys/Somnam/Ptender/ BProject:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=319191/319213/319216/319217/189:1/199:1/175:1
-profileset."FoBloss/EChrys/Somnam/Ptender/ BProject:1/ SFocus:1/ RevOfFortune:1"+=soulbind=319191/319213/319216/319217/189:1/188:1/175:1
-profileset."FoBloss/EChrys/Somnam/Ptender/ DChain:1/ PPrecision:1/ RevOfFortune:1"+=soulbind=319191/319213/319216/319217/192:1/199:1/175:1
-profileset."FoBloss/EChrys/Somnam/Ptender/ DChain:1/ SFocus:1/ RevOfFortune:1"+=soulbind=319191/319213/319216/319217/192:1/188:1/175:1
-profileset."FoBloss/EChrys/Somnam/Ptender/ PPrecision:1/ SFocus:1/ RevOfFortune:1"+=soulbind=319191/319213/319216/319217/199:1/188:1/175:1
+profileset."FoBloss/SBfly/FDust/Ptender/SAttunement:1/RevOfFortune:1"+=soulbind=319191/319210/319214/319217/140:1/175:1
+profileset."FoBloss/SBfly/FDust/Ptender/BProject:1/RevOfFortune:1"+=soulbind=319191/319210/319214/319217/189:1/175:1
+profileset."FoBloss/SBfly/FDust/Ptender/DChain:1/RevOfFortune:1"+=soulbind=319191/319210/319214/319217/192:1/175:1
+profileset."FoBloss/SBfly/FDust/Ptender/PPrecision:1/RevOfFortune:1"+=soulbind=319191/319210/319214/319217/199:1/175:1
+profileset."FoBloss/SBfly/FDust/Ptender/SFocus:1/RevOfFortune:1"+=soulbind=319191/319210/319214/319217/188:1/175:1
+profileset."FoBloss/SBfly/Somnam/Ptender/SAttunement:1/RevOfFortune:1"+=soulbind=319191/319210/319216/319217/140:1/175:1
+profileset."FoBloss/SBfly/Somnam/Ptender/BProject:1/RevOfFortune:1"+=soulbind=319191/319210/319216/319217/189:1/175:1
+profileset."FoBloss/SBfly/Somnam/Ptender/DChain:1/RevOfFortune:1"+=soulbind=319191/319210/319216/319217/192:1/175:1
+profileset."FoBloss/SBfly/Somnam/Ptender/PPrecision:1/RevOfFortune:1"+=soulbind=319191/319210/319216/319217/199:1/175:1
+profileset."FoBloss/SBfly/Somnam/Ptender/SFocus:1/RevOfFortune:1"+=soulbind=319191/319210/319216/319217/188:1/175:1
+profileset."FoBloss/SVoice/FDust/Ptender/SAttunement:1/BProject:1/RevOfFortune:1"+=soulbind=319191/319211/319214/319217/140:1/189:1/175:1
+profileset."FoBloss/SVoice/FDust/Ptender/SAttunement:1/DChain:1/RevOfFortune:1"+=soulbind=319191/319211/319214/319217/140:1/192:1/175:1
+profileset."FoBloss/SVoice/FDust/Ptender/SAttunement:1/PPrecision:1/RevOfFortune:1"+=soulbind=319191/319211/319214/319217/140:1/199:1/175:1
+profileset."FoBloss/SVoice/FDust/Ptender/SAttunement:1/SFocus:1/RevOfFortune:1"+=soulbind=319191/319211/319214/319217/140:1/188:1/175:1
+profileset."FoBloss/SVoice/FDust/Ptender/BProject:1/DChain:1/RevOfFortune:1"+=soulbind=319191/319211/319214/319217/189:1/192:1/175:1
+profileset."FoBloss/SVoice/FDust/Ptender/BProject:1/PPrecision:1/RevOfFortune:1"+=soulbind=319191/319211/319214/319217/189:1/199:1/175:1
+profileset."FoBloss/SVoice/FDust/Ptender/BProject:1/SFocus:1/RevOfFortune:1"+=soulbind=319191/319211/319214/319217/189:1/188:1/175:1
+profileset."FoBloss/SVoice/FDust/Ptender/DChain:1/PPrecision:1/RevOfFortune:1"+=soulbind=319191/319211/319214/319217/192:1/199:1/175:1
+profileset."FoBloss/SVoice/FDust/Ptender/DChain:1/SFocus:1/RevOfFortune:1"+=soulbind=319191/319211/319214/319217/192:1/188:1/175:1
+profileset."FoBloss/SVoice/FDust/Ptender/PPrecision:1/SFocus:1/RevOfFortune:1"+=soulbind=319191/319211/319214/319217/199:1/188:1/175:1
+profileset."FoBloss/SVoice/Somnam/Ptender/SAttunement:1/BProject:1/RevOfFortune:1"+=soulbind=319191/319211/319216/319217/140:1/189:1/175:1
+profileset."FoBloss/SVoice/Somnam/Ptender/SAttunement:1/DChain:1/RevOfFortune:1"+=soulbind=319191/319211/319216/319217/140:1/192:1/175:1
+profileset."FoBloss/SVoice/Somnam/Ptender/SAttunement:1/PPrecision:1/RevOfFortune:1"+=soulbind=319191/319211/319216/319217/140:1/199:1/175:1
+profileset."FoBloss/SVoice/Somnam/Ptender/SAttunement:1/SFocus:1/RevOfFortune:1"+=soulbind=319191/319211/319216/319217/140:1/188:1/175:1
+profileset."FoBloss/SVoice/Somnam/Ptender/BProject:1/DChain:1/RevOfFortune:1"+=soulbind=319191/319211/319216/319217/189:1/192:1/175:1
+profileset."FoBloss/SVoice/Somnam/Ptender/BProject:1/PPrecision:1/RevOfFortune:1"+=soulbind=319191/319211/319216/319217/189:1/199:1/175:1
+profileset."FoBloss/SVoice/Somnam/Ptender/BProject:1/SFocus:1/RevOfFortune:1"+=soulbind=319191/319211/319216/319217/189:1/188:1/175:1
+profileset."FoBloss/SVoice/Somnam/Ptender/DChain:1/PPrecision:1/RevOfFortune:1"+=soulbind=319191/319211/319216/319217/192:1/199:1/175:1
+profileset."FoBloss/SVoice/Somnam/Ptender/DChain:1/SFocus:1/RevOfFortune:1"+=soulbind=319191/319211/319216/319217/192:1/188:1/175:1
+profileset."FoBloss/SVoice/Somnam/Ptender/PPrecision:1/SFocus:1/RevOfFortune:1"+=soulbind=319191/319211/319216/319217/199:1/188:1/175:1
+profileset."FoBloss/EChrys/FDust/Ptender/SAttunement:1/RevOfFortune:1"+=soulbind=319191/319213/319214/319217/140:1/175:1
+profileset."FoBloss/EChrys/FDust/Ptender/BProject:1/RevOfFortune:1"+=soulbind=319191/319213/319214/319217/189:1/175:1
+profileset."FoBloss/EChrys/FDust/Ptender/DChain:1/RevOfFortune:1"+=soulbind=319191/319213/319214/319217/192:1/175:1
+profileset."FoBloss/EChrys/FDust/Ptender/PPrecision:1/RevOfFortune:1"+=soulbind=319191/319213/319214/319217/199:1/175:1
+profileset."FoBloss/EChrys/FDust/Ptender/SFocus:1/RevOfFortune:1"+=soulbind=319191/319213/319214/319217/188:1/175:1
+profileset."FoBloss/EChrys/Somnam/Ptender/SAttunement:1/RevOfFortune:1"+=soulbind=319191/319213/319216/319217/140:1/175:1
+profileset."FoBloss/EChrys/Somnam/Ptender/BProject:1/RevOfFortune:1"+=soulbind=319191/319213/319216/319217/189:1/175:1
+profileset."FoBloss/EChrys/Somnam/Ptender/DChain:1/RevOfFortune:1"+=soulbind=319191/319213/319216/319217/192:1/175:1
+profileset."FoBloss/EChrys/Somnam/Ptender/PPrecision:1/RevOfFortune:1"+=soulbind=319191/319213/319216/319217/199:1/175:1
+profileset."FoBloss/EChrys/Somnam/Ptender/SFocus:1/RevOfFortune:1"+=soulbind=319191/319213/319216/319217/188:1/175:1
+profileset."FoBloss/SBfly/FDust/Ptender/SAttunement:1/BProject:1"+=soulbind=319191/319210/319214/319217/140:1/189:1
+profileset."FoBloss/SBfly/FDust/Ptender/SAttunement:1/DChain:1"+=soulbind=319191/319210/319214/319217/140:1/192:1
+profileset."FoBloss/SBfly/FDust/Ptender/SAttunement:1/PPrecision:1"+=soulbind=319191/319210/319214/319217/140:1/199:1
+profileset."FoBloss/SBfly/FDust/Ptender/SAttunement:1/SFocus:1"+=soulbind=319191/319210/319214/319217/140:1/188:1
+profileset."FoBloss/SBfly/FDust/Ptender/BProject:1/DChain:1"+=soulbind=319191/319210/319214/319217/189:1/192:1
+profileset."FoBloss/SBfly/FDust/Ptender/BProject:1/PPrecision:1"+=soulbind=319191/319210/319214/319217/189:1/199:1
+profileset."FoBloss/SBfly/FDust/Ptender/BProject:1/SFocus:1"+=soulbind=319191/319210/319214/319217/189:1/188:1
+profileset."FoBloss/SBfly/FDust/Ptender/DChain:1/PPrecision:1"+=soulbind=319191/319210/319214/319217/192:1/199:1
+profileset."FoBloss/SBfly/FDust/Ptender/DChain:1/SFocus:1"+=soulbind=319191/319210/319214/319217/192:1/188:1
+profileset."FoBloss/SBfly/FDust/Ptender/PPrecision:1/SFocus:1"+=soulbind=319191/319210/319214/319217/199:1/188:1
+profileset."FoBloss/SBfly/Somnam/Ptender/SAttunement:1/BProject:1"+=soulbind=319191/319210/319216/319217/140:1/189:1
+profileset."FoBloss/SBfly/Somnam/Ptender/SAttunement:1/DChain:1"+=soulbind=319191/319210/319216/319217/140:1/192:1
+profileset."FoBloss/SBfly/Somnam/Ptender/SAttunement:1/PPrecision:1"+=soulbind=319191/319210/319216/319217/140:1/199:1
+profileset."FoBloss/SBfly/Somnam/Ptender/SAttunement:1/SFocus:1"+=soulbind=319191/319210/319216/319217/140:1/188:1
+profileset."FoBloss/SBfly/Somnam/Ptender/BProject:1/DChain:1"+=soulbind=319191/319210/319216/319217/189:1/192:1
+profileset."FoBloss/SBfly/Somnam/Ptender/BProject:1/PPrecision:1"+=soulbind=319191/319210/319216/319217/189:1/199:1
+profileset."FoBloss/SBfly/Somnam/Ptender/BProject:1/SFocus:1"+=soulbind=319191/319210/319216/319217/189:1/188:1
+profileset."FoBloss/SBfly/Somnam/Ptender/DChain:1/PPrecision:1"+=soulbind=319191/319210/319216/319217/192:1/199:1
+profileset."FoBloss/SBfly/Somnam/Ptender/DChain:1/SFocus:1"+=soulbind=319191/319210/319216/319217/192:1/188:1
+profileset."FoBloss/SBfly/Somnam/Ptender/PPrecision:1/SFocus:1"+=soulbind=319191/319210/319216/319217/199:1/188:1
+profileset."FoBloss/SVoice/FDust/Ptender/SAttunement:1/BProject:1/DChain:1"+=soulbind=319191/319211/319214/319217/140:1/189:1/192:1
+profileset."FoBloss/SVoice/FDust/Ptender/SAttunement:1/BProject:1/PPrecision:1"+=soulbind=319191/319211/319214/319217/140:1/189:1/199:1
+profileset."FoBloss/SVoice/FDust/Ptender/SAttunement:1/BProject:1/SFocus:1"+=soulbind=319191/319211/319214/319217/140:1/189:1/188:1
+profileset."FoBloss/SVoice/FDust/Ptender/SAttunement:1/DChain:1/PPrecision:1"+=soulbind=319191/319211/319214/319217/140:1/192:1/199:1
+profileset."FoBloss/SVoice/FDust/Ptender/SAttunement:1/DChain:1/SFocus:1"+=soulbind=319191/319211/319214/319217/140:1/192:1/188:1
+profileset."FoBloss/SVoice/FDust/Ptender/SAttunement:1/PPrecision:1/SFocus:1"+=soulbind=319191/319211/319214/319217/140:1/199:1/188:1
+profileset."FoBloss/SVoice/FDust/Ptender/BProject:1/DChain:1/PPrecision:1"+=soulbind=319191/319211/319214/319217/189:1/192:1/199:1
+profileset."FoBloss/SVoice/FDust/Ptender/BProject:1/DChain:1/SFocus:1"+=soulbind=319191/319211/319214/319217/189:1/192:1/188:1
+profileset."FoBloss/SVoice/FDust/Ptender/BProject:1/PPrecision:1/SFocus:1"+=soulbind=319191/319211/319214/319217/189:1/199:1/188:1
+profileset."FoBloss/SVoice/FDust/Ptender/DChain:1/PPrecision:1/SFocus:1"+=soulbind=319191/319211/319214/319217/192:1/199:1/188:1
+profileset."FoBloss/SVoice/Somnam/Ptender/SAttunement:1/BProject:1/DChain:1"+=soulbind=319191/319211/319216/319217/140:1/189:1/192:1
+profileset."FoBloss/SVoice/Somnam/Ptender/SAttunement:1/BProject:1/PPrecision:1"+=soulbind=319191/319211/319216/319217/140:1/189:1/199:1
+profileset."FoBloss/SVoice/Somnam/Ptender/SAttunement:1/BProject:1/SFocus:1"+=soulbind=319191/319211/319216/319217/140:1/189:1/188:1
+profileset."FoBloss/SVoice/Somnam/Ptender/SAttunement:1/DChain:1/PPrecision:1"+=soulbind=319191/319211/319216/319217/140:1/192:1/199:1
+profileset."FoBloss/SVoice/Somnam/Ptender/SAttunement:1/DChain:1/SFocus:1"+=soulbind=319191/319211/319216/319217/140:1/192:1/188:1
+profileset."FoBloss/SVoice/Somnam/Ptender/SAttunement:1/PPrecision:1/SFocus:1"+=soulbind=319191/319211/319216/319217/140:1/199:1/188:1
+profileset."FoBloss/SVoice/Somnam/Ptender/BProject:1/DChain:1/PPrecision:1"+=soulbind=319191/319211/319216/319217/189:1/192:1/199:1
+profileset."FoBloss/SVoice/Somnam/Ptender/BProject:1/DChain:1/SFocus:1"+=soulbind=319191/319211/319216/319217/189:1/192:1/188:1
+profileset."FoBloss/SVoice/Somnam/Ptender/BProject:1/PPrecision:1/SFocus:1"+=soulbind=319191/319211/319216/319217/189:1/199:1/188:1
+profileset."FoBloss/SVoice/Somnam/Ptender/DChain:1/PPrecision:1/SFocus:1"+=soulbind=319191/319211/319216/319217/192:1/199:1/188:1
+profileset."FoBloss/EChrys/FDust/Ptender/SAttunement:1/BProject:1/RevOfFortune:1"+=soulbind=319191/319213/319214/319217/140:1/189:1/175:1
+profileset."FoBloss/EChrys/FDust/Ptender/SAttunement:1/DChain:1/RevOfFortune:1"+=soulbind=319191/319213/319214/319217/140:1/192:1/175:1
+profileset."FoBloss/EChrys/FDust/Ptender/SAttunement:1/PPrecision:1/RevOfFortune:1"+=soulbind=319191/319213/319214/319217/140:1/199:1/175:1
+profileset."FoBloss/EChrys/FDust/Ptender/SAttunement:1/SFocus:1/RevOfFortune:1"+=soulbind=319191/319213/319214/319217/140:1/188:1/175:1
+profileset."FoBloss/EChrys/FDust/Ptender/BProject:1/DChain:1/RevOfFortune:1"+=soulbind=319191/319213/319214/319217/189:1/192:1/175:1
+profileset."FoBloss/EChrys/FDust/Ptender/BProject:1/PPrecision:1/RevOfFortune:1"+=soulbind=319191/319213/319214/319217/189:1/199:1/175:1
+profileset."FoBloss/EChrys/FDust/Ptender/BProject:1/SFocus:1/RevOfFortune:1"+=soulbind=319191/319213/319214/319217/189:1/188:1/175:1
+profileset."FoBloss/EChrys/FDust/Ptender/DChain:1/PPrecision:1/RevOfFortune:1"+=soulbind=319191/319213/319214/319217/192:1/199:1/175:1
+profileset."FoBloss/EChrys/FDust/Ptender/DChain:1/SFocus:1/RevOfFortune:1"+=soulbind=319191/319213/319214/319217/192:1/188:1/175:1
+profileset."FoBloss/EChrys/FDust/Ptender/PPrecision:1/SFocus:1/RevOfFortune:1"+=soulbind=319191/319213/319214/319217/199:1/188:1/175:1
+profileset."FoBloss/EChrys/Somnam/Ptender/SAttunement:1/BProject:1/RevOfFortune:1"+=soulbind=319191/319213/319216/319217/140:1/189:1/175:1
+profileset."FoBloss/EChrys/Somnam/Ptender/SAttunement:1/DChain:1/RevOfFortune:1"+=soulbind=319191/319213/319216/319217/140:1/192:1/175:1
+profileset."FoBloss/EChrys/Somnam/Ptender/SAttunement:1/PPrecision:1/RevOfFortune:1"+=soulbind=319191/319213/319216/319217/140:1/199:1/175:1
+profileset."FoBloss/EChrys/Somnam/Ptender/SAttunement:1/SFocus:1/RevOfFortune:1"+=soulbind=319191/319213/319216/319217/140:1/188:1/175:1
+profileset."FoBloss/EChrys/Somnam/Ptender/BProject:1/DChain:1/RevOfFortune:1"+=soulbind=319191/319213/319216/319217/189:1/192:1/175:1
+profileset."FoBloss/EChrys/Somnam/Ptender/BProject:1/PPrecision:1/RevOfFortune:1"+=soulbind=319191/319213/319216/319217/189:1/199:1/175:1
+profileset."FoBloss/EChrys/Somnam/Ptender/BProject:1/SFocus:1/RevOfFortune:1"+=soulbind=319191/319213/319216/319217/189:1/188:1/175:1
+profileset."FoBloss/EChrys/Somnam/Ptender/DChain:1/PPrecision:1/RevOfFortune:1"+=soulbind=319191/319213/319216/319217/192:1/199:1/175:1
+profileset."FoBloss/EChrys/Somnam/Ptender/DChain:1/SFocus:1/RevOfFortune:1"+=soulbind=319191/319213/319216/319217/192:1/188:1/175:1
+profileset."FoBloss/EChrys/Somnam/Ptender/PPrecision:1/SFocus:1/RevOfFortune:1"+=soulbind=319191/319213/319216/319217/199:1/188:1/175:1

@@ -1,103 +1,103 @@
 #Replace this with your desired base profile /simc etc 
 
 covenant=kyrian
-profileset."AscPhial/RAAccolade/CRites/VStrikes/ EMark:1/ FAppetite:1/ RevOfFortune:1"+=soulbind=329776/329781/329784/329791/137:1/183:1/175:1
-profileset."AscPhial/RAAccolade/CRites/VStrikes/ EMark:1/ OWTB:1/ RevOfFortune:1"+=soulbind=329776/329781/329784/329791/137:1/185:1/175:1
-profileset."AscPhial/RAAccolade/CRites/VStrikes/ EMark:1/ Bloodlet:1/ RevOfFortune:1"+=soulbind=329776/329781/329784/329791/137:1/253:1/175:1
-profileset."AscPhial/RAAccolade/CRites/VStrikes/ EMark:1/ ECall:1/ RevOfFortune:1"+=soulbind=329776/329781/329784/329791/137:1/223:1/175:1
-profileset."AscPhial/RAAccolade/CRites/VStrikes/ FAppetite:1/ OWTB:1/ RevOfFortune:1"+=soulbind=329776/329781/329784/329791/183:1/185:1/175:1
-profileset."AscPhial/RAAccolade/CRites/VStrikes/ FAppetite:1/ Bloodlet:1/ RevOfFortune:1"+=soulbind=329776/329781/329784/329791/183:1/253:1/175:1
-profileset."AscPhial/RAAccolade/CRites/VStrikes/ FAppetite:1/ ECall:1/ RevOfFortune:1"+=soulbind=329776/329781/329784/329791/183:1/223:1/175:1
-profileset."AscPhial/RAAccolade/CRites/VStrikes/ OWTB:1/ Bloodlet:1/ RevOfFortune:1"+=soulbind=329776/329781/329784/329791/185:1/253:1/175:1
-profileset."AscPhial/RAAccolade/CRites/VStrikes/ OWTB:1/ ECall:1/ RevOfFortune:1"+=soulbind=329776/329781/329784/329791/185:1/223:1/175:1
-profileset."AscPhial/RAAccolade/CRites/VStrikes/ Bloodlet:1/ ECall:1/ RevOfFortune:1"+=soulbind=329776/329781/329784/329791/253:1/223:1/175:1
-profileset."AscPhial/RAAccolade/EForward/VStrikes/ EMark:1/ FAppetite:1/ RevOfFortune:1"+=soulbind=329776/329781/328258/329791/137:1/183:1/175:1
-profileset."AscPhial/RAAccolade/EForward/VStrikes/ EMark:1/ OWTB:1/ RevOfFortune:1"+=soulbind=329776/329781/328258/329791/137:1/185:1/175:1
-profileset."AscPhial/RAAccolade/EForward/VStrikes/ EMark:1/ Bloodlet:1/ RevOfFortune:1"+=soulbind=329776/329781/328258/329791/137:1/253:1/175:1
-profileset."AscPhial/RAAccolade/EForward/VStrikes/ EMark:1/ ECall:1/ RevOfFortune:1"+=soulbind=329776/329781/328258/329791/137:1/223:1/175:1
-profileset."AscPhial/RAAccolade/EForward/VStrikes/ FAppetite:1/ OWTB:1/ RevOfFortune:1"+=soulbind=329776/329781/328258/329791/183:1/185:1/175:1
-profileset."AscPhial/RAAccolade/EForward/VStrikes/ FAppetite:1/ Bloodlet:1/ RevOfFortune:1"+=soulbind=329776/329781/328258/329791/183:1/253:1/175:1
-profileset."AscPhial/RAAccolade/EForward/VStrikes/ FAppetite:1/ ECall:1/ RevOfFortune:1"+=soulbind=329776/329781/328258/329791/183:1/223:1/175:1
-profileset."AscPhial/RAAccolade/EForward/VStrikes/ OWTB:1/ Bloodlet:1/ RevOfFortune:1"+=soulbind=329776/329781/328258/329791/185:1/253:1/175:1
-profileset."AscPhial/RAAccolade/EForward/VStrikes/ OWTB:1/ ECall:1/ RevOfFortune:1"+=soulbind=329776/329781/328258/329791/185:1/223:1/175:1
-profileset."AscPhial/RAAccolade/EForward/VStrikes/ Bloodlet:1/ ECall:1/ RevOfFortune:1"+=soulbind=329776/329781/328258/329791/253:1/223:1/175:1
-profileset."AscPhial/BPursuit/CRites/VStrikes/ EMark:1/ RevOfFortune:1"+=soulbind=329776/329779/329784/329791/137:1/175:1
-profileset."AscPhial/BPursuit/CRites/VStrikes/ FAppetite:1/ RevOfFortune:1"+=soulbind=329776/329779/329784/329791/183:1/175:1
-profileset."AscPhial/BPursuit/CRites/VStrikes/ OWTB:1/ RevOfFortune:1"+=soulbind=329776/329779/329784/329791/185:1/175:1
-profileset."AscPhial/BPursuit/CRites/VStrikes/ Bloodlet:1/ RevOfFortune:1"+=soulbind=329776/329779/329784/329791/253:1/175:1
-profileset."AscPhial/BPursuit/CRites/VStrikes/ ECall:1/ RevOfFortune:1"+=soulbind=329776/329779/329784/329791/223:1/175:1
-profileset."AscPhial/BPursuit/EForward/VStrikes/ EMark:1/ RevOfFortune:1"+=soulbind=329776/329779/328258/329791/137:1/175:1
-profileset."AscPhial/BPursuit/EForward/VStrikes/ FAppetite:1/ RevOfFortune:1"+=soulbind=329776/329779/328258/329791/183:1/175:1
-profileset."AscPhial/BPursuit/EForward/VStrikes/ OWTB:1/ RevOfFortune:1"+=soulbind=329776/329779/328258/329791/185:1/175:1
-profileset."AscPhial/BPursuit/EForward/VStrikes/ Bloodlet:1/ RevOfFortune:1"+=soulbind=329776/329779/328258/329791/253:1/175:1
-profileset."AscPhial/BPursuit/EForward/VStrikes/ ECall:1/ RevOfFortune:1"+=soulbind=329776/329779/328258/329791/223:1/175:1
-profileset."AscPhial/PCourage/CRites/VStrikes/ EMark:1/ RevOfFortune:1"+=soulbind=329776/329778/329784/329791/137:1/175:1
-profileset."AscPhial/PCourage/CRites/VStrikes/ FAppetite:1/ RevOfFortune:1"+=soulbind=329776/329778/329784/329791/183:1/175:1
-profileset."AscPhial/PCourage/CRites/VStrikes/ OWTB:1/ RevOfFortune:1"+=soulbind=329776/329778/329784/329791/185:1/175:1
-profileset."AscPhial/PCourage/CRites/VStrikes/ Bloodlet:1/ RevOfFortune:1"+=soulbind=329776/329778/329784/329791/253:1/175:1
-profileset."AscPhial/PCourage/CRites/VStrikes/ ECall:1/ RevOfFortune:1"+=soulbind=329776/329778/329784/329791/223:1/175:1
-profileset."AscPhial/PCourage/EForward/VStrikes/ EMark:1/ RevOfFortune:1"+=soulbind=329776/329778/328258/329791/137:1/175:1
-profileset."AscPhial/PCourage/EForward/VStrikes/ FAppetite:1/ RevOfFortune:1"+=soulbind=329776/329778/328258/329791/183:1/175:1
-profileset."AscPhial/PCourage/EForward/VStrikes/ OWTB:1/ RevOfFortune:1"+=soulbind=329776/329778/328258/329791/185:1/175:1
-profileset."AscPhial/PCourage/EForward/VStrikes/ Bloodlet:1/ RevOfFortune:1"+=soulbind=329776/329778/328258/329791/253:1/175:1
-profileset."AscPhial/PCourage/EForward/VStrikes/ ECall:1/ RevOfFortune:1"+=soulbind=329776/329778/328258/329791/223:1/175:1
-profileset."Mentor/RAAccolade/CRites/VStrikes/ EMark:1/ FAppetite:1/ OWTB:1"+=soulbind=334066/329781/329784/329791/137:1/183:1/185:1
-profileset."Mentor/RAAccolade/CRites/VStrikes/ EMark:1/ FAppetite:1/ Bloodlet:1"+=soulbind=334066/329781/329784/329791/137:1/183:1/253:1
-profileset."Mentor/RAAccolade/CRites/VStrikes/ EMark:1/ FAppetite:1/ ECall:1"+=soulbind=334066/329781/329784/329791/137:1/183:1/223:1
-profileset."Mentor/RAAccolade/CRites/VStrikes/ EMark:1/ OWTB:1/ Bloodlet:1"+=soulbind=334066/329781/329784/329791/137:1/185:1/253:1
-profileset."Mentor/RAAccolade/CRites/VStrikes/ EMark:1/ OWTB:1/ ECall:1"+=soulbind=334066/329781/329784/329791/137:1/185:1/223:1
-profileset."Mentor/RAAccolade/CRites/VStrikes/ EMark:1/ Bloodlet:1/ ECall:1"+=soulbind=334066/329781/329784/329791/137:1/253:1/223:1
-profileset."Mentor/RAAccolade/CRites/VStrikes/ FAppetite:1/ OWTB:1/ Bloodlet:1"+=soulbind=334066/329781/329784/329791/183:1/185:1/253:1
-profileset."Mentor/RAAccolade/CRites/VStrikes/ FAppetite:1/ OWTB:1/ ECall:1"+=soulbind=334066/329781/329784/329791/183:1/185:1/223:1
-profileset."Mentor/RAAccolade/CRites/VStrikes/ FAppetite:1/ Bloodlet:1/ ECall:1"+=soulbind=334066/329781/329784/329791/183:1/253:1/223:1
-profileset."Mentor/RAAccolade/CRites/VStrikes/ OWTB:1/ Bloodlet:1/ ECall:1"+=soulbind=334066/329781/329784/329791/185:1/253:1/223:1
-profileset."Mentor/RAAccolade/EForward/VStrikes/ EMark:1/ FAppetite:1/ OWTB:1"+=soulbind=334066/329781/328258/329791/137:1/183:1/185:1
-profileset."Mentor/RAAccolade/EForward/VStrikes/ EMark:1/ FAppetite:1/ Bloodlet:1"+=soulbind=334066/329781/328258/329791/137:1/183:1/253:1
-profileset."Mentor/RAAccolade/EForward/VStrikes/ EMark:1/ FAppetite:1/ ECall:1"+=soulbind=334066/329781/328258/329791/137:1/183:1/223:1
-profileset."Mentor/RAAccolade/EForward/VStrikes/ EMark:1/ OWTB:1/ Bloodlet:1"+=soulbind=334066/329781/328258/329791/137:1/185:1/253:1
-profileset."Mentor/RAAccolade/EForward/VStrikes/ EMark:1/ OWTB:1/ ECall:1"+=soulbind=334066/329781/328258/329791/137:1/185:1/223:1
-profileset."Mentor/RAAccolade/EForward/VStrikes/ EMark:1/ Bloodlet:1/ ECall:1"+=soulbind=334066/329781/328258/329791/137:1/253:1/223:1
-profileset."Mentor/RAAccolade/EForward/VStrikes/ FAppetite:1/ OWTB:1/ Bloodlet:1"+=soulbind=334066/329781/328258/329791/183:1/185:1/253:1
-profileset."Mentor/RAAccolade/EForward/VStrikes/ FAppetite:1/ OWTB:1/ ECall:1"+=soulbind=334066/329781/328258/329791/183:1/185:1/223:1
-profileset."Mentor/RAAccolade/EForward/VStrikes/ FAppetite:1/ Bloodlet:1/ ECall:1"+=soulbind=334066/329781/328258/329791/183:1/253:1/223:1
-profileset."Mentor/RAAccolade/EForward/VStrikes/ OWTB:1/ Bloodlet:1/ ECall:1"+=soulbind=334066/329781/328258/329791/185:1/253:1/223:1
-profileset."Mentor/BPursuit/CRites/VStrikes/ EMark:1/ FAppetite:1"+=soulbind=334066/329779/329784/329791/137:1/183:1
-profileset."Mentor/BPursuit/CRites/VStrikes/ EMark:1/ OWTB:1"+=soulbind=334066/329779/329784/329791/137:1/185:1
-profileset."Mentor/BPursuit/CRites/VStrikes/ EMark:1/ Bloodlet:1"+=soulbind=334066/329779/329784/329791/137:1/253:1
-profileset."Mentor/BPursuit/CRites/VStrikes/ EMark:1/ ECall:1"+=soulbind=334066/329779/329784/329791/137:1/223:1
-profileset."Mentor/BPursuit/CRites/VStrikes/ FAppetite:1/ OWTB:1"+=soulbind=334066/329779/329784/329791/183:1/185:1
-profileset."Mentor/BPursuit/CRites/VStrikes/ FAppetite:1/ Bloodlet:1"+=soulbind=334066/329779/329784/329791/183:1/253:1
-profileset."Mentor/BPursuit/CRites/VStrikes/ FAppetite:1/ ECall:1"+=soulbind=334066/329779/329784/329791/183:1/223:1
-profileset."Mentor/BPursuit/CRites/VStrikes/ OWTB:1/ Bloodlet:1"+=soulbind=334066/329779/329784/329791/185:1/253:1
-profileset."Mentor/BPursuit/CRites/VStrikes/ OWTB:1/ ECall:1"+=soulbind=334066/329779/329784/329791/185:1/223:1
-profileset."Mentor/BPursuit/CRites/VStrikes/ Bloodlet:1/ ECall:1"+=soulbind=334066/329779/329784/329791/253:1/223:1
-profileset."Mentor/BPursuit/EForward/VStrikes/ EMark:1/ FAppetite:1"+=soulbind=334066/329779/328258/329791/137:1/183:1
-profileset."Mentor/BPursuit/EForward/VStrikes/ EMark:1/ OWTB:1"+=soulbind=334066/329779/328258/329791/137:1/185:1
-profileset."Mentor/BPursuit/EForward/VStrikes/ EMark:1/ Bloodlet:1"+=soulbind=334066/329779/328258/329791/137:1/253:1
-profileset."Mentor/BPursuit/EForward/VStrikes/ EMark:1/ ECall:1"+=soulbind=334066/329779/328258/329791/137:1/223:1
-profileset."Mentor/BPursuit/EForward/VStrikes/ FAppetite:1/ OWTB:1"+=soulbind=334066/329779/328258/329791/183:1/185:1
-profileset."Mentor/BPursuit/EForward/VStrikes/ FAppetite:1/ Bloodlet:1"+=soulbind=334066/329779/328258/329791/183:1/253:1
-profileset."Mentor/BPursuit/EForward/VStrikes/ FAppetite:1/ ECall:1"+=soulbind=334066/329779/328258/329791/183:1/223:1
-profileset."Mentor/BPursuit/EForward/VStrikes/ OWTB:1/ Bloodlet:1"+=soulbind=334066/329779/328258/329791/185:1/253:1
-profileset."Mentor/BPursuit/EForward/VStrikes/ OWTB:1/ ECall:1"+=soulbind=334066/329779/328258/329791/185:1/223:1
-profileset."Mentor/BPursuit/EForward/VStrikes/ Bloodlet:1/ ECall:1"+=soulbind=334066/329779/328258/329791/253:1/223:1
-profileset."Mentor/PCourage/CRites/VStrikes/ EMark:1/ FAppetite:1/ RevOfFortune:1"+=soulbind=334066/329778/329784/329791/137:1/183:1/175:1
-profileset."Mentor/PCourage/CRites/VStrikes/ EMark:1/ OWTB:1/ RevOfFortune:1"+=soulbind=334066/329778/329784/329791/137:1/185:1/175:1
-profileset."Mentor/PCourage/CRites/VStrikes/ EMark:1/ Bloodlet:1/ RevOfFortune:1"+=soulbind=334066/329778/329784/329791/137:1/253:1/175:1
-profileset."Mentor/PCourage/CRites/VStrikes/ EMark:1/ ECall:1/ RevOfFortune:1"+=soulbind=334066/329778/329784/329791/137:1/223:1/175:1
-profileset."Mentor/PCourage/CRites/VStrikes/ FAppetite:1/ OWTB:1/ RevOfFortune:1"+=soulbind=334066/329778/329784/329791/183:1/185:1/175:1
-profileset."Mentor/PCourage/CRites/VStrikes/ FAppetite:1/ Bloodlet:1/ RevOfFortune:1"+=soulbind=334066/329778/329784/329791/183:1/253:1/175:1
-profileset."Mentor/PCourage/CRites/VStrikes/ FAppetite:1/ ECall:1/ RevOfFortune:1"+=soulbind=334066/329778/329784/329791/183:1/223:1/175:1
-profileset."Mentor/PCourage/CRites/VStrikes/ OWTB:1/ Bloodlet:1/ RevOfFortune:1"+=soulbind=334066/329778/329784/329791/185:1/253:1/175:1
-profileset."Mentor/PCourage/CRites/VStrikes/ OWTB:1/ ECall:1/ RevOfFortune:1"+=soulbind=334066/329778/329784/329791/185:1/223:1/175:1
-profileset."Mentor/PCourage/CRites/VStrikes/ Bloodlet:1/ ECall:1/ RevOfFortune:1"+=soulbind=334066/329778/329784/329791/253:1/223:1/175:1
-profileset."Mentor/PCourage/EForward/VStrikes/ EMark:1/ FAppetite:1/ RevOfFortune:1"+=soulbind=334066/329778/328258/329791/137:1/183:1/175:1
-profileset."Mentor/PCourage/EForward/VStrikes/ EMark:1/ OWTB:1/ RevOfFortune:1"+=soulbind=334066/329778/328258/329791/137:1/185:1/175:1
-profileset."Mentor/PCourage/EForward/VStrikes/ EMark:1/ Bloodlet:1/ RevOfFortune:1"+=soulbind=334066/329778/328258/329791/137:1/253:1/175:1
-profileset."Mentor/PCourage/EForward/VStrikes/ EMark:1/ ECall:1/ RevOfFortune:1"+=soulbind=334066/329778/328258/329791/137:1/223:1/175:1
-profileset."Mentor/PCourage/EForward/VStrikes/ FAppetite:1/ OWTB:1/ RevOfFortune:1"+=soulbind=334066/329778/328258/329791/183:1/185:1/175:1
-profileset."Mentor/PCourage/EForward/VStrikes/ FAppetite:1/ Bloodlet:1/ RevOfFortune:1"+=soulbind=334066/329778/328258/329791/183:1/253:1/175:1
-profileset."Mentor/PCourage/EForward/VStrikes/ FAppetite:1/ ECall:1/ RevOfFortune:1"+=soulbind=334066/329778/328258/329791/183:1/223:1/175:1
-profileset."Mentor/PCourage/EForward/VStrikes/ OWTB:1/ Bloodlet:1/ RevOfFortune:1"+=soulbind=334066/329778/328258/329791/185:1/253:1/175:1
-profileset."Mentor/PCourage/EForward/VStrikes/ OWTB:1/ ECall:1/ RevOfFortune:1"+=soulbind=334066/329778/328258/329791/185:1/223:1/175:1
-profileset."Mentor/PCourage/EForward/VStrikes/ Bloodlet:1/ ECall:1/ RevOfFortune:1"+=soulbind=334066/329778/328258/329791/253:1/223:1/175:1
+profileset."AscPhial/RAAccolade/CRites/VStrikes/EMark:1/FAppetite:1/RevOfFortune:1"+=soulbind=329776/329781/329784/329791/137:1/183:1/175:1
+profileset."AscPhial/RAAccolade/CRites/VStrikes/EMark:1/OWTB:1/RevOfFortune:1"+=soulbind=329776/329781/329784/329791/137:1/185:1/175:1
+profileset."AscPhial/RAAccolade/CRites/VStrikes/EMark:1/Bloodlet:1/RevOfFortune:1"+=soulbind=329776/329781/329784/329791/137:1/253:1/175:1
+profileset."AscPhial/RAAccolade/CRites/VStrikes/EMark:1/ECall:1/RevOfFortune:1"+=soulbind=329776/329781/329784/329791/137:1/223:1/175:1
+profileset."AscPhial/RAAccolade/CRites/VStrikes/FAppetite:1/OWTB:1/RevOfFortune:1"+=soulbind=329776/329781/329784/329791/183:1/185:1/175:1
+profileset."AscPhial/RAAccolade/CRites/VStrikes/FAppetite:1/Bloodlet:1/RevOfFortune:1"+=soulbind=329776/329781/329784/329791/183:1/253:1/175:1
+profileset."AscPhial/RAAccolade/CRites/VStrikes/FAppetite:1/ECall:1/RevOfFortune:1"+=soulbind=329776/329781/329784/329791/183:1/223:1/175:1
+profileset."AscPhial/RAAccolade/CRites/VStrikes/OWTB:1/Bloodlet:1/RevOfFortune:1"+=soulbind=329776/329781/329784/329791/185:1/253:1/175:1
+profileset."AscPhial/RAAccolade/CRites/VStrikes/OWTB:1/ECall:1/RevOfFortune:1"+=soulbind=329776/329781/329784/329791/185:1/223:1/175:1
+profileset."AscPhial/RAAccolade/CRites/VStrikes/Bloodlet:1/ECall:1/RevOfFortune:1"+=soulbind=329776/329781/329784/329791/253:1/223:1/175:1
+profileset."AscPhial/RAAccolade/EForward/VStrikes/EMark:1/FAppetite:1/RevOfFortune:1"+=soulbind=329776/329781/328258/329791/137:1/183:1/175:1
+profileset."AscPhial/RAAccolade/EForward/VStrikes/EMark:1/OWTB:1/RevOfFortune:1"+=soulbind=329776/329781/328258/329791/137:1/185:1/175:1
+profileset."AscPhial/RAAccolade/EForward/VStrikes/EMark:1/Bloodlet:1/RevOfFortune:1"+=soulbind=329776/329781/328258/329791/137:1/253:1/175:1
+profileset."AscPhial/RAAccolade/EForward/VStrikes/EMark:1/ECall:1/RevOfFortune:1"+=soulbind=329776/329781/328258/329791/137:1/223:1/175:1
+profileset."AscPhial/RAAccolade/EForward/VStrikes/FAppetite:1/OWTB:1/RevOfFortune:1"+=soulbind=329776/329781/328258/329791/183:1/185:1/175:1
+profileset."AscPhial/RAAccolade/EForward/VStrikes/FAppetite:1/Bloodlet:1/RevOfFortune:1"+=soulbind=329776/329781/328258/329791/183:1/253:1/175:1
+profileset."AscPhial/RAAccolade/EForward/VStrikes/FAppetite:1/ECall:1/RevOfFortune:1"+=soulbind=329776/329781/328258/329791/183:1/223:1/175:1
+profileset."AscPhial/RAAccolade/EForward/VStrikes/OWTB:1/Bloodlet:1/RevOfFortune:1"+=soulbind=329776/329781/328258/329791/185:1/253:1/175:1
+profileset."AscPhial/RAAccolade/EForward/VStrikes/OWTB:1/ECall:1/RevOfFortune:1"+=soulbind=329776/329781/328258/329791/185:1/223:1/175:1
+profileset."AscPhial/RAAccolade/EForward/VStrikes/Bloodlet:1/ECall:1/RevOfFortune:1"+=soulbind=329776/329781/328258/329791/253:1/223:1/175:1
+profileset."AscPhial/BPursuit/CRites/VStrikes/EMark:1/RevOfFortune:1"+=soulbind=329776/329779/329784/329791/137:1/175:1
+profileset."AscPhial/BPursuit/CRites/VStrikes/FAppetite:1/RevOfFortune:1"+=soulbind=329776/329779/329784/329791/183:1/175:1
+profileset."AscPhial/BPursuit/CRites/VStrikes/OWTB:1/RevOfFortune:1"+=soulbind=329776/329779/329784/329791/185:1/175:1
+profileset."AscPhial/BPursuit/CRites/VStrikes/Bloodlet:1/RevOfFortune:1"+=soulbind=329776/329779/329784/329791/253:1/175:1
+profileset."AscPhial/BPursuit/CRites/VStrikes/ECall:1/RevOfFortune:1"+=soulbind=329776/329779/329784/329791/223:1/175:1
+profileset."AscPhial/BPursuit/EForward/VStrikes/EMark:1/RevOfFortune:1"+=soulbind=329776/329779/328258/329791/137:1/175:1
+profileset."AscPhial/BPursuit/EForward/VStrikes/FAppetite:1/RevOfFortune:1"+=soulbind=329776/329779/328258/329791/183:1/175:1
+profileset."AscPhial/BPursuit/EForward/VStrikes/OWTB:1/RevOfFortune:1"+=soulbind=329776/329779/328258/329791/185:1/175:1
+profileset."AscPhial/BPursuit/EForward/VStrikes/Bloodlet:1/RevOfFortune:1"+=soulbind=329776/329779/328258/329791/253:1/175:1
+profileset."AscPhial/BPursuit/EForward/VStrikes/ECall:1/RevOfFortune:1"+=soulbind=329776/329779/328258/329791/223:1/175:1
+profileset."AscPhial/PCourage/CRites/VStrikes/EMark:1/RevOfFortune:1"+=soulbind=329776/329778/329784/329791/137:1/175:1
+profileset."AscPhial/PCourage/CRites/VStrikes/FAppetite:1/RevOfFortune:1"+=soulbind=329776/329778/329784/329791/183:1/175:1
+profileset."AscPhial/PCourage/CRites/VStrikes/OWTB:1/RevOfFortune:1"+=soulbind=329776/329778/329784/329791/185:1/175:1
+profileset."AscPhial/PCourage/CRites/VStrikes/Bloodlet:1/RevOfFortune:1"+=soulbind=329776/329778/329784/329791/253:1/175:1
+profileset."AscPhial/PCourage/CRites/VStrikes/ECall:1/RevOfFortune:1"+=soulbind=329776/329778/329784/329791/223:1/175:1
+profileset."AscPhial/PCourage/EForward/VStrikes/EMark:1/RevOfFortune:1"+=soulbind=329776/329778/328258/329791/137:1/175:1
+profileset."AscPhial/PCourage/EForward/VStrikes/FAppetite:1/RevOfFortune:1"+=soulbind=329776/329778/328258/329791/183:1/175:1
+profileset."AscPhial/PCourage/EForward/VStrikes/OWTB:1/RevOfFortune:1"+=soulbind=329776/329778/328258/329791/185:1/175:1
+profileset."AscPhial/PCourage/EForward/VStrikes/Bloodlet:1/RevOfFortune:1"+=soulbind=329776/329778/328258/329791/253:1/175:1
+profileset."AscPhial/PCourage/EForward/VStrikes/ECall:1/RevOfFortune:1"+=soulbind=329776/329778/328258/329791/223:1/175:1
+profileset."Mentor/RAAccolade/CRites/VStrikes/EMark:1/FAppetite:1/OWTB:1"+=soulbind=334066/329781/329784/329791/137:1/183:1/185:1
+profileset."Mentor/RAAccolade/CRites/VStrikes/EMark:1/FAppetite:1/Bloodlet:1"+=soulbind=334066/329781/329784/329791/137:1/183:1/253:1
+profileset."Mentor/RAAccolade/CRites/VStrikes/EMark:1/FAppetite:1/ECall:1"+=soulbind=334066/329781/329784/329791/137:1/183:1/223:1
+profileset."Mentor/RAAccolade/CRites/VStrikes/EMark:1/OWTB:1/Bloodlet:1"+=soulbind=334066/329781/329784/329791/137:1/185:1/253:1
+profileset."Mentor/RAAccolade/CRites/VStrikes/EMark:1/OWTB:1/ECall:1"+=soulbind=334066/329781/329784/329791/137:1/185:1/223:1
+profileset."Mentor/RAAccolade/CRites/VStrikes/EMark:1/Bloodlet:1/ECall:1"+=soulbind=334066/329781/329784/329791/137:1/253:1/223:1
+profileset."Mentor/RAAccolade/CRites/VStrikes/FAppetite:1/OWTB:1/Bloodlet:1"+=soulbind=334066/329781/329784/329791/183:1/185:1/253:1
+profileset."Mentor/RAAccolade/CRites/VStrikes/FAppetite:1/OWTB:1/ECall:1"+=soulbind=334066/329781/329784/329791/183:1/185:1/223:1
+profileset."Mentor/RAAccolade/CRites/VStrikes/FAppetite:1/Bloodlet:1/ECall:1"+=soulbind=334066/329781/329784/329791/183:1/253:1/223:1
+profileset."Mentor/RAAccolade/CRites/VStrikes/OWTB:1/Bloodlet:1/ECall:1"+=soulbind=334066/329781/329784/329791/185:1/253:1/223:1
+profileset."Mentor/RAAccolade/EForward/VStrikes/EMark:1/FAppetite:1/OWTB:1"+=soulbind=334066/329781/328258/329791/137:1/183:1/185:1
+profileset."Mentor/RAAccolade/EForward/VStrikes/EMark:1/FAppetite:1/Bloodlet:1"+=soulbind=334066/329781/328258/329791/137:1/183:1/253:1
+profileset."Mentor/RAAccolade/EForward/VStrikes/EMark:1/FAppetite:1/ECall:1"+=soulbind=334066/329781/328258/329791/137:1/183:1/223:1
+profileset."Mentor/RAAccolade/EForward/VStrikes/EMark:1/OWTB:1/Bloodlet:1"+=soulbind=334066/329781/328258/329791/137:1/185:1/253:1
+profileset."Mentor/RAAccolade/EForward/VStrikes/EMark:1/OWTB:1/ECall:1"+=soulbind=334066/329781/328258/329791/137:1/185:1/223:1
+profileset."Mentor/RAAccolade/EForward/VStrikes/EMark:1/Bloodlet:1/ECall:1"+=soulbind=334066/329781/328258/329791/137:1/253:1/223:1
+profileset."Mentor/RAAccolade/EForward/VStrikes/FAppetite:1/OWTB:1/Bloodlet:1"+=soulbind=334066/329781/328258/329791/183:1/185:1/253:1
+profileset."Mentor/RAAccolade/EForward/VStrikes/FAppetite:1/OWTB:1/ECall:1"+=soulbind=334066/329781/328258/329791/183:1/185:1/223:1
+profileset."Mentor/RAAccolade/EForward/VStrikes/FAppetite:1/Bloodlet:1/ECall:1"+=soulbind=334066/329781/328258/329791/183:1/253:1/223:1
+profileset."Mentor/RAAccolade/EForward/VStrikes/OWTB:1/Bloodlet:1/ECall:1"+=soulbind=334066/329781/328258/329791/185:1/253:1/223:1
+profileset."Mentor/BPursuit/CRites/VStrikes/EMark:1/FAppetite:1"+=soulbind=334066/329779/329784/329791/137:1/183:1
+profileset."Mentor/BPursuit/CRites/VStrikes/EMark:1/OWTB:1"+=soulbind=334066/329779/329784/329791/137:1/185:1
+profileset."Mentor/BPursuit/CRites/VStrikes/EMark:1/Bloodlet:1"+=soulbind=334066/329779/329784/329791/137:1/253:1
+profileset."Mentor/BPursuit/CRites/VStrikes/EMark:1/ECall:1"+=soulbind=334066/329779/329784/329791/137:1/223:1
+profileset."Mentor/BPursuit/CRites/VStrikes/FAppetite:1/OWTB:1"+=soulbind=334066/329779/329784/329791/183:1/185:1
+profileset."Mentor/BPursuit/CRites/VStrikes/FAppetite:1/Bloodlet:1"+=soulbind=334066/329779/329784/329791/183:1/253:1
+profileset."Mentor/BPursuit/CRites/VStrikes/FAppetite:1/ECall:1"+=soulbind=334066/329779/329784/329791/183:1/223:1
+profileset."Mentor/BPursuit/CRites/VStrikes/OWTB:1/Bloodlet:1"+=soulbind=334066/329779/329784/329791/185:1/253:1
+profileset."Mentor/BPursuit/CRites/VStrikes/OWTB:1/ECall:1"+=soulbind=334066/329779/329784/329791/185:1/223:1
+profileset."Mentor/BPursuit/CRites/VStrikes/Bloodlet:1/ECall:1"+=soulbind=334066/329779/329784/329791/253:1/223:1
+profileset."Mentor/BPursuit/EForward/VStrikes/EMark:1/FAppetite:1"+=soulbind=334066/329779/328258/329791/137:1/183:1
+profileset."Mentor/BPursuit/EForward/VStrikes/EMark:1/OWTB:1"+=soulbind=334066/329779/328258/329791/137:1/185:1
+profileset."Mentor/BPursuit/EForward/VStrikes/EMark:1/Bloodlet:1"+=soulbind=334066/329779/328258/329791/137:1/253:1
+profileset."Mentor/BPursuit/EForward/VStrikes/EMark:1/ECall:1"+=soulbind=334066/329779/328258/329791/137:1/223:1
+profileset."Mentor/BPursuit/EForward/VStrikes/FAppetite:1/OWTB:1"+=soulbind=334066/329779/328258/329791/183:1/185:1
+profileset."Mentor/BPursuit/EForward/VStrikes/FAppetite:1/Bloodlet:1"+=soulbind=334066/329779/328258/329791/183:1/253:1
+profileset."Mentor/BPursuit/EForward/VStrikes/FAppetite:1/ECall:1"+=soulbind=334066/329779/328258/329791/183:1/223:1
+profileset."Mentor/BPursuit/EForward/VStrikes/OWTB:1/Bloodlet:1"+=soulbind=334066/329779/328258/329791/185:1/253:1
+profileset."Mentor/BPursuit/EForward/VStrikes/OWTB:1/ECall:1"+=soulbind=334066/329779/328258/329791/185:1/223:1
+profileset."Mentor/BPursuit/EForward/VStrikes/Bloodlet:1/ECall:1"+=soulbind=334066/329779/328258/329791/253:1/223:1
+profileset."Mentor/PCourage/CRites/VStrikes/EMark:1/FAppetite:1/RevOfFortune:1"+=soulbind=334066/329778/329784/329791/137:1/183:1/175:1
+profileset."Mentor/PCourage/CRites/VStrikes/EMark:1/OWTB:1/RevOfFortune:1"+=soulbind=334066/329778/329784/329791/137:1/185:1/175:1
+profileset."Mentor/PCourage/CRites/VStrikes/EMark:1/Bloodlet:1/RevOfFortune:1"+=soulbind=334066/329778/329784/329791/137:1/253:1/175:1
+profileset."Mentor/PCourage/CRites/VStrikes/EMark:1/ECall:1/RevOfFortune:1"+=soulbind=334066/329778/329784/329791/137:1/223:1/175:1
+profileset."Mentor/PCourage/CRites/VStrikes/FAppetite:1/OWTB:1/RevOfFortune:1"+=soulbind=334066/329778/329784/329791/183:1/185:1/175:1
+profileset."Mentor/PCourage/CRites/VStrikes/FAppetite:1/Bloodlet:1/RevOfFortune:1"+=soulbind=334066/329778/329784/329791/183:1/253:1/175:1
+profileset."Mentor/PCourage/CRites/VStrikes/FAppetite:1/ECall:1/RevOfFortune:1"+=soulbind=334066/329778/329784/329791/183:1/223:1/175:1
+profileset."Mentor/PCourage/CRites/VStrikes/OWTB:1/Bloodlet:1/RevOfFortune:1"+=soulbind=334066/329778/329784/329791/185:1/253:1/175:1
+profileset."Mentor/PCourage/CRites/VStrikes/OWTB:1/ECall:1/RevOfFortune:1"+=soulbind=334066/329778/329784/329791/185:1/223:1/175:1
+profileset."Mentor/PCourage/CRites/VStrikes/Bloodlet:1/ECall:1/RevOfFortune:1"+=soulbind=334066/329778/329784/329791/253:1/223:1/175:1
+profileset."Mentor/PCourage/EForward/VStrikes/EMark:1/FAppetite:1/RevOfFortune:1"+=soulbind=334066/329778/328258/329791/137:1/183:1/175:1
+profileset."Mentor/PCourage/EForward/VStrikes/EMark:1/OWTB:1/RevOfFortune:1"+=soulbind=334066/329778/328258/329791/137:1/185:1/175:1
+profileset."Mentor/PCourage/EForward/VStrikes/EMark:1/Bloodlet:1/RevOfFortune:1"+=soulbind=334066/329778/328258/329791/137:1/253:1/175:1
+profileset."Mentor/PCourage/EForward/VStrikes/EMark:1/ECall:1/RevOfFortune:1"+=soulbind=334066/329778/328258/329791/137:1/223:1/175:1
+profileset."Mentor/PCourage/EForward/VStrikes/FAppetite:1/OWTB:1/RevOfFortune:1"+=soulbind=334066/329778/328258/329791/183:1/185:1/175:1
+profileset."Mentor/PCourage/EForward/VStrikes/FAppetite:1/Bloodlet:1/RevOfFortune:1"+=soulbind=334066/329778/328258/329791/183:1/253:1/175:1
+profileset."Mentor/PCourage/EForward/VStrikes/FAppetite:1/ECall:1/RevOfFortune:1"+=soulbind=334066/329778/328258/329791/183:1/223:1/175:1
+profileset."Mentor/PCourage/EForward/VStrikes/OWTB:1/Bloodlet:1/RevOfFortune:1"+=soulbind=334066/329778/328258/329791/185:1/253:1/175:1
+profileset."Mentor/PCourage/EForward/VStrikes/OWTB:1/ECall:1/RevOfFortune:1"+=soulbind=334066/329778/328258/329791/185:1/223:1/175:1
+profileset."Mentor/PCourage/EForward/VStrikes/Bloodlet:1/ECall:1/RevOfFortune:1"+=soulbind=334066/329778/328258/329791/253:1/223:1/175:1

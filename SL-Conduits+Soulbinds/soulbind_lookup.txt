@@ -90,20 +90,20 @@
 341650,EAFlesh
 342156,EtConstruct
 342270,RWTiring
-137, EMark
-139, ERelease
-143, NBarrage
-140, SAttunement
-183, FAppetite
-185, OWTB
-253, Bloodlet
-223, ECall
-189, BProject
-192, DChain
-199, PPrecision
-188, SFocus
-251, DTandem
-252, FInfusion
-226, SStrike
-224, StrengthPack
-175, RevOfFortune
+137,EMark
+139,ERelease
+143,NBarrage
+140,SAttunement
+183,FAppetite
+185,OWTB
+253,Bloodlet
+223,ECall
+189,BProject
+192,DChain
+199,PPrecision
+188,SFocus
+251,DTandem
+252,FInfusion
+226,SStrike
+224,StrengthPack
+175,RevOfFortune
