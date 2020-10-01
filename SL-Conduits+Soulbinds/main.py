@@ -523,9 +523,9 @@ def main():
         quit()
 
 def generateCombos(spec, covenant, soulbind, rank):
-    print('Generating Profiles for ' + spec + '_' + covenant + '_' + soulbind + '_' + 'rank' + rank)
+    print('Generating Profiles for ' + spec + '_' + covenant + '_' + soulbind.replace(" ", "_") + '_' + 'rank' + rank)
     profile = ""
-    with open(spec + '/' + spec + '_' + covenant + '_' + soulbind + '_' + 'rank' + rank + '.simc', 'w') as outputfile:
+    with open(spec + '/' + spec + '_' + covenant + '_' + soulbind.replace(" ", "_") + '_' + 'rank' + rank + '.simc', 'w') as outputfile:
         outputfile.write(
             "#Replace this with your desired base profile /simc etc \n\ncovenant="
             + covenant + "\n")
