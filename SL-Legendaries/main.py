@@ -106,24 +106,24 @@ def generateLegendaries(spec, genericSelection, ilvlSelection, profileName, same
             firstLegSlot = sameSlotSelection if sameSlotWanted == 'y' else marksmanshipLegendaries[legendary][2]
 
             generatedProfile += f"copy={marksmanshipLegendaries[legendary][1]}_{firstLegSlot},{profileName}\n"
-            generatedProfile += f"{firstLegSlot}=,id={slotIds[firstLegSlot]},bonus_id={marksmanshipLegendaries[legendary][0]},ilevel={ilvlSelection}\n\n"
+            generatedProfile += f"{firstLegSlot}=,id={slotIds[firstLegSlot]},bonus_id={marksmanshipLegendaries[legendary][0]}{statBonusIDS},ilevel={ilvlSelection}\n\n"
 
             ## Second variation of the legendary
             secondLegSlot = sameSlotSelection if sameSlotWanted == 'y' else marksmanshipLegendaries[legendary][3]
             generatedProfile += f"copy={marksmanshipLegendaries[legendary][1]}_{secondLegSlot},{profileName}\n"
-            generatedProfile += f"{secondLegSlot}=,id={slotIds[secondLegSlot]},bonus_id={marksmanshipLegendaries[legendary][0]},ilevel={ilvlSelection}\n\n"
+            generatedProfile += f"{secondLegSlot}=,id={slotIds[secondLegSlot]},bonus_id={marksmanshipLegendaries[legendary][0]}{statBonusIDS},ilevel={ilvlSelection}\n\n"
     elif(spec == 'survival'):
         for legendary in survivalLegendaries:
             ## First variation of the legendary
             firstLegSlot = sameSlotSelection if sameSlotWanted == 'y' else survivalLegendaries[legendary][2]
 
             generatedProfile += f"copy={survivalLegendaries[legendary][1]}_{firstLegSlot},{profileName}\n"
-            generatedProfile += f"{firstLegSlot}=,id={slotIds[firstLegSlot]},bonus_id={survivalLegendaries[legendary][0]},ilevel={ilvlSelection}\n\n"
+            generatedProfile += f"{firstLegSlot}=,id={slotIds[firstLegSlot]},bonus_id={survivalLegendaries[legendary][0]}{statBonusIDS},ilevel={ilvlSelection}\n\n"
 
             ## Second variation of the legendary
             secondLegSlot = sameSlotSelection if sameSlotWanted == 'y' else survivalLegendaries[legendary][3]
             generatedProfile += f"copy={survivalLegendaries[legendary][1]}_{secondLegSlot},{profileName}\n"
-            generatedProfile += f"{secondLegSlot}=,id={slotIds[secondLegSlot]},bonus_id={survivalLegendaries[legendary][0]},ilevel={ilvlSelection}\n\n"
+            generatedProfile += f"{secondLegSlot}=,id={slotIds[secondLegSlot]},bonus_id={survivalLegendaries[legendary][0]}{statBonusIDS},ilevel={ilvlSelection}\n\n"
     else:
         print("Unknown spec")
         quit()
@@ -133,12 +133,12 @@ def generateLegendaries(spec, genericSelection, ilvlSelection, profileName, same
             firstLegSlot = sameSlotSelection if sameSlotWanted == 'y' else genericLegendaries[legendary][2]
 
             generatedProfile += f"copy={genericLegendaries[legendary][1]}_{firstLegSlot},{profileName}\n"
-            generatedProfile += f"{firstLegSlot}=,id={slotIds[firstLegSlot]},bonus_id={genericLegendaries[legendary][0]},ilevel={ilvlSelection}\n\n"
+            generatedProfile += f"{firstLegSlot}=,id={slotIds[firstLegSlot]},bonus_id={genericLegendaries[legendary][0]}{statBonusIDS},ilevel={ilvlSelection}\n\n"
 
             ## Second variation of the legendary
             secondLegSlot = sameSlotSelection if sameSlotWanted == 'y' else genericLegendaries[legendary][3]
             generatedProfile += f"copy={genericLegendaries[legendary][1]}_{secondLegSlot},{profileName}\n"
-            generatedProfile += f"{secondLegSlot}=,id={slotIds[secondLegSlot]},bonus_id={genericLegendaries[legendary][0]},ilevel={ilvlSelection}\n\n"
+            generatedProfile += f"{secondLegSlot}=,id={slotIds[secondLegSlot]},bonus_id={genericLegendaries[legendary][0]}{statBonusIDS},ilevel={ilvlSelection}\n\n"
     return generatedProfile
 
 def main():
@@ -176,6 +176,8 @@ def main():
                 continue
             print(stat, statIDs[stat][1])
         secondStatSelection = input()
+        firstStatName = statIDs[firstStatSelection][1]
+        secondStatName = statIDs[secondStatSelection][1]
         firstStatSelection = statIDs[firstStatSelection][0]
         secondStatSelection = statIDs[secondStatSelection][0]
     print("Do you want to generate in same slot? y/n")
@@ -193,7 +195,7 @@ def main():
         sameSlotSelection = slotIDKeyList[sameSlotSelection]
     profileName = specialProfileName if len(specialProfileName)>1 else spec + "_legendaries"
 
-    with open(spec + '/' + spec + '_legendaries' + '_ilvl' + str(ilvlSelection) + ('_' + sameSlotSelection if sameSlotWanted == 'y' else '') + '.simc', 'w') as outputfile:
+    with open(spec + '/' + spec + '_legendaries' + '_ilvl' + str(ilvlSelection) + ('_' + sameSlotSelection if sameSlotWanted == 'y' else '') + (('_' + firstStatName + '_' + secondStatName) if wantStats == 'y' else '') + '.simc', 'w') as outputfile:
         outputfile.write("##############################################################")
         outputfile.write("\n#Replace this with your desired base profile /simc etc ")
         outputfile.write("\n#Rename your simc import to \"" + profileName + "\" \n")

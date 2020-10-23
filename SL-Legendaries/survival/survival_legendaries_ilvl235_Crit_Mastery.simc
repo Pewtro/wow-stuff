@@ -1,0 +1,56 @@
+##############################################################
+#Replace this with your desired base profile /simc etc 
+#Rename your simc import to "survival_legendaries" 
+##############################################################
+default_actions=1
+chart_show_relative_difference=1
+
+
+copy=Wildfire Cluster_waist,survival_legendaries
+waist=,id=172328,bonus_id=7015/6647/6648,ilevel=235
+
+copy=Wildfire Cluster_legs,survival_legendaries
+legs=,id=172326,bonus_id=7015/6647/6648,ilevel=235
+
+copy=Rylakstalker's Confounding Strikes_legs,survival_legendaries
+legs=,id=172326,bonus_id=7016/6647/6648,ilevel=235
+
+copy=Rylakstalker's Confounding Strikes_back,survival_legendaries
+back=,id=173242,bonus_id=7016/6647/6648,ilevel=235
+
+copy=Latent Poison Injectors_head,survival_legendaries
+head=,id=172325,bonus_id=7017/6647/6648,ilevel=235
+
+copy=Latent Poison Injectors_hands,survival_legendaries
+hands=,id=172324,bonus_id=7017/6647/6648,ilevel=235
+
+copy=Butcher's Bone Fragments_chest,survival_legendaries
+chest=,id=172322,bonus_id=7018/6647/6648,ilevel=235
+
+copy=Butcher's Bone Fragments_back,survival_legendaries
+back=,id=173242,bonus_id=7018/6647/6648,ilevel=235
+
+copy=Call of the Wild_wrist,survival_legendaries
+wrist=,id=172329,bonus_id=7003/6647/6648,ilevel=235
+
+copy=Call of the Wild_finger1,survival_legendaries
+finger1=,id=178926,bonus_id=7003/6647/6648,ilevel=235
+
+copy=Nessingwary's Trapping Apparatus_waist,survival_legendaries
+waist=,id=172328,bonus_id=7004/6647/6648,ilevel=235
+
+copy=Nessingwary's Trapping Apparatus_feet,survival_legendaries
+feet=,id=172323,bonus_id=7004/6647/6648,ilevel=235
+
+copy=Soulforge Embers_head,survival_legendaries
+head=,id=172325,bonus_id=7005/6647/6648,ilevel=235
+
+copy=Soulforge Embers_shoulder,survival_legendaries
+shoulder=,id=172327,bonus_id=7005/6647/6648,ilevel=235
+
+copy=Craven Strategem_neck,survival_legendaries
+neck=,id=178927,bonus_id=7006/6647/6648,ilevel=235
+
+copy=Craven Strategem_chest,survival_legendaries
+chest=,id=172322,bonus_id=7006/6647/6648,ilevel=235
+
